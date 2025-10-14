@@ -1,0 +1,4001 @@
+Gender,Shape,Shoulder,Bust,Waist,Hip,Height
+Female,Hourglass,40,104,67,95,176
+Female,Hourglass,40,93,65,105,157
+Female,Hourglass,44,100,61,105,151
+Female,Hourglass,38,96,69,101,150
+Female,Hourglass,39,104,62,102,185
+Female,Hourglass,39,97,62,95,181
+Female,Hourglass,42,103,66,103,177
+Female,Hourglass,39,99,71,101,170
+Female,Hourglass,39,96,72,102,170
+Female,Hourglass,41,95,72,91,185
+Female,Hourglass,39,97,67,100,171
+Female,Hourglass,44,97,75,105,184
+Female,Hourglass,44,94,65,93,154
+Female,Hourglass,41,102,70,93,164
+Female,Hourglass,40,100,63,91,181
+Female,Hourglass,41,97,75,96,150
+Female,Hourglass,39,90,74,92,164
+Female,Hourglass,41,91,64,92,184
+Female,Hourglass,44,103,75,91,181
+Female,Hourglass,44,101,66,102,157
+Female,Hourglass,44,90,70,100,165
+Female,Hourglass,38,90,68,97,181
+Female,Hourglass,42,90,71,99,181
+Female,Hourglass,39,101,66,98,183
+Female,Hourglass,44,105,61,97,163
+Female,Hourglass,43,96,73,94,167
+Female,Hourglass,44,99,73,91,185
+Female,Hourglass,44,100,67,91,166
+Female,Hourglass,41,93,63,92,152
+Female,Hourglass,44,97,71,92,162
+Female,Hourglass,40,100,60,98,161
+Female,Hourglass,44,90,68,93,179
+Female,Hourglass,40,92,75,100,182
+Female,Hourglass,38,97,69,97,167
+Female,Hourglass,39,103,69,104,158
+Female,Hourglass,42,96,70,93,173
+Female,Hourglass,38,95,75,92,168
+Female,Hourglass,43,97,66,100,173
+Female,Hourglass,44,97,61,103,172
+Female,Hourglass,42,90,68,98,156
+Female,Hourglass,38,99,72,104,150
+Female,Hourglass,43,100,60,101,154
+Female,Hourglass,42,105,71,90,185
+Female,Hourglass,44,101,69,98,164
+Female,Hourglass,42,91,62,99,175
+Female,Hourglass,41,91,60,101,178
+Female,Hourglass,43,102,73,91,171
+Female,Hourglass,41,96,73,104,150
+Female,Hourglass,40,93,72,90,164
+Female,Hourglass,38,105,63,93,168
+Female,Hourglass,41,102,65,104,153
+Female,Hourglass,39,98,74,102,172
+Female,Hourglass,42,96,72,90,155
+Female,Hourglass,39,93,61,92,175
+Female,Hourglass,43,104,75,101,164
+Female,Hourglass,38,105,66,95,152
+Female,Hourglass,41,94,66,104,173
+Female,Hourglass,40,93,66,99,152
+Female,Hourglass,42,92,62,92,179
+Female,Hourglass,44,94,69,94,162
+Female,Hourglass,38,92,67,90,179
+Female,Hourglass,44,98,61,97,179
+Female,Hourglass,41,100,73,92,162
+Female,Hourglass,44,99,73,97,176
+Female,Hourglass,44,100,64,90,164
+Female,Hourglass,43,90,67,103,151
+Female,Hourglass,42,101,70,97,167
+Female,Hourglass,44,103,61,98,165
+Female,Hourglass,41,98,68,91,154
+Female,Hourglass,40,98,63,95,181
+Female,Hourglass,38,96,65,94,169
+Female,Hourglass,41,102,71,92,169
+Female,Hourglass,40,97,62,93,155
+Female,Hourglass,43,98,68,99,173
+Female,Hourglass,43,104,69,104,156
+Female,Hourglass,43,101,71,104,155
+Female,Hourglass,38,96,67,90,153
+Female,Hourglass,40,96,74,98,185
+Female,Hourglass,38,92,73,95,169
+Female,Hourglass,41,104,71,90,176
+Female,Hourglass,38,92,72,100,167
+Female,Hourglass,43,98,74,96,151
+Female,Hourglass,43,97,66,104,164
+Female,Hourglass,40,93,72,94,150
+Female,Hourglass,39,100,74,100,153
+Female,Hourglass,41,97,72,90,181
+Female,Hourglass,42,102,64,96,174
+Female,Hourglass,39,94,75,96,164
+Female,Hourglass,44,102,60,96,184
+Female,Hourglass,42,100,70,103,150
+Female,Hourglass,39,92,75,104,178
+Female,Hourglass,38,97,75,97,168
+Female,Hourglass,42,102,73,100,181
+Female,Hourglass,43,103,62,104,159
+Female,Hourglass,40,97,69,96,170
+Female,Hourglass,43,98,64,103,159
+Female,Hourglass,39,90,71,101,175
+Female,Hourglass,39,101,69,91,177
+Female,Hourglass,39,92,61,102,164
+Female,Hourglass,39,98,65,101,181
+Female,Hourglass,38,91,75,91,151
+Female,Hourglass,40,103,70,93,152
+Female,Hourglass,40,98,61,103,176
+Female,Hourglass,44,103,71,97,159
+Female,Hourglass,39,91,75,97,162
+Female,Hourglass,43,90,65,105,150
+Female,Hourglass,44,100,65,96,180
+Female,Hourglass,38,90,64,93,166
+Female,Hourglass,39,95,61,94,158
+Female,Hourglass,38,92,74,93,156
+Female,Hourglass,44,95,61,105,166
+Female,Hourglass,42,98,70,96,173
+Female,Hourglass,44,92,62,90,165
+Female,Hourglass,40,93,72,95,179
+Female,Hourglass,38,98,68,93,178
+Female,Hourglass,42,105,60,95,155
+Female,Hourglass,38,95,64,99,165
+Female,Hourglass,43,96,64,105,160
+Female,Hourglass,40,100,60,93,161
+Female,Hourglass,39,95,64,90,156
+Female,Hourglass,42,98,63,92,154
+Female,Hourglass,41,103,73,91,160
+Female,Hourglass,38,103,64,104,159
+Female,Hourglass,43,96,65,94,166
+Female,Hourglass,42,91,66,103,153
+Female,Hourglass,41,102,73,102,159
+Female,Hourglass,38,95,74,100,168
+Female,Hourglass,44,93,75,90,154
+Female,Hourglass,44,105,61,93,180
+Female,Hourglass,44,100,60,97,169
+Female,Hourglass,41,91,66,91,184
+Female,Hourglass,40,95,60,92,184
+Female,Hourglass,43,93,74,105,175
+Female,Hourglass,40,91,69,99,152
+Female,Hourglass,44,97,66,98,179
+Female,Hourglass,42,96,63,105,167
+Female,Hourglass,38,90,71,95,164
+Female,Hourglass,41,96,63,94,158
+Female,Hourglass,39,92,68,101,160
+Female,Hourglass,38,92,74,98,162
+Female,Hourglass,43,99,70,90,154
+Female,Hourglass,40,99,62,92,161
+Female,Hourglass,38,101,64,104,167
+Female,Hourglass,41,96,68,99,178
+Female,Hourglass,44,96,65,99,159
+Female,Hourglass,43,96,70,104,156
+Female,Hourglass,41,95,71,104,177
+Female,Hourglass,40,94,61,94,185
+Female,Hourglass,38,97,68,96,153
+Female,Hourglass,43,102,74,92,160
+Female,Hourglass,44,90,74,98,172
+Female,Hourglass,44,98,63,99,161
+Female,Hourglass,43,98,72,99,176
+Female,Hourglass,39,98,74,105,177
+Female,Hourglass,44,105,64,92,156
+Female,Hourglass,40,92,71,104,167
+Female,Hourglass,41,96,60,103,173
+Female,Hourglass,38,93,68,96,170
+Female,Hourglass,41,92,75,104,161
+Female,Hourglass,44,95,63,94,160
+Female,Hourglass,38,103,73,98,185
+Female,Hourglass,40,99,68,90,167
+Female,Hourglass,39,90,61,95,184
+Female,Hourglass,41,102,63,103,163
+Female,Hourglass,38,102,65,97,166
+Female,Hourglass,38,93,69,90,165
+Female,Hourglass,39,94,64,103,171
+Female,Hourglass,43,101,65,102,150
+Female,Hourglass,40,97,71,100,163
+Female,Hourglass,44,95,66,96,169
+Female,Hourglass,44,101,74,96,176
+Female,Hourglass,44,103,72,101,156
+Female,Hourglass,42,90,75,90,155
+Female,Hourglass,43,105,67,97,178
+Female,Hourglass,41,105,74,95,185
+Female,Hourglass,38,101,68,96,168
+Female,Hourglass,43,91,62,95,163
+Female,Hourglass,43,95,72,105,171
+Female,Hourglass,44,98,62,92,165
+Female,Hourglass,44,96,65,93,153
+Female,Hourglass,39,103,71,100,185
+Female,Hourglass,40,105,64,104,168
+Female,Hourglass,43,98,64,103,152
+Female,Hourglass,44,100,66,103,155
+Female,Hourglass,42,99,72,105,176
+Female,Hourglass,41,99,70,91,157
+Female,Hourglass,44,91,70,104,183
+Female,Hourglass,44,99,69,94,173
+Female,Hourglass,38,93,71,94,179
+Female,Hourglass,42,92,63,94,174
+Female,Hourglass,44,103,75,91,174
+Female,Hourglass,43,105,63,93,160
+Female,Hourglass,40,101,64,91,165
+Female,Hourglass,39,94,70,96,152
+Female,Hourglass,43,92,72,98,177
+Female,Hourglass,44,105,66,95,150
+Female,Hourglass,40,105,65,91,168
+Female,Hourglass,44,104,63,101,153
+Female,Hourglass,41,103,70,102,173
+Female,Hourglass,43,102,74,91,161
+Female,Hourglass,40,101,75,95,175
+Female,Hourglass,42,104,69,92,184
+Female,Hourglass,39,94,73,93,174
+Female,Hourglass,38,90,63,90,174
+Female,Hourglass,44,104,62,96,151
+Female,Hourglass,38,104,68,94,168
+Female,Hourglass,40,98,74,94,174
+Female,Hourglass,43,93,60,99,162
+Female,Hourglass,38,95,72,104,163
+Female,Hourglass,43,100,75,97,166
+Female,Hourglass,38,97,66,94,155
+Female,Hourglass,38,100,74,103,167
+Female,Hourglass,38,93,62,91,172
+Female,Hourglass,39,97,69,100,159
+Female,Hourglass,43,99,64,91,168
+Female,Hourglass,38,96,73,105,161
+Female,Hourglass,43,97,61,102,180
+Female,Hourglass,38,94,69,104,156
+Female,Hourglass,40,100,63,92,160
+Female,Hourglass,43,91,68,97,161
+Female,Hourglass,38,103,64,104,182
+Female,Hourglass,40,99,67,101,160
+Female,Hourglass,44,104,72,92,159
+Female,Hourglass,42,93,68,93,154
+Female,Hourglass,41,104,73,94,164
+Female,Hourglass,43,94,71,100,167
+Female,Hourglass,41,104,66,99,178
+Female,Hourglass,40,101,71,96,156
+Female,Hourglass,43,100,75,100,169
+Female,Hourglass,44,98,73,102,167
+Female,Hourglass,41,98,75,100,162
+Female,Hourglass,40,94,70,99,163
+Female,Hourglass,43,92,67,92,157
+Female,Hourglass,39,103,69,104,179
+Female,Hourglass,44,91,71,98,158
+Female,Hourglass,44,104,71,94,154
+Female,Hourglass,43,93,73,96,185
+Female,Hourglass,42,95,62,95,179
+Female,Hourglass,38,102,61,103,152
+Female,Hourglass,39,104,64,104,159
+Female,Hourglass,41,103,70,96,171
+Female,Hourglass,39,105,70,90,183
+Female,Hourglass,38,103,74,97,177
+Female,Hourglass,42,92,75,93,176
+Female,Hourglass,39,101,68,92,159
+Female,Hourglass,41,94,64,96,179
+Female,Hourglass,39,93,74,91,182
+Female,Hourglass,41,104,62,105,172
+Female,Hourglass,41,92,60,93,182
+Female,Hourglass,40,103,71,93,158
+Female,Hourglass,43,90,66,103,183
+Female,Hourglass,38,91,69,96,159
+Female,Hourglass,40,98,65,101,166
+Female,Hourglass,41,100,64,98,162
+Female,Hourglass,43,90,62,105,168
+Female,Hourglass,41,90,67,99,166
+Female,Hourglass,41,101,75,103,153
+Female,Hourglass,42,98,67,96,168
+Female,Hourglass,44,101,68,91,164
+Female,Hourglass,40,104,60,92,166
+Female,Hourglass,44,98,66,95,153
+Female,Hourglass,39,96,62,105,185
+Female,Hourglass,39,101,72,105,185
+Female,Hourglass,42,103,63,101,165
+Female,Hourglass,38,104,63,104,182
+Female,Hourglass,38,97,62,100,171
+Female,Hourglass,40,90,65,96,162
+Female,Hourglass,41,94,63,90,153
+Female,Hourglass,40,105,75,91,173
+Female,Hourglass,39,100,72,95,163
+Female,Hourglass,38,103,72,105,183
+Female,Hourglass,40,99,68,101,178
+Female,Hourglass,38,97,60,96,169
+Female,Hourglass,39,101,67,92,162
+Female,Hourglass,41,101,69,99,179
+Female,Hourglass,40,90,69,101,160
+Female,Hourglass,40,105,64,90,167
+Female,Hourglass,40,92,70,99,172
+Female,Hourglass,41,105,72,94,182
+Female,Hourglass,43,97,64,99,161
+Female,Hourglass,39,103,72,101,184
+Female,Hourglass,39,102,71,94,157
+Female,Hourglass,42,92,72,99,172
+Female,Hourglass,38,94,62,95,179
+Female,Hourglass,41,94,75,96,159
+Female,Hourglass,44,100,65,91,150
+Female,Hourglass,41,97,60,94,184
+Female,Hourglass,41,103,67,94,178
+Female,Hourglass,44,94,65,99,154
+Female,Hourglass,41,95,61,99,163
+Female,Hourglass,43,105,67,99,165
+Female,Hourglass,39,94,69,101,173
+Female,Hourglass,44,93,62,99,162
+Female,Hourglass,40,102,64,105,180
+Female,Hourglass,41,96,67,103,175
+Female,Hourglass,42,90,60,102,156
+Female,Hourglass,43,97,63,104,167
+Female,Hourglass,39,97,73,103,151
+Female,Hourglass,42,103,74,93,185
+Female,Hourglass,43,103,69,92,169
+Female,Hourglass,42,103,62,101,174
+Female,Hourglass,39,103,74,91,178
+Female,Hourglass,40,92,65,91,168
+Female,Hourglass,42,92,70,104,170
+Female,Hourglass,39,103,69,96,174
+Female,Hourglass,39,99,62,94,173
+Female,Hourglass,39,101,69,99,180
+Female,Hourglass,43,94,60,99,183
+Female,Hourglass,42,100,64,98,150
+Female,Hourglass,41,98,71,94,161
+Female,Hourglass,43,92,60,98,153
+Female,Hourglass,43,104,65,93,161
+Female,Hourglass,38,100,66,100,150
+Female,Hourglass,41,93,62,97,150
+Female,Hourglass,42,100,62,93,181
+Female,Hourglass,39,97,69,91,161
+Female,Hourglass,39,96,75,97,150
+Female,Hourglass,42,99,72,92,179
+Female,Hourglass,39,99,71,93,168
+Female,Hourglass,38,93,60,101,153
+Female,Hourglass,44,105,63,100,163
+Female,Hourglass,38,105,66,102,164
+Female,Hourglass,42,104,60,102,170
+Female,Hourglass,40,100,69,95,155
+Female,Hourglass,41,102,68,98,155
+Female,Hourglass,43,105,67,104,168
+Female,Hourglass,39,100,68,104,152
+Female,Hourglass,41,94,75,91,162
+Female,Hourglass,38,104,63,95,156
+Female,Hourglass,44,102,61,95,153
+Female,Hourglass,43,104,64,102,173
+Female,Hourglass,39,100,64,98,161
+Female,Hourglass,44,102,66,92,163
+Female,Hourglass,38,97,61,99,158
+Female,Hourglass,43,105,67,99,170
+Female,Hourglass,42,102,74,98,182
+Female,Hourglass,40,97,62,105,167
+Female,Hourglass,42,94,72,100,176
+Female,Hourglass,38,104,71,102,167
+Female,Hourglass,40,90,64,98,180
+Female,Hourglass,44,98,73,92,172
+Female,Hourglass,39,103,69,92,160
+Female,Hourglass,38,92,75,93,179
+Female,Hourglass,40,99,65,103,169
+Female,Hourglass,38,99,61,97,154
+Female,Hourglass,41,104,74,105,181
+Female,Hourglass,42,101,61,92,164
+Female,Hourglass,43,102,61,91,171
+Female,Hourglass,43,94,72,93,178
+Female,Hourglass,38,93,69,100,153
+Female,Hourglass,40,92,69,104,162
+Female,Hourglass,41,97,70,96,164
+Female,Hourglass,38,100,69,95,181
+Female,Hourglass,38,102,74,98,167
+Female,Hourglass,44,104,66,93,152
+Female,Hourglass,43,91,69,96,167
+Female,Hourglass,39,90,73,105,171
+Female,Hourglass,38,105,60,96,153
+Female,Hourglass,38,93,74,100,154
+Female,Hourglass,42,97,74,103,185
+Female,Hourglass,41,99,72,96,151
+Female,Hourglass,41,92,67,105,181
+Female,Hourglass,40,94,66,96,164
+Female,Hourglass,38,102,68,96,166
+Female,Hourglass,40,95,63,100,183
+Female,Hourglass,39,99,61,90,173
+Female,Hourglass,44,91,69,96,163
+Female,Hourglass,42,103,66,104,152
+Female,Hourglass,39,99,74,103,160
+Female,Hourglass,40,101,65,102,170
+Female,Hourglass,39,97,68,98,185
+Female,Hourglass,41,98,69,98,156
+Female,Hourglass,40,93,72,97,162
+Female,Hourglass,39,92,69,90,165
+Female,Hourglass,38,102,69,102,179
+Female,Hourglass,40,104,64,96,151
+Female,Hourglass,41,95,65,98,152
+Female,Hourglass,40,102,64,102,163
+Female,Hourglass,41,91,65,104,177
+Female,Hourglass,38,105,63,100,182
+Female,Hourglass,38,98,64,98,184
+Female,Hourglass,38,103,64,100,166
+Female,Hourglass,40,91,62,105,159
+Female,Hourglass,42,104,71,91,157
+Female,Hourglass,44,97,62,105,156
+Female,Hourglass,40,94,75,90,166
+Female,Hourglass,40,100,68,99,181
+Female,Hourglass,43,97,68,95,177
+Female,Hourglass,38,95,66,104,175
+Female,Hourglass,39,105,61,101,161
+Female,Hourglass,41,93,68,91,155
+Female,Hourglass,38,97,74,97,152
+Female,Hourglass,40,105,65,105,158
+Female,Hourglass,39,101,70,100,177
+Female,Hourglass,40,96,65,101,174
+Female,Hourglass,41,97,72,103,159
+Female,Hourglass,39,91,74,101,163
+Female,Hourglass,42,95,68,96,172
+Female,Hourglass,41,101,64,99,178
+Female,Hourglass,41,105,62,95,171
+Female,Hourglass,41,104,61,97,160
+Female,Hourglass,43,104,71,95,167
+Female,Hourglass,40,95,74,98,164
+Female,Hourglass,38,101,65,96,178
+Female,Hourglass,38,97,60,102,185
+Female,Hourglass,40,95,62,90,156
+Female,Hourglass,43,90,71,93,150
+Female,Hourglass,39,100,72,95,173
+Female,Hourglass,42,91,67,92,164
+Female,Hourglass,42,100,68,93,175
+Female,Hourglass,39,91,62,104,151
+Female,Hourglass,42,99,60,103,161
+Female,Hourglass,42,91,60,94,170
+Female,Hourglass,40,97,70,104,184
+Female,Hourglass,41,99,73,101,158
+Female,Hourglass,38,101,70,100,156
+Female,Hourglass,41,101,72,98,178
+Female,Hourglass,39,95,74,92,170
+Female,Hourglass,40,102,61,97,162
+Female,Hourglass,38,90,63,92,157
+Female,Hourglass,39,101,75,92,171
+Female,Hourglass,38,97,69,91,175
+Female,Hourglass,43,101,68,103,166
+Female,Hourglass,40,105,67,97,175
+Female,Hourglass,41,94,65,94,172
+Female,Hourglass,44,95,67,105,172
+Female,Hourglass,38,92,75,102,158
+Female,Hourglass,40,102,67,98,175
+Female,Hourglass,42,98,75,101,177
+Female,Hourglass,43,93,65,104,181
+Female,Hourglass,38,99,64,97,178
+Female,Hourglass,38,101,74,95,169
+Female,Hourglass,43,102,60,101,177
+Female,Hourglass,38,97,73,98,185
+Female,Hourglass,44,104,64,105,159
+Female,Hourglass,38,100,66,102,150
+Female,Hourglass,44,97,73,97,158
+Female,Hourglass,44,91,73,99,150
+Female,Hourglass,43,98,71,91,174
+Female,Hourglass,43,104,71,97,162
+Female,Hourglass,40,97,61,105,152
+Female,Hourglass,38,92,64,104,155
+Female,Hourglass,43,92,73,90,178
+Female,Hourglass,41,100,61,91,173
+Female,Hourglass,44,96,69,100,152
+Female,Hourglass,41,103,66,92,182
+Female,Hourglass,40,95,69,95,164
+Female,Hourglass,42,93,70,99,165
+Female,Hourglass,41,94,64,96,172
+Female,Hourglass,40,100,60,101,180
+Female,Hourglass,43,93,73,93,161
+Female,Hourglass,44,105,60,100,181
+Female,Hourglass,43,96,72,102,154
+Female,Hourglass,39,99,64,97,168
+Female,Hourglass,40,104,73,94,161
+Female,Hourglass,44,94,64,99,185
+Female,Hourglass,38,93,64,93,171
+Female,Hourglass,43,103,74,91,171
+Female,Hourglass,44,91,65,96,166
+Female,Hourglass,39,96,74,99,183
+Female,Hourglass,44,96,68,99,174
+Female,Hourglass,41,96,62,91,162
+Female,Hourglass,44,92,66,100,175
+Female,Hourglass,44,100,67,92,173
+Female,Hourglass,38,96,69,97,167
+Female,Hourglass,40,95,73,98,164
+Female,Hourglass,38,98,66,98,157
+Female,Hourglass,40,96,70,105,154
+Female,Hourglass,38,97,63,93,168
+Female,Hourglass,41,102,68,104,170
+Female,Hourglass,41,92,70,95,166
+Female,Hourglass,41,94,75,101,155
+Female,Hourglass,40,91,62,100,184
+Female,Hourglass,42,101,68,93,168
+Female,Hourglass,44,98,60,100,167
+Female,Hourglass,38,94,69,104,175
+Female,Hourglass,39,105,60,97,167
+Female,Hourglass,40,92,75,105,180
+Female,Hourglass,39,90,69,99,157
+Female,Hourglass,40,94,63,93,167
+Female,Hourglass,40,96,63,94,158
+Female,Hourglass,42,94,62,102,170
+Female,Hourglass,42,95,73,96,161
+Female,Hourglass,43,92,71,96,185
+Female,Hourglass,41,98,60,105,177
+Female,Hourglass,39,104,60,101,160
+Female,Hourglass,43,102,66,98,171
+Female,Hourglass,43,97,74,92,168
+Female,Hourglass,42,93,71,90,169
+Female,Hourglass,40,93,61,96,155
+Female,Hourglass,38,94,73,95,161
+Female,Hourglass,44,96,69,102,151
+Female,Hourglass,39,101,70,100,152
+Female,Hourglass,44,94,62,92,184
+Female,Hourglass,42,105,65,102,160
+Female,Hourglass,39,102,74,94,165
+Female,Hourglass,43,93,70,92,166
+Female,Hourglass,38,104,67,93,160
+Female,Hourglass,38,102,64,103,161
+Female,Hourglass,38,93,62,103,152
+Female,Pear,40,90,69,106,153
+Female,Pear,40,84,66,98,164
+Female,Pear,36,92,65,109,160
+Female,Pear,41,95,67,99,155
+Female,Pear,36,82,73,96,165
+Female,Pear,36,89,73,107,179
+Female,Pear,37,91,73,104,174
+Female,Pear,38,95,68,100,174
+Female,Pear,36,82,67,108,167
+Female,Pear,41,84,65,109,176
+Female,Pear,40,89,73,102,184
+Female,Pear,37,87,70,101,154
+Female,Pear,40,81,70,100,163
+Female,Pear,42,89,75,100,151
+Female,Pear,37,85,65,107,172
+Female,Pear,37,85,72,109,162
+Female,Pear,40,89,73,98,179
+Female,Pear,36,90,65,109,182
+Female,Pear,39,86,65,103,177
+Female,Pear,41,81,71,95,152
+Female,Pear,36,85,66,109,178
+Female,Pear,40,91,65,95,168
+Female,Pear,37,88,75,96,183
+Female,Pear,41,90,72,96,175
+Female,Pear,42,87,65,99,160
+Female,Pear,41,88,74,108,162
+Female,Pear,41,87,65,96,179
+Female,Pear,41,86,65,95,173
+Female,Pear,38,85,75,100,159
+Female,Pear,40,88,68,98,177
+Female,Pear,41,94,67,104,152
+Female,Pear,37,80,65,104,180
+Female,Pear,39,85,66,101,181
+Female,Pear,41,94,68,99,181
+Female,Pear,38,92,73,96,175
+Female,Pear,36,93,65,102,175
+Female,Pear,37,91,75,110,184
+Female,Pear,40,90,71,100,181
+Female,Pear,37,88,70,105,157
+Female,Pear,37,89,71,95,174
+Female,Pear,36,87,66,107,183
+Female,Pear,42,91,65,105,151
+Female,Pear,39,82,71,95,165
+Female,Pear,37,80,74,106,153
+Female,Pear,38,90,66,102,172
+Female,Pear,41,84,69,109,153
+Female,Pear,42,87,69,106,154
+Female,Pear,36,86,72,100,174
+Female,Pear,42,90,70,102,154
+Female,Pear,39,84,68,98,171
+Female,Pear,41,87,67,99,172
+Female,Pear,39,90,69,98,151
+Female,Pear,39,86,75,108,180
+Female,Pear,39,86,69,104,163
+Female,Pear,38,80,74,109,165
+Female,Pear,37,93,72,97,158
+Female,Pear,36,91,70,102,157
+Female,Pear,36,91,68,106,174
+Female,Pear,36,87,73,109,151
+Female,Pear,38,92,75,109,159
+Female,Pear,36,94,74,96,173
+Female,Pear,42,87,75,101,173
+Female,Pear,42,95,73,95,175
+Female,Pear,42,82,66,103,162
+Female,Pear,39,92,69,97,150
+Female,Pear,36,89,67,105,173
+Female,Pear,41,88,65,99,154
+Female,Pear,42,88,69,105,182
+Female,Pear,37,92,75,105,164
+Female,Pear,36,88,73,95,161
+Female,Pear,39,92,75,99,169
+Female,Pear,40,83,66,100,180
+Female,Pear,41,93,67,99,183
+Female,Pear,41,80,73,109,183
+Female,Pear,38,87,65,97,163
+Female,Pear,41,84,73,96,155
+Female,Pear,39,81,68,105,182
+Female,Pear,42,82,75,107,175
+Female,Pear,41,92,74,98,174
+Female,Pear,36,86,65,105,155
+Female,Pear,37,87,67,95,173
+Female,Pear,39,91,67,95,181
+Female,Pear,38,80,71,109,180
+Female,Pear,37,92,69,100,158
+Female,Pear,42,80,71,95,157
+Female,Pear,42,89,74,100,180
+Female,Pear,36,93,71,105,159
+Female,Pear,39,87,74,99,157
+Female,Pear,41,89,74,98,167
+Female,Pear,41,86,72,109,159
+Female,Pear,40,93,73,105,150
+Female,Pear,42,87,70,107,183
+Female,Pear,38,81,75,102,158
+Female,Pear,40,85,74,108,183
+Female,Pear,39,91,72,108,164
+Female,Pear,39,86,74,96,153
+Female,Pear,39,80,74,108,153
+Female,Pear,41,83,65,106,156
+Female,Pear,38,80,71,108,160
+Female,Pear,42,88,65,103,153
+Female,Pear,39,91,72,101,158
+Female,Pear,38,82,68,103,174
+Female,Pear,37,93,68,98,167
+Female,Pear,38,93,70,108,168
+Female,Pear,36,90,72,104,181
+Female,Pear,42,94,65,103,161
+Female,Pear,42,80,71,96,184
+Female,Pear,38,83,66,95,171
+Female,Pear,37,89,66,109,176
+Female,Pear,41,87,70,100,183
+Female,Pear,42,82,69,99,162
+Female,Pear,39,80,72,102,177
+Female,Pear,41,82,67,98,155
+Female,Pear,39,90,69,102,169
+Female,Pear,42,82,65,103,175
+Female,Pear,37,86,68,104,180
+Female,Pear,41,89,68,105,168
+Female,Pear,42,89,67,98,153
+Female,Pear,39,95,67,105,154
+Female,Pear,42,87,69,99,150
+Female,Pear,40,82,72,110,171
+Female,Pear,39,89,73,99,154
+Female,Pear,37,81,73,96,172
+Female,Pear,36,80,69,102,169
+Female,Pear,39,94,75,106,166
+Female,Pear,37,92,72,99,169
+Female,Pear,38,80,73,102,160
+Female,Pear,40,92,70,108,169
+Female,Pear,38,85,68,97,175
+Female,Pear,36,82,73,110,180
+Female,Pear,36,91,69,105,166
+Female,Pear,37,85,75,109,171
+Female,Pear,40,91,73,96,170
+Female,Pear,40,89,72,105,170
+Female,Pear,42,81,69,95,176
+Female,Pear,40,86,73,98,170
+Female,Pear,36,84,66,96,172
+Female,Pear,42,88,73,109,165
+Female,Pear,42,94,66,100,184
+Female,Pear,39,90,70,107,169
+Female,Pear,41,95,67,105,179
+Female,Pear,38,91,66,95,153
+Female,Pear,42,91,72,100,151
+Female,Pear,41,88,72,107,161
+Female,Pear,36,87,67,102,150
+Female,Pear,39,82,75,99,164
+Female,Pear,41,86,75,98,184
+Female,Pear,37,86,72,109,178
+Female,Pear,36,95,71,96,180
+Female,Pear,39,93,73,100,182
+Female,Pear,37,87,65,97,185
+Female,Pear,39,86,72,100,160
+Female,Pear,42,82,66,99,183
+Female,Pear,39,90,66,98,171
+Female,Pear,40,87,75,97,157
+Female,Pear,38,88,72,99,170
+Female,Pear,42,93,71,97,184
+Female,Pear,41,95,72,105,180
+Female,Pear,37,91,69,106,150
+Female,Pear,40,89,72,95,159
+Female,Pear,41,95,70,108,180
+Female,Pear,38,91,72,99,170
+Female,Pear,38,90,71,106,183
+Female,Pear,40,91,73,97,177
+Female,Pear,36,92,75,103,160
+Female,Pear,38,93,75,99,181
+Female,Pear,37,90,67,107,164
+Female,Pear,38,88,73,105,156
+Female,Pear,37,95,73,103,152
+Female,Pear,37,80,68,107,177
+Female,Pear,39,83,72,106,165
+Female,Pear,38,83,68,108,172
+Female,Pear,40,81,74,100,182
+Female,Pear,37,82,75,102,162
+Female,Pear,40,91,66,95,183
+Female,Pear,39,83,69,109,181
+Female,Pear,41,84,68,104,166
+Female,Pear,42,95,68,110,155
+Female,Pear,39,87,75,95,169
+Female,Pear,37,88,74,103,183
+Female,Pear,41,86,70,101,180
+Female,Pear,39,80,68,106,175
+Female,Pear,38,94,70,105,154
+Female,Pear,37,93,73,99,155
+Female,Pear,41,82,66,108,171
+Female,Pear,41,86,72,101,154
+Female,Pear,36,85,73,97,162
+Female,Pear,41,94,69,103,153
+Female,Pear,36,92,66,97,160
+Female,Pear,38,85,72,100,165
+Female,Pear,41,90,70,97,185
+Female,Pear,37,89,65,103,172
+Female,Pear,41,82,68,102,178
+Female,Pear,39,86,74,98,176
+Female,Pear,36,92,70,97,180
+Female,Pear,41,86,69,102,159
+Female,Pear,40,82,70,102,164
+Female,Pear,38,92,74,95,163
+Female,Pear,38,82,71,99,153
+Female,Pear,40,84,65,105,183
+Female,Pear,36,89,68,98,156
+Female,Pear,41,83,74,101,178
+Female,Pear,38,83,71,96,173
+Female,Pear,38,90,67,109,150
+Female,Pear,38,83,71,102,181
+Female,Pear,41,82,69,97,165
+Female,Pear,38,95,68,103,158
+Female,Pear,41,90,74,102,174
+Female,Pear,42,91,68,106,164
+Female,Pear,41,90,75,101,159
+Female,Pear,38,80,72,99,162
+Female,Pear,38,91,66,98,153
+Female,Pear,38,91,72,102,159
+Female,Pear,39,92,69,99,155
+Female,Pear,36,81,74,105,164
+Female,Pear,37,88,69,108,183
+Female,Pear,39,84,65,95,184
+Female,Pear,39,91,65,100,170
+Female,Pear,38,84,67,96,157
+Female,Pear,40,92,65,103,177
+Female,Pear,40,86,72,99,161
+Female,Pear,40,86,74,110,157
+Female,Pear,41,89,72,110,173
+Female,Pear,36,91,69,106,178
+Female,Pear,40,86,73,105,181
+Female,Pear,37,87,68,108,184
+Female,Pear,38,91,66,102,155
+Female,Pear,42,83,71,99,169
+Female,Pear,38,86,70,107,183
+Female,Pear,37,85,70,105,167
+Female,Pear,42,80,69,104,157
+Female,Pear,37,82,66,95,167
+Female,Pear,39,94,69,97,161
+Female,Pear,42,89,74,101,162
+Female,Pear,41,80,75,96,171
+Female,Pear,40,82,67,96,151
+Female,Pear,42,95,67,100,180
+Female,Pear,38,87,75,106,156
+Female,Pear,39,84,70,104,166
+Female,Pear,40,87,69,99,179
+Female,Pear,36,87,75,100,182
+Female,Pear,37,85,66,106,170
+Female,Pear,39,93,73,105,181
+Female,Pear,40,92,73,104,173
+Female,Pear,37,90,66,97,177
+Female,Pear,41,83,70,105,158
+Female,Pear,36,81,67,105,165
+Female,Pear,38,87,68,100,150
+Female,Pear,39,85,72,109,176
+Female,Pear,40,81,67,109,166
+Female,Pear,38,89,70,104,158
+Female,Pear,39,88,71,96,166
+Female,Pear,36,92,73,97,161
+Female,Pear,38,84,71,100,155
+Female,Pear,36,85,71,98,164
+Female,Pear,40,84,74,100,173
+Female,Pear,40,94,75,100,156
+Female,Pear,39,89,68,106,166
+Female,Pear,41,91,65,110,175
+Female,Pear,38,85,72,104,181
+Female,Pear,41,82,67,106,173
+Female,Pear,36,85,67,103,181
+Female,Pear,40,94,66,95,160
+Female,Pear,39,93,66,97,164
+Female,Pear,40,84,74,103,165
+Female,Pear,42,88,66,99,183
+Female,Pear,36,89,73,101,165
+Female,Pear,41,82,73,105,172
+Female,Pear,39,89,72,97,183
+Female,Pear,42,93,69,101,171
+Female,Pear,37,95,66,97,170
+Female,Pear,42,94,69,107,174
+Female,Pear,39,94,65,109,183
+Female,Pear,37,88,71,109,150
+Female,Pear,39,84,68,95,171
+Female,Pear,37,83,69,102,163
+Female,Pear,37,86,67,102,177
+Female,Pear,40,80,75,96,154
+Female,Pear,41,88,75,103,177
+Female,Pear,38,85,69,110,152
+Female,Pear,42,95,75,98,157
+Female,Pear,40,93,65,99,170
+Female,Pear,41,84,69,101,165
+Female,Pear,38,92,73,105,155
+Female,Pear,36,80,73,103,183
+Female,Pear,39,85,74,105,173
+Female,Pear,36,80,70,104,176
+Female,Pear,36,82,75,96,179
+Female,Pear,36,81,73,109,150
+Female,Pear,36,83,74,97,170
+Female,Pear,37,87,70,104,162
+Female,Pear,42,82,67,104,180
+Female,Pear,41,95,70,103,171
+Female,Pear,36,89,68,109,151
+Female,Pear,40,82,71,99,160
+Female,Pear,38,87,67,105,156
+Female,Pear,37,80,65,109,174
+Female,Pear,38,88,67,103,170
+Female,Pear,36,82,66,101,180
+Female,Pear,42,90,72,103,177
+Female,Pear,38,88,71,108,150
+Female,Pear,39,93,66,96,163
+Female,Pear,37,92,74,98,175
+Female,Pear,40,83,71,97,159
+Female,Pear,37,85,65,107,182
+Female,Pear,38,94,68,108,180
+Female,Pear,36,81,71,109,177
+Female,Pear,42,82,71,102,167
+Female,Pear,42,88,70,100,152
+Female,Pear,36,91,66,95,153
+Female,Pear,38,91,69,102,159
+Female,Pear,39,93,66,99,168
+Female,Pear,38,81,75,98,153
+Female,Pear,39,85,68,103,178
+Female,Pear,37,81,66,105,168
+Female,Pear,42,91,66,102,177
+Female,Pear,37,84,71,95,185
+Female,Pear,42,89,69,109,152
+Female,Pear,41,83,72,97,173
+Female,Pear,38,80,68,98,159
+Female,Pear,41,86,70,105,155
+Female,Pear,40,88,68,98,151
+Female,Pear,41,92,65,96,160
+Female,Pear,37,82,68,98,180
+Female,Pear,39,85,66,104,152
+Female,Pear,36,92,65,95,160
+Female,Pear,38,87,70,96,159
+Female,Pear,40,85,68,108,184
+Female,Pear,40,85,65,105,176
+Female,Pear,39,82,66,102,157
+Female,Pear,40,87,65,100,158
+Female,Pear,42,95,74,96,174
+Female,Pear,38,87,68,101,174
+Female,Pear,39,89,70,98,174
+Female,Pear,36,86,67,105,153
+Female,Pear,38,91,71,108,163
+Female,Pear,38,84,65,96,163
+Female,Pear,39,80,67,102,156
+Female,Pear,38,94,75,107,185
+Female,Pear,38,83,75,110,158
+Female,Pear,38,95,67,103,180
+Female,Pear,38,82,70,110,165
+Female,Pear,40,82,75,99,175
+Female,Pear,42,93,75,102,171
+Female,Pear,38,91,75,106,175
+Female,Pear,40,86,66,109,177
+Female,Pear,37,82,66,100,150
+Female,Pear,37,91,68,106,158
+Female,Pear,40,83,74,108,181
+Female,Pear,39,88,70,102,162
+Female,Pear,37,94,66,107,162
+Female,Pear,40,92,70,104,177
+Female,Pear,37,80,66,95,175
+Female,Pear,37,84,72,107,178
+Female,Pear,36,81,66,105,155
+Female,Pear,37,90,69,104,166
+Female,Pear,38,92,70,98,161
+Female,Pear,42,85,70,108,155
+Female,Pear,39,95,67,99,150
+Female,Pear,41,82,74,110,162
+Female,Pear,37,95,72,97,170
+Female,Pear,36,83,73,106,182
+Female,Pear,41,80,68,98,170
+Female,Pear,41,85,68,107,162
+Female,Pear,42,95,75,105,183
+Female,Pear,41,85,66,110,165
+Female,Pear,39,87,66,101,171
+Female,Pear,40,87,71,108,184
+Female,Pear,42,91,69,107,180
+Female,Pear,37,83,68,103,162
+Female,Pear,38,84,65,107,173
+Female,Pear,37,94,68,97,162
+Female,Pear,41,85,68,103,157
+Female,Pear,42,94,67,103,157
+Female,Pear,41,86,70,101,156
+Female,Pear,37,95,74,109,161
+Female,Pear,41,95,73,100,156
+Female,Pear,41,91,75,110,162
+Female,Pear,36,90,75,108,175
+Female,Pear,42,91,66,102,182
+Female,Pear,40,84,68,97,151
+Female,Pear,40,90,75,103,150
+Female,Pear,42,94,67,98,167
+Female,Pear,42,80,74,105,176
+Female,Pear,37,81,67,110,174
+Female,Pear,40,85,70,99,175
+Female,Pear,36,95,66,107,158
+Female,Pear,40,90,72,97,152
+Female,Pear,39,92,65,106,178
+Female,Pear,42,85,65,96,170
+Female,Pear,37,94,68,101,169
+Female,Pear,40,95,66,95,151
+Female,Pear,42,94,67,104,185
+Female,Pear,39,84,75,105,170
+Female,Pear,39,90,71,103,161
+Female,Pear,40,91,68,105,170
+Female,Pear,38,91,69,108,150
+Female,Pear,39,90,71,95,184
+Female,Pear,39,90,72,98,150
+Female,Pear,42,84,66,103,166
+Female,Pear,42,91,74,109,151
+Female,Pear,38,86,74,98,170
+Female,Pear,37,85,69,95,170
+Female,Pear,42,88,69,108,163
+Female,Pear,40,86,69,106,179
+Female,Pear,41,91,69,96,174
+Female,Pear,42,88,65,104,162
+Female,Pear,36,84,73,100,168
+Female,Pear,41,83,69,105,179
+Female,Pear,41,85,66,109,182
+Female,Pear,37,88,67,99,170
+Female,Pear,42,84,75,109,157
+Female,Pear,37,83,73,105,158
+Female,Pear,40,88,65,99,185
+Female,Pear,41,80,74,98,155
+Female,Pear,37,80,73,97,158
+Female,Pear,37,88,66,102,162
+Female,Pear,40,94,69,97,155
+Female,Pear,39,81,70,109,169
+Female,Pear,42,82,74,106,162
+Female,Pear,37,85,75,102,151
+Female,Pear,36,82,73,106,164
+Female,Pear,40,91,72,110,152
+Female,Pear,40,89,66,101,176
+Female,Pear,36,80,68,110,174
+Female,Pear,42,93,74,107,180
+Female,Pear,40,82,65,107,174
+Female,Pear,38,80,65,96,164
+Female,Pear,39,90,66,97,168
+Female,Pear,42,87,75,110,177
+Female,Pear,37,93,68,98,150
+Female,Pear,41,95,74,103,166
+Female,Pear,40,95,65,105,154
+Female,Pear,38,90,73,99,163
+Female,Pear,38,82,72,98,160
+Female,Pear,39,86,72,100,176
+Female,Pear,36,80,75,95,153
+Female,Pear,41,90,73,97,157
+Female,Pear,40,85,69,97,158
+Female,Pear,38,95,70,102,158
+Female,Pear,39,87,71,109,178
+Female,Pear,42,82,70,104,179
+Female,Pear,38,82,69,105,164
+Female,Pear,38,84,66,99,165
+Female,Pear,38,87,73,96,155
+Female,Pear,42,80,66,100,163
+Female,Pear,40,87,66,96,158
+Female,Pear,40,80,71,106,163
+Female,Pear,36,90,67,101,182
+Female,Pear,38,82,70,95,179
+Female,Pear,38,82,75,108,165
+Female,Pear,41,92,65,101,167
+Female,Pear,38,93,67,104,183
+Female,Pear,39,86,71,96,185
+Female,Pear,36,85,69,106,166
+Female,Pear,37,89,68,102,158
+Female,Pear,36,87,68,108,169
+Female,Pear,38,88,70,95,167
+Female,Pear,40,89,68,98,163
+Female,Pear,40,87,68,110,182
+Female,Pear,39,82,74,95,173
+Female,Pear,36,83,66,109,151
+Female,Pear,37,93,68,99,172
+Female,Pear,41,84,70,103,153
+Female,Pear,42,93,69,106,153
+Female,Pear,39,92,74,108,165
+Female,Pear,36,88,71,109,153
+Female,Pear,42,91,71,106,173
+Female,Pear,38,90,69,110,180
+Female,Pear,38,88,68,95,170
+Female,Pear,39,89,66,105,166
+Female,Pear,36,86,72,108,153
+Female,Pear,38,86,74,109,175
+Female,Pear,36,90,71,110,156
+Female,Pear,36,89,71,107,158
+Female,Pear,37,81,70,106,150
+Female,Pear,36,84,74,98,154
+Female,Pear,36,83,70,107,158
+Female,Pear,40,84,68,107,182
+Female,Pear,40,88,66,101,172
+Female,Pear,40,80,65,97,184
+Female,Pear,41,88,68,108,175
+Female,Pear,42,84,71,108,176
+Female,Pear,37,90,68,103,169
+Female,Pear,36,94,75,106,184
+Female,Pear,38,92,69,102,182
+Female,Pear,41,91,74,100,179
+Female,Pear,37,94,74,99,154
+Female,Pear,38,82,72,97,177
+Female,Pear,36,88,65,108,167
+Female,Pear,39,86,68,99,180
+Female,Pear,42,83,65,107,170
+Female,Pear,39,82,74,109,171
+Female,Pear,40,87,73,107,154
+Female,Pear,39,85,75,108,163
+Female,Pear,41,88,69,100,153
+Female,Pear,39,93,75,103,174
+Female,Pear,38,89,73,103,176
+Female,Pear,38,86,72,106,169
+Female,Pear,41,83,74,95,181
+Female,Apple,46,104,75,95,184
+Female,Apple,48,96,84,100,152
+Female,Apple,45,95,81,90,177
+Female,Apple,47,107,83,102,185
+Female,Apple,41,112,79,97,172
+Female,Apple,48,103,87,102,166
+Female,Apple,45,96,89,96,176
+Female,Apple,40,103,77,103,171
+Female,Apple,48,99,79,98,178
+Female,Apple,45,97,82,105,156
+Female,Apple,41,102,77,97,155
+Female,Apple,45,101,88,92,172
+Female,Apple,45,97,81,92,164
+Female,Apple,41,115,83,105,170
+Female,Apple,42,108,77,90,166
+Female,Apple,45,101,88,103,179
+Female,Apple,41,105,81,98,184
+Female,Apple,48,109,83,100,175
+Female,Apple,48,103,77,90,182
+Female,Apple,41,104,89,101,184
+Female,Apple,47,109,75,101,157
+Female,Apple,40,110,89,94,170
+Female,Apple,44,102,85,100,151
+Female,Apple,40,114,83,101,184
+Female,Apple,43,111,85,98,171
+Female,Apple,48,109,77,92,165
+Female,Apple,45,113,78,101,176
+Female,Apple,43,104,79,97,154
+Female,Apple,40,102,82,98,155
+Female,Apple,40,103,86,94,178
+Female,Apple,40,108,75,91,184
+Female,Apple,43,103,79,102,167
+Female,Apple,47,108,82,105,172
+Female,Apple,44,109,77,90,172
+Female,Apple,43,96,77,90,170
+Female,Apple,42,97,80,96,184
+Female,Apple,40,101,87,92,182
+Female,Apple,43,104,78,90,162
+Female,Apple,47,104,82,97,176
+Female,Apple,45,114,85,102,176
+Female,Apple,47,114,79,91,159
+Female,Apple,48,101,87,99,176
+Female,Apple,41,103,78,91,162
+Female,Apple,43,110,83,100,177
+Female,Apple,46,97,75,100,174
+Female,Apple,42,112,78,102,162
+Female,Apple,46,97,87,99,171
+Female,Apple,45,113,84,103,183
+Female,Apple,40,109,84,104,159
+Female,Apple,41,115,87,91,151
+Female,Apple,44,95,83,104,183
+Female,Apple,42,112,76,105,175
+Female,Apple,44,97,84,92,174
+Female,Apple,42,97,76,98,174
+Female,Apple,40,111,75,105,152
+Female,Apple,41,102,85,96,159
+Female,Apple,44,99,88,104,185
+Female,Apple,44,113,77,90,181
+Female,Apple,45,98,80,90,170
+Female,Apple,44,109,80,105,160
+Female,Apple,44,99,83,91,163
+Female,Apple,43,99,80,98,168
+Female,Apple,44,99,85,100,181
+Female,Apple,42,96,87,103,172
+Female,Apple,43,111,89,95,178
+Female,Apple,45,107,84,100,153
+Female,Apple,45,104,83,91,182
+Female,Apple,48,98,76,99,163
+Female,Apple,47,98,79,95,170
+Female,Apple,42,95,84,93,173
+Female,Apple,40,113,81,104,180
+Female,Apple,41,108,87,90,150
+Female,Apple,44,98,86,97,153
+Female,Apple,42,109,80,98,152
+Female,Apple,44,101,83,98,185
+Female,Apple,41,100,89,101,179
+Female,Apple,47,98,85,99,179
+Female,Apple,46,95,79,96,184
+Female,Apple,40,107,84,105,176
+Female,Apple,41,109,88,99,151
+Female,Apple,41,109,89,99,151
+Female,Apple,46,99,75,90,154
+Female,Apple,43,103,80,98,157
+Female,Apple,47,108,89,99,169
+Female,Apple,41,97,83,104,180
+Female,Apple,42,96,84,96,166
+Female,Apple,41,103,86,103,155
+Female,Apple,48,99,87,104,151
+Female,Apple,44,111,81,103,168
+Female,Apple,47,114,84,97,184
+Female,Apple,46,114,81,101,183
+Female,Apple,48,112,76,98,178
+Female,Apple,44,98,87,105,156
+Female,Apple,42,105,82,105,162
+Female,Apple,40,114,84,101,167
+Female,Apple,42,97,80,90,166
+Female,Apple,48,115,86,100,158
+Female,Apple,41,101,90,101,181
+Female,Apple,41,109,81,102,151
+Female,Apple,48,101,88,105,170
+Female,Apple,47,107,77,99,170
+Female,Apple,40,100,86,102,170
+Female,Apple,44,101,82,93,168
+Female,Apple,47,103,86,104,159
+Female,Apple,46,102,87,95,172
+Female,Apple,43,103,85,98,175
+Female,Apple,48,99,76,98,175
+Female,Apple,44,110,78,100,161
+Female,Apple,44,97,82,101,174
+Female,Apple,40,109,81,94,164
+Female,Apple,46,96,75,94,168
+Female,Apple,43,95,86,99,179
+Female,Apple,41,98,86,104,161
+Female,Apple,42,112,78,98,155
+Female,Apple,41,112,81,93,182
+Female,Apple,46,98,85,99,177
+Female,Apple,48,103,88,95,162
+Female,Apple,45,99,87,103,180
+Female,Apple,40,102,86,92,168
+Female,Apple,40,102,77,101,152
+Female,Apple,43,105,79,99,177
+Female,Apple,43,105,88,100,155
+Female,Apple,42,115,75,101,163
+Female,Apple,40,97,87,105,167
+Female,Apple,41,96,77,97,151
+Female,Apple,45,104,85,101,171
+Female,Apple,42,108,90,92,158
+Female,Apple,40,96,76,94,178
+Female,Apple,47,114,80,96,158
+Female,Apple,47,95,87,95,177
+Female,Apple,47,111,84,96,171
+Female,Apple,43,110,81,104,185
+Female,Apple,41,110,90,103,158
+Female,Apple,47,108,86,99,155
+Female,Apple,48,95,75,95,183
+Female,Apple,43,106,90,101,182
+Female,Apple,46,115,83,105,154
+Female,Apple,41,101,89,93,175
+Female,Apple,47,103,76,101,183
+Female,Apple,40,108,76,101,181
+Female,Apple,44,100,85,100,172
+Female,Apple,43,111,75,104,151
+Female,Apple,47,95,88,93,159
+Female,Apple,40,106,75,95,168
+Female,Apple,48,96,86,94,151
+Female,Apple,46,97,86,98,160
+Female,Apple,40,104,77,94,185
+Female,Apple,41,111,84,97,165
+Female,Apple,41,99,81,99,161
+Female,Apple,48,106,79,104,172
+Female,Apple,48,103,78,96,165
+Female,Apple,48,111,87,99,167
+Female,Apple,43,99,81,92,156
+Female,Apple,42,110,81,91,154
+Female,Apple,42,99,88,96,174
+Female,Apple,44,113,89,104,160
+Female,Apple,46,113,81,98,173
+Female,Apple,40,102,82,105,171
+Female,Apple,46,112,90,103,153
+Female,Apple,46,96,83,93,160
+Female,Apple,48,115,81,99,169
+Female,Apple,45,99,84,102,172
+Female,Apple,45,112,75,100,176
+Female,Apple,47,113,85,91,151
+Female,Apple,42,110,90,95,155
+Female,Apple,48,110,75,97,164
+Female,Apple,43,108,82,99,158
+Female,Apple,43,96,88,103,161
+Female,Apple,47,111,75,94,185
+Female,Apple,48,111,89,96,150
+Female,Apple,47,112,80,95,160
+Female,Apple,40,113,78,94,163
+Female,Apple,48,99,76,96,158
+Female,Apple,40,105,86,98,184
+Female,Apple,48,101,76,95,182
+Female,Apple,46,106,84,105,153
+Female,Apple,45,100,85,100,177
+Female,Apple,47,103,78,105,152
+Female,Apple,40,98,78,95,168
+Female,Apple,43,102,88,98,150
+Female,Apple,40,115,77,90,155
+Female,Apple,40,114,80,103,169
+Female,Apple,48,114,88,94,168
+Female,Apple,40,96,75,103,150
+Female,Apple,40,110,85,92,171
+Female,Apple,44,95,82,105,159
+Female,Apple,47,110,78,100,185
+Female,Apple,45,104,86,91,179
+Female,Apple,45,99,80,98,163
+Female,Apple,43,114,82,94,169
+Female,Apple,46,115,83,102,181
+Female,Apple,40,96,83,98,176
+Female,Apple,40,95,78,100,169
+Female,Apple,48,112,81,91,175
+Female,Apple,41,109,83,99,171
+Female,Apple,47,108,90,105,176
+Female,Apple,47,106,82,97,179
+Female,Apple,41,100,86,102,161
+Female,Apple,47,100,76,102,153
+Female,Apple,42,105,78,99,167
+Female,Apple,40,101,77,103,175
+Female,Apple,42,95,88,99,155
+Female,Apple,48,112,86,98,162
+Female,Apple,43,114,77,103,179
+Female,Apple,47,109,86,93,150
+Female,Apple,48,109,78,93,152
+Female,Apple,40,105,79,104,154
+Female,Apple,46,95,86,95,184
+Female,Apple,48,97,75,90,165
+Female,Apple,44,98,81,92,171
+Female,Apple,45,102,85,101,160
+Female,Apple,46,95,80,102,170
+Female,Apple,48,99,84,100,152
+Female,Apple,46,113,81,103,172
+Female,Apple,42,101,84,98,164
+Female,Apple,43,108,77,97,172
+Female,Apple,46,110,84,101,152
+Female,Apple,43,99,81,93,172
+Female,Apple,45,113,76,93,165
+Female,Apple,46,98,76,103,154
+Female,Apple,47,110,86,103,161
+Female,Apple,42,112,87,96,174
+Female,Apple,46,99,85,100,155
+Female,Apple,42,109,81,96,168
+Female,Apple,48,109,78,98,159
+Female,Apple,48,102,85,93,174
+Female,Apple,42,101,78,96,167
+Female,Apple,47,102,78,105,184
+Female,Apple,41,107,89,104,184
+Female,Apple,41,109,87,95,163
+Female,Apple,40,113,85,100,179
+Female,Apple,46,107,88,95,161
+Female,Apple,48,102,76,105,185
+Female,Apple,46,96,81,97,172
+Female,Apple,48,108,87,100,174
+Female,Apple,43,95,82,95,178
+Female,Apple,45,101,76,98,174
+Female,Apple,40,112,88,91,160
+Female,Apple,48,109,77,97,175
+Female,Apple,43,97,83,102,174
+Female,Apple,43,106,87,105,153
+Female,Apple,47,101,84,100,161
+Female,Apple,45,101,78,92,152
+Female,Apple,43,100,75,102,161
+Female,Apple,40,111,84,95,172
+Female,Apple,43,115,77,101,160
+Female,Apple,43,115,79,96,155
+Female,Apple,44,103,89,100,168
+Female,Apple,48,115,75,104,175
+Female,Apple,46,98,76,97,154
+Female,Apple,45,105,89,100,155
+Female,Apple,40,95,88,97,156
+Female,Apple,48,109,79,101,171
+Female,Apple,46,115,83,103,177
+Female,Apple,45,104,80,104,153
+Female,Apple,44,115,85,90,185
+Female,Apple,43,95,86,101,171
+Female,Apple,47,98,90,104,175
+Female,Apple,43,97,78,93,163
+Female,Apple,47,105,76,103,155
+Female,Apple,41,115,80,90,181
+Female,Apple,43,96,81,96,178
+Female,Apple,46,106,90,103,168
+Female,Apple,47,100,77,93,176
+Female,Apple,46,96,84,104,164
+Female,Apple,46,99,75,98,178
+Female,Apple,41,111,76,101,150
+Female,Apple,42,109,84,94,183
+Female,Apple,47,99,78,93,179
+Female,Apple,43,114,82,104,169
+Female,Apple,47,107,76,105,173
+Female,Apple,47,99,84,101,175
+Female,Apple,44,110,88,95,153
+Female,Apple,48,112,88,91,183
+Female,Apple,45,98,80,93,182
+Female,Apple,44,105,86,95,174
+Female,Apple,48,95,82,100,183
+Female,Apple,40,109,86,96,151
+Female,Apple,47,110,89,92,172
+Female,Apple,42,110,90,103,175
+Female,Apple,42,112,87,103,182
+Female,Apple,42,102,89,95,171
+Female,Apple,45,112,80,90,156
+Female,Apple,44,106,88,99,172
+Female,Apple,41,104,83,93,174
+Female,Apple,43,98,75,91,157
+Female,Apple,43,112,83,104,156
+Female,Apple,48,114,89,96,169
+Female,Apple,45,113,76,97,184
+Female,Apple,47,106,87,99,152
+Female,Apple,41,105,82,104,155
+Female,Apple,45,103,90,96,151
+Female,Apple,48,111,88,91,165
+Female,Apple,45,97,76,92,169
+Female,Apple,48,113,86,102,179
+Female,Apple,41,110,90,101,181
+Female,Apple,46,106,89,99,154
+Female,Apple,40,96,79,95,166
+Female,Apple,40,111,82,98,184
+Female,Apple,45,105,86,105,176
+Female,Apple,40,104,88,97,184
+Female,Apple,47,105,81,99,178
+Female,Apple,45,97,86,95,152
+Female,Apple,41,99,75,102,152
+Female,Apple,41,101,82,100,177
+Female,Apple,48,104,76,99,162
+Female,Apple,46,115,87,90,152
+Female,Apple,43,114,88,93,158
+Female,Apple,40,113,88,103,171
+Female,Apple,47,105,86,97,181
+Female,Apple,42,111,88,102,172
+Female,Apple,46,99,76,103,172
+Female,Apple,47,113,79,98,161
+Female,Apple,42,97,80,99,158
+Female,Apple,47,99,85,93,151
+Female,Apple,45,97,84,95,161
+Female,Apple,45,110,89,103,174
+Female,Apple,42,109,79,91,155
+Female,Apple,42,98,87,93,158
+Female,Apple,46,103,85,90,150
+Female,Apple,45,113,78,99,185
+Female,Apple,43,111,79,105,164
+Female,Apple,47,108,88,94,165
+Female,Apple,41,106,75,93,179
+Female,Apple,43,111,89,92,165
+Female,Apple,42,96,86,97,151
+Female,Apple,47,114,80,95,153
+Female,Apple,41,103,77,90,166
+Female,Apple,40,104,79,92,166
+Female,Apple,40,103,77,97,156
+Female,Apple,42,98,80,91,150
+Female,Apple,44,105,90,103,182
+Female,Apple,42,110,82,97,165
+Female,Apple,40,109,88,96,162
+Female,Apple,47,99,89,103,161
+Female,Apple,40,97,78,92,170
+Female,Apple,43,112,84,99,178
+Female,Apple,48,102,82,96,178
+Female,Apple,43,108,90,102,153
+Female,Apple,40,97,84,98,173
+Female,Apple,40,101,77,103,155
+Female,Apple,47,100,77,102,184
+Female,Apple,40,111,76,105,155
+Female,Apple,48,103,84,92,183
+Female,Apple,46,107,89,92,182
+Female,Apple,43,109,90,94,168
+Female,Apple,44,106,81,90,183
+Female,Apple,46,113,90,105,173
+Female,Apple,46,105,77,98,183
+Female,Apple,47,114,76,101,170
+Female,Apple,43,101,85,105,182
+Female,Apple,43,97,75,105,168
+Female,Apple,43,105,87,100,177
+Female,Apple,48,115,83,91,155
+Female,Apple,41,109,88,100,180
+Female,Apple,45,112,78,104,184
+Female,Apple,43,104,77,100,153
+Female,Apple,46,114,89,91,177
+Female,Apple,47,101,89,104,177
+Female,Apple,43,103,82,101,168
+Female,Apple,45,106,80,95,153
+Female,Apple,42,95,79,97,177
+Female,Apple,46,115,90,97,180
+Female,Apple,44,111,81,97,161
+Female,Apple,41,115,81,99,178
+Female,Apple,41,98,87,101,167
+Female,Apple,42,100,77,101,157
+Female,Apple,47,104,90,94,164
+Female,Apple,46,113,75,103,178
+Female,Apple,48,111,89,97,181
+Female,Apple,42,102,80,104,182
+Female,Apple,42,112,82,101,151
+Female,Apple,45,103,81,91,178
+Female,Apple,42,95,85,93,181
+Female,Apple,40,98,81,91,181
+Female,Apple,44,107,76,96,153
+Female,Apple,42,95,82,95,184
+Female,Apple,48,102,83,101,156
+Female,Apple,43,101,85,99,173
+Female,Apple,48,110,83,100,172
+Female,Apple,41,115,86,92,159
+Female,Apple,42,105,90,91,181
+Female,Apple,40,115,85,102,174
+Female,Apple,44,106,78,91,183
+Female,Apple,41,100,85,93,171
+Female,Apple,41,106,80,94,173
+Female,Apple,43,101,85,91,151
+Female,Apple,41,111,83,103,158
+Female,Apple,47,105,88,104,152
+Female,Apple,46,107,87,102,172
+Female,Apple,47,113,87,103,163
+Female,Apple,44,102,79,100,180
+Female,Apple,41,100,78,104,176
+Female,Apple,46,111,85,98,171
+Female,Apple,46,95,83,96,182
+Female,Apple,44,115,90,91,168
+Female,Apple,45,107,83,102,174
+Female,Apple,45,96,79,95,162
+Female,Apple,46,99,84,99,184
+Female,Apple,43,115,89,104,150
+Female,Apple,43,99,78,93,175
+Female,Apple,47,112,88,93,162
+Female,Apple,45,98,75,94,167
+Female,Apple,48,97,78,101,181
+Female,Apple,44,109,78,105,181
+Female,Apple,47,110,84,105,153
+Female,Apple,40,97,89,102,167
+Female,Apple,43,108,88,92,178
+Female,Apple,40,107,80,93,156
+Female,Apple,45,95,80,105,150
+Female,Apple,40,97,84,95,165
+Female,Apple,48,97,87,102,181
+Female,Apple,47,107,88,103,151
+Female,Apple,43,105,77,103,182
+Female,Apple,40,101,87,105,177
+Female,Apple,42,101,80,98,179
+Female,Apple,43,114,75,98,180
+Female,Apple,48,95,75,100,184
+Female,Apple,42,96,82,102,152
+Female,Apple,40,97,89,91,167
+Female,Apple,45,109,80,98,154
+Female,Apple,45,110,88,92,168
+Female,Apple,47,98,83,96,173
+Female,Apple,44,97,79,101,165
+Female,Apple,48,100,85,100,180
+Female,Apple,43,108,85,92,173
+Female,Apple,42,96,80,101,185
+Female,Apple,42,112,84,93,182
+Female,Apple,44,101,79,98,178
+Female,Apple,45,105,89,96,165
+Female,Apple,42,103,75,98,158
+Female,Apple,48,113,83,91,159
+Female,Apple,47,106,83,102,171
+Female,Apple,44,97,88,100,177
+Female,Apple,45,103,82,102,170
+Female,Apple,43,95,79,100,181
+Female,Apple,41,113,90,90,154
+Female,Apple,44,100,82,100,161
+Female,Apple,41,106,85,95,151
+Female,Apple,48,112,90,105,151
+Female,Apple,47,99,87,98,153
+Female,Apple,44,112,85,92,155
+Female,Apple,40,104,80,96,181
+Female,Apple,43,114,80,105,181
+Female,Apple,44,107,84,100,167
+Female,Apple,42,96,78,99,159
+Female,Apple,42,101,87,99,157
+Female,Apple,40,111,78,96,184
+Female,Apple,47,101,75,101,155
+Female,Apple,42,107,85,98,161
+Female,Apple,47,107,89,103,156
+Female,Apple,41,111,86,90,150
+Female,Apple,48,115,79,92,151
+Female,Apple,40,99,86,99,161
+Female,Apple,48,115,78,95,172
+Female,Apple,48,106,88,91,175
+Female,Apple,46,111,85,94,159
+Female,Apple,44,112,85,105,174
+Female,Apple,46,96,84,96,161
+Female,Apple,43,114,77,91,174
+Female,Apple,44,100,81,91,151
+Female,Apple,41,100,76,101,180
+Female,Apple,43,105,84,105,151
+Female,Apple,42,110,82,101,151
+Female,Apple,47,106,83,96,181
+Female,Apple,42,96,75,99,151
+Female,Apple,40,106,79,102,165
+Female,Apple,46,114,89,100,185
+Female,Apple,43,96,90,104,154
+Female,Apple,40,115,86,99,164
+Female,Apple,40,103,88,93,166
+Female,Apple,42,114,85,102,181
+Female,Apple,43,102,84,91,179
+Female,Apple,46,105,77,94,158
+Female,Apple,44,102,88,98,176
+Female,Apple,46,110,82,92,153
+Female,Apple,48,108,82,96,158
+Female,Apple,42,100,79,97,163
+Female,Apple,43,99,85,92,177
+Female,Apple,46,109,86,90,178
+Female,Apple,41,110,87,104,182
+Female,Apple,45,111,82,96,184
+Female,Apple,43,101,83,103,185
+Female,Apple,44,106,88,95,184
+Female,Apple,43,101,82,102,185
+Female,Apple,42,96,83,95,166
+Female,Apple,47,99,79,93,165
+Female,Apple,46,101,77,103,150
+Female,Apple,42,102,90,92,152
+Female,Apple,47,115,84,105,156
+Female,Apple,45,100,84,96,161
+Female,Apple,48,108,78,97,166
+Female,Apple,48,102,85,95,170
+Female,Apple,44,109,85,105,170
+Female,Apple,48,106,76,98,177
+Female,Apple,44,104,76,90,165
+Female,Apple,48,102,77,104,153
+Female,Apple,45,96,82,99,150
+Female,Apple,41,97,80,99,185
+Female,Apple,48,109,78,98,168
+Female,Rectangle,40,89,72,90,164
+Female,Rectangle,37,93,75,91,153
+Female,Rectangle,36,94,80,92,178
+Female,Rectangle,40,86,76,94,173
+Female,Rectangle,42,90,76,92,174
+Female,Rectangle,40,86,79,91,180
+Female,Rectangle,42,93,73,93,160
+Female,Rectangle,38,88,74,85,176
+Female,Rectangle,42,87,79,95,154
+Female,Rectangle,41,90,71,94,179
+Female,Rectangle,39,86,79,94,182
+Female,Rectangle,36,94,80,90,166
+Female,Rectangle,40,94,78,87,157
+Female,Rectangle,36,94,79,89,162
+Female,Rectangle,36,88,79,86,157
+Female,Rectangle,36,94,79,86,151
+Female,Rectangle,40,92,77,93,164
+Female,Rectangle,41,86,80,87,172
+Female,Rectangle,38,93,80,85,152
+Female,Rectangle,42,88,74,85,152
+Female,Rectangle,40,89,73,94,179
+Female,Rectangle,40,85,76,95,157
+Female,Rectangle,40,93,70,91,175
+Female,Rectangle,41,92,80,89,185
+Female,Rectangle,36,89,74,85,169
+Female,Rectangle,41,95,77,92,168
+Female,Rectangle,40,86,72,94,169
+Female,Rectangle,38,95,77,90,157
+Female,Rectangle,36,86,77,93,181
+Female,Rectangle,42,94,73,87,161
+Female,Rectangle,42,91,75,95,168
+Female,Rectangle,38,94,73,89,160
+Female,Rectangle,38,86,71,90,178
+Female,Rectangle,38,86,78,95,164
+Female,Rectangle,36,89,78,87,153
+Female,Rectangle,41,85,75,95,154
+Female,Rectangle,42,92,75,88,172
+Female,Rectangle,37,89,78,92,173
+Female,Rectangle,36,87,79,94,178
+Female,Rectangle,42,85,77,87,171
+Female,Rectangle,42,92,71,88,182
+Female,Rectangle,42,92,71,92,162
+Female,Rectangle,39,91,72,94,167
+Female,Rectangle,39,91,74,95,171
+Female,Rectangle,40,89,76,85,157
+Female,Rectangle,40,93,78,93,171
+Female,Rectangle,39,95,73,95,159
+Female,Rectangle,37,91,75,85,182
+Female,Rectangle,36,94,73,86,153
+Female,Rectangle,39,86,72,89,169
+Female,Rectangle,41,90,72,86,152
+Female,Rectangle,39,90,80,94,181
+Female,Rectangle,41,86,70,90,153
+Female,Rectangle,38,86,76,90,181
+Female,Rectangle,40,91,74,94,182
+Female,Rectangle,39,92,75,90,155
+Female,Rectangle,41,92,74,95,165
+Female,Rectangle,37,85,74,95,180
+Female,Rectangle,38,85,73,95,151
+Female,Rectangle,42,85,76,90,185
+Female,Rectangle,39,87,72,86,172
+Female,Rectangle,39,92,73,85,157
+Female,Rectangle,36,95,80,90,165
+Female,Rectangle,40,94,77,87,164
+Female,Rectangle,36,85,79,87,173
+Female,Rectangle,41,85,77,95,151
+Female,Rectangle,38,94,78,92,178
+Female,Rectangle,36,91,79,88,183
+Female,Rectangle,40,88,73,95,173
+Female,Rectangle,40,85,70,92,150
+Female,Rectangle,37,86,75,90,166
+Female,Rectangle,41,93,75,91,163
+Female,Rectangle,42,88,79,86,162
+Female,Rectangle,40,92,79,85,180
+Female,Rectangle,39,88,71,90,170
+Female,Rectangle,42,90,78,88,181
+Female,Rectangle,36,92,76,92,163
+Female,Rectangle,41,87,73,87,156
+Female,Rectangle,37,92,77,86,181
+Female,Rectangle,41,89,73,87,153
+Female,Rectangle,38,90,72,85,176
+Female,Rectangle,38,89,78,91,168
+Female,Rectangle,38,89,71,91,173
+Female,Rectangle,39,88,71,94,170
+Female,Rectangle,38,88,72,92,174
+Female,Rectangle,36,93,80,88,185
+Female,Rectangle,37,87,75,94,163
+Female,Rectangle,42,94,72,92,182
+Female,Rectangle,41,93,70,91,166
+Female,Rectangle,38,85,78,91,167
+Female,Rectangle,36,89,77,87,157
+Female,Rectangle,40,87,73,87,155
+Female,Rectangle,41,85,75,85,154
+Female,Rectangle,41,94,72,87,154
+Female,Rectangle,40,88,76,92,157
+Female,Rectangle,42,91,74,92,162
+Female,Rectangle,41,88,74,87,179
+Female,Rectangle,42,86,71,86,177
+Female,Rectangle,39,89,74,85,185
+Female,Rectangle,40,86,80,90,153
+Female,Rectangle,38,88,73,92,153
+Female,Rectangle,36,93,80,95,177
+Female,Rectangle,37,85,70,87,157
+Female,Rectangle,38,94,73,94,160
+Female,Rectangle,36,93,79,89,155
+Female,Rectangle,42,91,75,85,176
+Female,Rectangle,37,91,75,88,150
+Female,Rectangle,41,92,70,89,171
+Female,Rectangle,42,86,77,89,157
+Female,Rectangle,41,87,76,85,178
+Female,Rectangle,42,92,77,85,155
+Female,Rectangle,39,86,78,94,161
+Female,Rectangle,42,87,72,87,178
+Female,Rectangle,39,86,75,94,152
+Female,Rectangle,41,94,73,92,169
+Female,Rectangle,39,87,75,86,181
+Female,Rectangle,38,90,80,89,182
+Female,Rectangle,38,90,74,92,166
+Female,Rectangle,39,95,79,90,183
+Female,Rectangle,42,94,74,90,152
+Female,Rectangle,37,91,70,86,152
+Female,Rectangle,38,92,71,91,172
+Female,Rectangle,40,91,71,90,180
+Female,Rectangle,37,89,77,89,169
+Female,Rectangle,37,90,78,95,160
+Female,Rectangle,39,86,75,85,151
+Female,Rectangle,36,85,79,94,181
+Female,Rectangle,37,94,80,94,175
+Female,Rectangle,36,93,77,94,178
+Female,Rectangle,37,89,71,91,177
+Female,Rectangle,41,91,80,87,166
+Female,Rectangle,40,87,74,89,154
+Female,Rectangle,38,92,74,90,177
+Female,Rectangle,42,92,75,86,163
+Female,Rectangle,39,93,78,86,155
+Female,Rectangle,40,86,74,85,171
+Female,Rectangle,39,92,71,86,164
+Female,Rectangle,39,93,77,88,178
+Female,Rectangle,39,91,76,93,184
+Female,Rectangle,42,85,74,93,156
+Female,Rectangle,39,86,76,89,185
+Female,Rectangle,39,92,76,86,155
+Female,Rectangle,40,95,78,87,152
+Female,Rectangle,36,89,70,90,159
+Female,Rectangle,39,93,79,88,162
+Female,Rectangle,37,92,72,91,171
+Female,Rectangle,37,90,71,89,178
+Female,Rectangle,41,94,71,90,165
+Female,Rectangle,42,92,71,86,151
+Female,Rectangle,41,95,80,86,176
+Female,Rectangle,38,93,80,95,154
+Female,Rectangle,42,91,75,95,153
+Female,Rectangle,37,89,79,94,161
+Female,Rectangle,40,92,70,93,154
+Female,Rectangle,41,90,78,88,166
+Female,Rectangle,38,95,76,86,180
+Female,Rectangle,42,93,75,85,165
+Female,Rectangle,36,89,71,94,169
+Female,Rectangle,42,85,73,89,158
+Female,Rectangle,36,87,70,94,165
+Female,Rectangle,41,85,79,93,151
+Female,Rectangle,40,86,80,94,150
+Female,Rectangle,39,89,71,94,155
+Female,Rectangle,39,94,80,95,178
+Female,Rectangle,42,85,79,85,177
+Female,Rectangle,41,94,74,86,170
+Female,Rectangle,39,94,78,85,158
+Female,Rectangle,40,87,71,86,160
+Female,Rectangle,42,92,76,90,157
+Female,Rectangle,40,85,80,89,169
+Female,Rectangle,42,95,74,93,184
+Female,Rectangle,36,89,80,91,172
+Female,Rectangle,42,89,73,95,180
+Female,Rectangle,41,90,71,85,172
+Female,Rectangle,39,86,78,91,160
+Female,Rectangle,36,89,73,87,172
+Female,Rectangle,40,90,73,87,150
+Female,Rectangle,37,88,77,93,161
+Female,Rectangle,38,85,77,89,169
+Female,Rectangle,39,88,73,92,155
+Female,Rectangle,38,93,72,92,168
+Female,Rectangle,36,92,73,85,167
+Female,Rectangle,41,87,71,92,171
+Female,Rectangle,41,91,70,89,178
+Female,Rectangle,36,91,73,94,185
+Female,Rectangle,40,95,77,95,178
+Female,Rectangle,41,90,73,93,154
+Female,Rectangle,39,93,72,86,162
+Female,Rectangle,37,88,79,87,180
+Female,Rectangle,36,93,74,85,170
+Female,Rectangle,41,93,76,88,184
+Female,Rectangle,39,90,73,86,165
+Female,Rectangle,40,95,78,93,153
+Female,Rectangle,41,95,70,87,162
+Female,Rectangle,37,87,76,90,155
+Female,Rectangle,37,95,79,94,161
+Female,Rectangle,42,92,75,90,165
+Female,Rectangle,39,95,70,85,179
+Female,Rectangle,39,88,72,85,150
+Female,Rectangle,41,89,73,88,175
+Female,Rectangle,39,95,77,92,181
+Female,Rectangle,37,94,75,91,154
+Female,Rectangle,39,85,75,93,159
+Female,Rectangle,39,90,70,86,153
+Female,Rectangle,40,91,78,95,184
+Female,Rectangle,41,87,80,85,150
+Female,Rectangle,36,93,75,91,151
+Female,Rectangle,41,87,73,93,185
+Female,Rectangle,36,86,76,85,157
+Female,Rectangle,39,94,73,95,173
+Female,Rectangle,41,85,71,94,153
+Female,Rectangle,40,88,77,91,180
+Female,Rectangle,42,85,70,88,176
+Female,Rectangle,39,92,73,90,160
+Female,Rectangle,36,94,75,95,180
+Female,Rectangle,39,85,79,89,168
+Female,Rectangle,36,86,74,89,184
+Female,Rectangle,39,95,70,88,166
+Female,Rectangle,36,95,77,94,185
+Female,Rectangle,39,92,74,87,162
+Female,Rectangle,42,89,70,87,175
+Female,Rectangle,40,90,72,94,164
+Female,Rectangle,38,89,71,94,165
+Female,Rectangle,38,89,78,90,160
+Female,Rectangle,41,91,74,85,185
+Female,Rectangle,36,89,74,92,171
+Female,Rectangle,41,92,73,89,156
+Female,Rectangle,42,95,76,93,175
+Female,Rectangle,39,92,71,90,158
+Female,Rectangle,38,85,78,93,180
+Female,Rectangle,42,93,73,94,172
+Female,Rectangle,41,93,76,86,161
+Female,Rectangle,41,91,76,95,169
+Female,Rectangle,42,94,75,85,157
+Female,Rectangle,40,85,75,85,171
+Female,Rectangle,40,89,78,88,179
+Female,Rectangle,42,92,76,87,174
+Female,Rectangle,36,92,76,88,173
+Female,Rectangle,38,88,72,93,183
+Female,Rectangle,40,95,78,87,162
+Female,Rectangle,38,94,70,94,173
+Female,Rectangle,40,86,72,86,163
+Female,Rectangle,36,90,75,91,153
+Female,Rectangle,39,94,73,86,173
+Female,Rectangle,38,86,74,87,164
+Female,Rectangle,40,88,75,93,161
+Female,Rectangle,38,91,71,95,153
+Female,Rectangle,37,89,78,87,169
+Female,Rectangle,37,91,78,90,163
+Female,Rectangle,39,95,72,95,152
+Female,Rectangle,37,95,73,87,182
+Female,Rectangle,41,91,77,88,183
+Female,Rectangle,38,85,78,85,179
+Female,Rectangle,40,94,73,89,166
+Female,Rectangle,41,93,70,89,173
+Female,Rectangle,37,89,71,85,169
+Female,Rectangle,41,88,72,92,170
+Female,Rectangle,42,87,72,91,157
+Female,Rectangle,40,87,75,85,164
+Female,Rectangle,36,85,76,94,172
+Female,Rectangle,41,89,73,88,172
+Female,Rectangle,39,92,74,94,175
+Female,Rectangle,39,86,70,89,180
+Female,Rectangle,40,95,78,93,160
+Female,Rectangle,41,93,79,89,171
+Female,Rectangle,38,91,70,88,161
+Female,Rectangle,40,93,72,85,162
+Female,Rectangle,41,90,73,88,153
+Female,Rectangle,40,88,80,93,150
+Female,Rectangle,41,90,77,92,150
+Female,Rectangle,42,92,73,94,166
+Female,Rectangle,39,91,71,88,174
+Female,Rectangle,38,91,78,85,180
+Female,Rectangle,36,87,74,93,178
+Female,Rectangle,39,90,72,88,184
+Female,Rectangle,39,90,72,87,166
+Female,Rectangle,40,94,71,91,157
+Female,Rectangle,37,90,77,93,166
+Female,Rectangle,40,94,74,92,159
+Female,Rectangle,36,89,80,95,154
+Female,Rectangle,41,92,78,91,162
+Female,Rectangle,42,90,70,94,150
+Female,Rectangle,40,85,78,93,184
+Female,Rectangle,40,91,78,92,178
+Female,Rectangle,36,94,76,92,162
+Female,Rectangle,38,94,73,95,169
+Female,Rectangle,38,94,80,86,152
+Female,Rectangle,37,91,79,92,174
+Female,Rectangle,37,92,78,91,175
+Female,Rectangle,38,94,75,88,169
+Female,Rectangle,40,93,77,85,165
+Female,Rectangle,42,91,80,93,151
+Female,Rectangle,39,90,78,86,165
+Female,Rectangle,38,93,76,87,161
+Female,Rectangle,37,90,70,91,153
+Female,Rectangle,38,85,72,89,155
+Female,Rectangle,42,89,71,87,156
+Female,Rectangle,42,88,79,90,172
+Female,Rectangle,40,94,76,94,158
+Female,Rectangle,42,90,71,94,162
+Female,Rectangle,37,89,75,85,174
+Female,Rectangle,41,93,70,95,153
+Female,Rectangle,39,89,70,92,159
+Female,Rectangle,37,85,80,95,182
+Female,Rectangle,37,90,75,90,154
+Female,Rectangle,40,94,80,91,158
+Female,Rectangle,36,94,78,86,154
+Female,Rectangle,40,88,70,88,182
+Female,Rectangle,37,85,80,93,179
+Female,Rectangle,40,88,80,91,181
+Female,Rectangle,38,91,72,93,168
+Female,Rectangle,38,86,77,88,169
+Female,Rectangle,37,85,80,87,164
+Female,Rectangle,36,90,77,88,172
+Female,Rectangle,39,87,76,88,170
+Female,Rectangle,40,91,72,87,174
+Female,Rectangle,37,92,79,93,159
+Female,Rectangle,42,93,75,89,179
+Female,Rectangle,37,91,77,93,156
+Female,Rectangle,39,85,77,90,156
+Female,Rectangle,40,95,78,88,165
+Female,Rectangle,41,90,72,86,161
+Female,Rectangle,36,91,71,86,153
+Female,Rectangle,39,90,75,94,181
+Female,Rectangle,39,88,73,85,175
+Female,Rectangle,40,88,72,88,164
+Female,Rectangle,37,92,80,85,160
+Female,Rectangle,36,87,77,92,166
+Female,Rectangle,40,95,76,95,163
+Female,Rectangle,38,92,80,95,178
+Female,Rectangle,42,85,70,89,161
+Female,Rectangle,42,93,70,89,182
+Female,Rectangle,37,88,76,86,152
+Female,Rectangle,37,86,77,88,154
+Female,Rectangle,37,91,79,88,185
+Female,Rectangle,38,87,73,92,168
+Female,Rectangle,41,85,80,90,157
+Female,Rectangle,37,87,70,93,163
+Female,Rectangle,40,92,71,85,178
+Female,Rectangle,37,85,77,94,156
+Female,Rectangle,36,95,78,88,152
+Female,Rectangle,36,92,77,91,181
+Female,Rectangle,40,90,71,90,162
+Female,Rectangle,40,93,80,93,168
+Female,Rectangle,36,88,70,95,177
+Female,Rectangle,39,91,74,92,173
+Female,Rectangle,36,95,78,93,155
+Female,Rectangle,41,87,72,95,167
+Female,Rectangle,39,87,77,87,160
+Female,Rectangle,40,92,74,93,152
+Female,Rectangle,41,94,71,92,177
+Female,Rectangle,40,95,71,91,173
+Female,Rectangle,37,88,76,94,182
+Female,Rectangle,39,87,73,92,181
+Female,Rectangle,37,91,73,90,167
+Female,Rectangle,36,91,76,94,167
+Female,Rectangle,37,91,71,92,168
+Female,Rectangle,37,95,78,86,167
+Female,Rectangle,37,93,77,93,168
+Female,Rectangle,40,95,77,87,168
+Female,Rectangle,37,92,76,94,178
+Female,Rectangle,38,94,70,94,157
+Female,Rectangle,42,88,78,86,157
+Female,Rectangle,41,85,78,86,152
+Female,Rectangle,40,92,77,90,153
+Female,Rectangle,42,89,74,94,180
+Female,Rectangle,41,86,76,92,179
+Female,Rectangle,37,86,80,92,166
+Female,Rectangle,42,91,74,85,159
+Female,Rectangle,41,91,78,88,166
+Female,Rectangle,40,91,78,88,177
+Female,Rectangle,40,91,70,91,152
+Female,Rectangle,38,87,72,87,174
+Female,Rectangle,38,94,71,91,168
+Female,Rectangle,41,92,73,88,150
+Female,Rectangle,37,92,72,87,174
+Female,Rectangle,42,92,78,89,153
+Female,Rectangle,40,92,70,95,156
+Female,Rectangle,38,89,72,86,153
+Female,Rectangle,38,90,75,89,164
+Female,Rectangle,37,85,77,89,179
+Female,Rectangle,42,93,74,87,163
+Female,Rectangle,36,94,78,88,161
+Female,Rectangle,40,94,80,95,164
+Female,Rectangle,40,94,70,95,171
+Female,Rectangle,39,95,76,90,174
+Female,Rectangle,37,89,77,86,152
+Female,Rectangle,36,85,80,91,164
+Female,Rectangle,36,95,70,89,177
+Female,Rectangle,36,87,77,93,179
+Female,Rectangle,38,95,76,85,165
+Female,Rectangle,38,94,75,86,151
+Female,Rectangle,40,91,76,90,161
+Female,Rectangle,42,89,72,90,170
+Female,Rectangle,38,90,78,90,161
+Female,Rectangle,41,94,77,92,157
+Female,Rectangle,42,90,78,95,168
+Female,Rectangle,41,86,72,90,179
+Female,Rectangle,38,88,72,95,156
+Female,Rectangle,38,95,77,95,185
+Female,Rectangle,36,87,73,93,165
+Female,Rectangle,42,90,72,88,158
+Female,Rectangle,41,87,70,85,151
+Female,Rectangle,38,87,77,90,182
+Female,Rectangle,37,88,77,90,170
+Female,Rectangle,42,92,78,88,154
+Female,Rectangle,42,95,70,90,184
+Female,Rectangle,38,90,78,92,173
+Female,Rectangle,42,88,80,89,170
+Female,Rectangle,41,89,72,95,156
+Female,Rectangle,36,92,74,86,165
+Female,Rectangle,38,88,77,86,174
+Female,Rectangle,40,91,77,86,180
+Female,Rectangle,36,88,74,85,172
+Female,Rectangle,40,90,77,88,151
+Female,Rectangle,37,87,76,93,185
+Female,Rectangle,36,85,79,88,179
+Female,Rectangle,36,92,70,94,179
+Female,Rectangle,42,89,74,89,150
+Female,Rectangle,40,90,76,92,153
+Female,Rectangle,40,87,77,91,157
+Female,Rectangle,36,95,80,89,153
+Female,Rectangle,39,95,79,91,155
+Female,Rectangle,36,93,77,90,157
+Female,Rectangle,38,92,80,95,165
+Female,Rectangle,36,86,70,86,185
+Female,Rectangle,36,93,80,92,159
+Female,Rectangle,40,87,79,90,174
+Female,Rectangle,40,87,76,92,162
+Female,Rectangle,40,85,71,85,177
+Female,Rectangle,38,87,78,89,171
+Female,Rectangle,36,87,80,89,172
+Female,Rectangle,41,87,79,86,182
+Female,Rectangle,42,88,72,89,153
+Female,Rectangle,40,93,76,92,162
+Female,Rectangle,38,87,77,89,175
+Female,Rectangle,41,90,72,88,158
+Female,Rectangle,39,90,79,92,162
+Female,Rectangle,39,85,74,89,153
+Female,Rectangle,42,94,79,87,162
+Female,Rectangle,38,88,76,92,170
+Female,Rectangle,40,89,80,95,166
+Female,Rectangle,37,85,71,92,170
+Female,Rectangle,36,88,78,87,160
+Female,Rectangle,42,92,72,91,171
+Female,Rectangle,38,90,79,92,183
+Female,Rectangle,38,93,72,91,152
+Female,Rectangle,36,90,71,91,171
+Female,Rectangle,41,94,76,89,164
+Female,Rectangle,36,91,76,92,175
+Female,Rectangle,39,95,80,86,178
+Female,Rectangle,38,93,71,91,170
+Female,Rectangle,37,92,72,88,177
+Female,Rectangle,38,88,72,89,150
+Female,Rectangle,39,93,74,95,170
+Female,Rectangle,42,95,78,88,154
+Female,Rectangle,41,91,72,88,153
+Female,Rectangle,42,85,79,93,157
+Female,Rectangle,42,93,72,91,169
+Female,Rectangle,36,85,80,90,167
+Female,Rectangle,40,87,78,95,168
+Female,Rectangle,36,92,71,86,180
+Female,Rectangle,37,88,72,87,173
+Female,Rectangle,40,87,80,93,170
+Female,Rectangle,41,93,80,93,181
+Female,Rectangle,42,91,75,86,175
+Female,Rectangle,41,92,75,94,176
+Female,Rectangle,41,88,72,87,153
+Female,Rectangle,39,92,75,94,157
+Female,Rectangle,40,94,77,92,163
+Female,Rectangle,40,93,74,86,161
+Female,Rectangle,39,92,75,95,155
+Female,Rectangle,37,86,77,92,155
+Female,Rectangle,36,86,71,95,173
+Female,Rectangle,37,86,79,90,162
+Female,Rectangle,38,95,78,93,176
+Female,Rectangle,40,92,76,93,185
+Female,Rectangle,42,88,79,87,183
+Female,Rectangle,37,89,74,88,182
+Female,Rectangle,41,85,70,88,169
+Female,Rectangle,37,91,74,86,168
+Female,Rectangle,39,95,73,94,151
+Female,Rectangle,37,85,72,88,156
+Female,Rectangle,39,90,79,93,175
+Female,Rectangle,37,91,78,88,184
+Female,Rectangle,40,94,71,90,182
+Female,Rectangle,38,88,76,86,184
+Female,Rectangle,37,91,75,85,168
+Female,Rectangle,37,87,80,91,163
+Female,Rectangle,42,88,74,93,156
+Female,Rectangle,37,94,77,90,172
+Female,Rectangle,38,88,71,94,169
+Female,Rectangle,37,95,70,95,179
+Female,Rectangle,40,87,72,86,178
+Female,Rectangle,37,86,70,91,167
+Female,Rectangle,39,92,77,86,181
+Female,Rectangle,40,85,71,93,181
+Female,Rectangle,37,87,78,91,153
+Female,Rectangle,37,94,73,91,184
+Female,Rectangle,37,86,72,94,184
+Female,Inverted Triangle,47,100,70,93,182
+Female,Inverted Triangle,48,106,74,93,164
+Female,Inverted Triangle,47,109,71,88,151
+Female,Inverted Triangle,46,104,70,88,163
+Female,Inverted Triangle,43,105,74,94,185
+Female,Inverted Triangle,47,106,70,89,180
+Female,Inverted Triangle,42,99,72,87,167
+Female,Inverted Triangle,46,108,80,92,155
+Female,Inverted Triangle,48,96,73,93,170
+Female,Inverted Triangle,48,99,70,91,161
+Female,Inverted Triangle,47,97,76,89,171
+Female,Inverted Triangle,44,100,78,93,174
+Female,Inverted Triangle,49,100,72,85,156
+Female,Inverted Triangle,44,110,75,95,150
+Female,Inverted Triangle,49,101,79,85,169
+Female,Inverted Triangle,45,96,80,93,157
+Female,Inverted Triangle,47,108,77,85,169
+Female,Inverted Triangle,48,98,70,88,150
+Female,Inverted Triangle,43,95,80,91,164
+Female,Inverted Triangle,42,98,80,87,183
+Female,Inverted Triangle,43,103,76,88,176
+Female,Inverted Triangle,43,103,80,92,154
+Female,Inverted Triangle,45,106,74,89,182
+Female,Inverted Triangle,44,108,75,95,167
+Female,Inverted Triangle,46,109,71,94,167
+Female,Inverted Triangle,47,105,73,95,170
+Female,Inverted Triangle,50,105,75,87,167
+Female,Inverted Triangle,47,98,77,90,170
+Female,Inverted Triangle,44,99,73,89,180
+Female,Inverted Triangle,46,100,80,86,151
+Female,Inverted Triangle,50,108,70,90,173
+Female,Inverted Triangle,43,107,73,92,177
+Female,Inverted Triangle,46,100,71,92,172
+Female,Inverted Triangle,43,102,72,85,162
+Female,Inverted Triangle,46,98,78,94,184
+Female,Inverted Triangle,48,109,77,91,180
+Female,Inverted Triangle,46,107,76,95,180
+Female,Inverted Triangle,50,106,77,92,167
+Female,Inverted Triangle,46,96,75,88,154
+Female,Inverted Triangle,50,105,72,91,173
+Female,Inverted Triangle,50,105,80,87,170
+Female,Inverted Triangle,42,107,78,89,166
+Female,Inverted Triangle,50,108,75,86,176
+Female,Inverted Triangle,43,101,70,95,172
+Female,Inverted Triangle,44,109,72,90,152
+Female,Inverted Triangle,44,99,79,92,162
+Female,Inverted Triangle,50,110,76,90,184
+Female,Inverted Triangle,50,110,78,86,166
+Female,Inverted Triangle,47,103,73,92,173
+Female,Inverted Triangle,42,97,80,92,155
+Female,Inverted Triangle,50,102,77,91,178
+Female,Inverted Triangle,42,98,72,85,152
+Female,Inverted Triangle,46,99,74,93,167
+Female,Inverted Triangle,45,96,72,94,166
+Female,Inverted Triangle,43,110,74,89,184
+Female,Inverted Triangle,46,95,70,87,171
+Female,Inverted Triangle,43,100,77,88,160
+Female,Inverted Triangle,47,97,71,94,174
+Female,Inverted Triangle,50,96,73,93,159
+Female,Inverted Triangle,46,96,80,87,168
+Female,Inverted Triangle,47,110,71,90,150
+Female,Inverted Triangle,45,97,73,95,165
+Female,Inverted Triangle,48,105,72,93,183
+Female,Inverted Triangle,44,99,77,94,173
+Female,Inverted Triangle,49,102,72,85,157
+Female,Inverted Triangle,46,103,70,91,185
+Female,Inverted Triangle,50,110,73,86,160
+Female,Inverted Triangle,44,100,73,88,161
+Female,Inverted Triangle,45,101,75,86,156
+Female,Inverted Triangle,43,101,78,95,174
+Female,Inverted Triangle,45,98,76,94,158
+Female,Inverted Triangle,44,110,73,87,176
+Female,Inverted Triangle,49,102,80,88,155
+Female,Inverted Triangle,45,105,70,91,168
+Female,Inverted Triangle,49,104,71,88,162
+Female,Inverted Triangle,47,104,79,88,162
+Female,Inverted Triangle,46,110,75,89,153
+Female,Inverted Triangle,50,103,76,95,151
+Female,Inverted Triangle,47,108,73,93,160
+Female,Inverted Triangle,49,100,76,90,154
+Female,Inverted Triangle,46,105,71,91,152
+Female,Inverted Triangle,48,104,72,88,167
+Female,Inverted Triangle,46,110,72,94,181
+Female,Inverted Triangle,49,96,79,86,178
+Female,Inverted Triangle,43,108,79,90,184
+Female,Inverted Triangle,49,98,79,94,158
+Female,Inverted Triangle,45,107,79,85,169
+Female,Inverted Triangle,49,106,79,90,173
+Female,Inverted Triangle,43,100,72,87,183
+Female,Inverted Triangle,44,108,72,94,169
+Female,Inverted Triangle,42,106,72,93,166
+Female,Inverted Triangle,43,97,79,93,178
+Female,Inverted Triangle,43,110,72,85,164
+Female,Inverted Triangle,46,109,80,94,160
+Female,Inverted Triangle,50,105,80,90,179
+Female,Inverted Triangle,46,99,75,86,151
+Female,Inverted Triangle,42,105,75,87,170
+Female,Inverted Triangle,48,98,77,93,167
+Female,Inverted Triangle,42,107,70,85,164
+Female,Inverted Triangle,42,97,77,90,184
+Female,Inverted Triangle,47,108,76,87,174
+Female,Inverted Triangle,46,104,74,92,155
+Female,Inverted Triangle,46,102,72,90,168
+Female,Inverted Triangle,48,95,76,90,154
+Female,Inverted Triangle,45,105,74,89,156
+Female,Inverted Triangle,49,95,75,89,167
+Female,Inverted Triangle,48,108,73,93,160
+Female,Inverted Triangle,49,100,72,92,185
+Female,Inverted Triangle,44,98,72,86,156
+Female,Inverted Triangle,48,100,75,85,153
+Female,Inverted Triangle,44,95,79,85,170
+Female,Inverted Triangle,46,100,71,88,154
+Female,Inverted Triangle,49,97,77,85,184
+Female,Inverted Triangle,43,108,70,95,151
+Female,Inverted Triangle,48,104,74,94,158
+Female,Inverted Triangle,45,102,72,87,163
+Female,Inverted Triangle,43,104,74,94,153
+Female,Inverted Triangle,45,110,79,88,169
+Female,Inverted Triangle,42,104,77,95,175
+Female,Inverted Triangle,49,101,79,88,164
+Female,Inverted Triangle,43,99,75,95,164
+Female,Inverted Triangle,42,103,70,86,165
+Female,Inverted Triangle,44,109,72,92,162
+Female,Inverted Triangle,46,109,71,95,185
+Female,Inverted Triangle,46,109,75,90,177
+Female,Inverted Triangle,43,106,72,89,172
+Female,Inverted Triangle,49,106,77,86,150
+Female,Inverted Triangle,44,100,78,85,167
+Female,Inverted Triangle,47,101,70,94,156
+Female,Inverted Triangle,45,103,70,86,181
+Female,Inverted Triangle,45,110,76,94,182
+Female,Inverted Triangle,46,99,70,95,185
+Female,Inverted Triangle,43,101,70,87,172
+Female,Inverted Triangle,43,106,79,85,158
+Female,Inverted Triangle,44,103,74,86,150
+Female,Inverted Triangle,44,97,80,86,171
+Female,Inverted Triangle,50,102,72,86,171
+Female,Inverted Triangle,47,102,77,85,158
+Female,Inverted Triangle,47,102,70,86,175
+Female,Inverted Triangle,48,107,74,85,171
+Female,Inverted Triangle,50,104,80,91,174
+Female,Inverted Triangle,48,104,72,94,174
+Female,Inverted Triangle,42,103,78,86,156
+Female,Inverted Triangle,50,100,79,91,157
+Female,Inverted Triangle,50,104,75,95,154
+Female,Inverted Triangle,46,105,74,88,172
+Female,Inverted Triangle,43,101,73,91,163
+Female,Inverted Triangle,50,102,70,91,157
+Female,Inverted Triangle,42,97,75,85,159
+Female,Inverted Triangle,45,95,72,87,184
+Female,Inverted Triangle,43,106,79,85,178
+Female,Inverted Triangle,48,99,78,94,175
+Female,Inverted Triangle,45,106,77,88,170
+Female,Inverted Triangle,50,99,73,88,176
+Female,Inverted Triangle,46,103,73,88,179
+Female,Inverted Triangle,42,96,74,89,153
+Female,Inverted Triangle,46,104,73,91,156
+Female,Inverted Triangle,43,108,80,88,151
+Female,Inverted Triangle,50,102,72,85,156
+Female,Inverted Triangle,48,104,70,93,151
+Female,Inverted Triangle,43,97,71,87,177
+Female,Inverted Triangle,44,101,80,95,154
+Female,Inverted Triangle,44,104,76,94,163
+Female,Inverted Triangle,42,108,78,92,173
+Female,Inverted Triangle,46,95,73,93,151
+Female,Inverted Triangle,50,105,70,94,182
+Female,Inverted Triangle,47,97,70,90,157
+Female,Inverted Triangle,42,99,71,93,173
+Female,Inverted Triangle,48,98,70,91,159
+Female,Inverted Triangle,50,108,76,95,176
+Female,Inverted Triangle,42,104,79,87,152
+Female,Inverted Triangle,47,105,79,88,154
+Female,Inverted Triangle,49,97,72,90,170
+Female,Inverted Triangle,42,106,73,85,178
+Female,Inverted Triangle,45,97,73,87,157
+Female,Inverted Triangle,48,99,71,93,157
+Female,Inverted Triangle,43,107,80,93,156
+Female,Inverted Triangle,43,95,75,90,150
+Female,Inverted Triangle,50,95,72,86,155
+Female,Inverted Triangle,48,105,80,93,172
+Female,Inverted Triangle,50,104,79,85,177
+Female,Inverted Triangle,44,100,80,94,176
+Female,Inverted Triangle,43,106,74,88,182
+Female,Inverted Triangle,50,100,75,86,151
+Female,Inverted Triangle,43,99,78,95,169
+Female,Inverted Triangle,48,102,79,85,184
+Female,Inverted Triangle,43,99,71,87,162
+Female,Inverted Triangle,44,101,75,88,152
+Female,Inverted Triangle,48,100,79,93,173
+Female,Inverted Triangle,46,108,75,95,180
+Female,Inverted Triangle,50,103,73,94,176
+Female,Inverted Triangle,45,97,70,91,168
+Female,Inverted Triangle,45,102,76,93,182
+Female,Inverted Triangle,43,110,73,86,155
+Female,Inverted Triangle,42,109,78,87,159
+Female,Inverted Triangle,48,102,70,93,183
+Female,Inverted Triangle,47,107,78,93,182
+Female,Inverted Triangle,47,110,80,87,184
+Female,Inverted Triangle,44,96,79,89,156
+Female,Inverted Triangle,47,109,78,90,170
+Female,Inverted Triangle,42,97,75,91,150
+Female,Inverted Triangle,45,108,74,95,161
+Female,Inverted Triangle,48,99,77,93,159
+Female,Inverted Triangle,49,103,76,89,158
+Female,Inverted Triangle,47,104,72,91,166
+Female,Inverted Triangle,45,96,80,87,172
+Female,Inverted Triangle,43,100,77,93,161
+Female,Inverted Triangle,50,106,70,94,181
+Female,Inverted Triangle,44,107,71,93,163
+Female,Inverted Triangle,49,103,74,94,174
+Female,Inverted Triangle,48,107,78,95,153
+Female,Inverted Triangle,42,104,73,90,159
+Female,Inverted Triangle,44,106,73,93,150
+Female,Inverted Triangle,47,98,71,94,184
+Female,Inverted Triangle,43,98,77,93,162
+Female,Inverted Triangle,44,101,72,91,156
+Female,Inverted Triangle,44,107,79,87,155
+Female,Inverted Triangle,50,110,70,90,153
+Female,Inverted Triangle,50,98,75,88,170
+Female,Inverted Triangle,42,108,78,89,161
+Female,Inverted Triangle,44,98,70,94,150
+Female,Inverted Triangle,49,98,72,91,157
+Female,Inverted Triangle,50,105,74,93,152
+Female,Inverted Triangle,49,102,80,86,154
+Female,Inverted Triangle,48,100,72,88,151
+Female,Inverted Triangle,44,105,80,92,163
+Female,Inverted Triangle,48,97,71,90,182
+Female,Inverted Triangle,48,99,72,90,157
+Female,Inverted Triangle,48,101,80,92,184
+Female,Inverted Triangle,46,106,73,95,170
+Female,Inverted Triangle,45,95,74,87,175
+Female,Inverted Triangle,46,104,77,94,153
+Female,Inverted Triangle,47,109,78,94,174
+Female,Inverted Triangle,44,106,80,87,184
+Female,Inverted Triangle,48,99,78,90,176
+Female,Inverted Triangle,50,101,75,93,152
+Female,Inverted Triangle,45,105,76,89,183
+Female,Inverted Triangle,43,106,71,86,174
+Female,Inverted Triangle,49,95,80,88,160
+Female,Inverted Triangle,49,101,80,85,166
+Female,Inverted Triangle,44,109,70,95,165
+Female,Inverted Triangle,43,96,80,94,177
+Female,Inverted Triangle,50,108,77,87,163
+Female,Inverted Triangle,44,109,77,87,150
+Female,Inverted Triangle,48,101,77,88,158
+Female,Inverted Triangle,43,110,74,90,181
+Female,Inverted Triangle,44,98,72,89,172
+Female,Inverted Triangle,46,105,70,91,168
+Female,Inverted Triangle,46,110,74,93,169
+Female,Inverted Triangle,49,95,77,86,176
+Female,Inverted Triangle,47,96,79,86,160
+Female,Inverted Triangle,48,96,77,87,157
+Female,Inverted Triangle,46,98,78,85,172
+Female,Inverted Triangle,45,100,75,95,156
+Female,Inverted Triangle,50,106,71,94,177
+Female,Inverted Triangle,47,102,74,85,168
+Female,Inverted Triangle,44,107,77,95,160
+Female,Inverted Triangle,46,95,77,88,183
+Female,Inverted Triangle,42,107,80,87,184
+Female,Inverted Triangle,43,105,71,93,180
+Female,Inverted Triangle,45,104,74,88,165
+Female,Inverted Triangle,47,104,74,93,150
+Female,Inverted Triangle,50,109,71,86,176
+Female,Inverted Triangle,48,105,77,89,158
+Female,Inverted Triangle,49,95,72,91,167
+Female,Inverted Triangle,47,102,74,88,159
+Female,Inverted Triangle,44,103,70,88,173
+Female,Inverted Triangle,46,108,73,88,153
+Female,Inverted Triangle,43,106,73,90,185
+Female,Inverted Triangle,49,109,73,85,178
+Female,Inverted Triangle,42,108,77,87,183
+Female,Inverted Triangle,48,98,77,94,183
+Female,Inverted Triangle,45,101,74,87,182
+Female,Inverted Triangle,43,110,76,89,183
+Female,Inverted Triangle,43,95,73,85,158
+Female,Inverted Triangle,48,101,70,90,173
+Female,Inverted Triangle,43,96,79,95,181
+Female,Inverted Triangle,48,106,71,93,185
+Female,Inverted Triangle,48,110,80,90,164
+Female,Inverted Triangle,50,104,79,88,177
+Female,Inverted Triangle,49,110,76,92,152
+Female,Inverted Triangle,48,100,80,94,157
+Female,Inverted Triangle,50,107,76,89,172
+Female,Inverted Triangle,44,110,80,91,167
+Female,Inverted Triangle,50,103,78,90,168
+Female,Inverted Triangle,45,104,72,94,161
+Female,Inverted Triangle,46,99,80,92,169
+Female,Inverted Triangle,44,109,75,93,173
+Female,Inverted Triangle,47,105,70,86,156
+Female,Inverted Triangle,46,96,75,88,183
+Female,Inverted Triangle,46,105,75,93,170
+Female,Inverted Triangle,44,105,70,87,152
+Female,Inverted Triangle,46,99,73,92,164
+Female,Inverted Triangle,48,96,70,89,157
+Female,Inverted Triangle,46,107,72,85,177
+Female,Inverted Triangle,46,103,78,92,183
+Female,Inverted Triangle,43,103,78,91,154
+Female,Inverted Triangle,49,95,77,91,157
+Female,Inverted Triangle,44,102,79,86,157
+Female,Inverted Triangle,42,110,72,93,168
+Female,Inverted Triangle,47,110,76,94,164
+Female,Inverted Triangle,49,110,79,85,156
+Female,Inverted Triangle,48,101,78,87,155
+Female,Inverted Triangle,43,103,72,93,165
+Female,Inverted Triangle,45,107,80,94,160
+Female,Inverted Triangle,47,105,70,92,176
+Female,Inverted Triangle,46,100,74,93,171
+Female,Inverted Triangle,46,97,74,92,169
+Female,Inverted Triangle,50,106,75,90,177
+Female,Inverted Triangle,48,99,79,91,173
+Female,Inverted Triangle,48,103,73,89,170
+Female,Inverted Triangle,47,97,70,85,175
+Female,Inverted Triangle,49,106,79,87,178
+Female,Inverted Triangle,44,100,78,87,154
+Female,Inverted Triangle,49,104,71,86,181
+Female,Inverted Triangle,50,99,77,85,180
+Female,Inverted Triangle,44,106,76,93,172
+Female,Inverted Triangle,45,100,74,91,161
+Female,Inverted Triangle,43,104,77,92,176
+Female,Inverted Triangle,47,109,71,95,155
+Female,Inverted Triangle,47,102,77,92,166
+Female,Inverted Triangle,49,103,72,94,171
+Female,Inverted Triangle,46,99,79,94,185
+Female,Inverted Triangle,47,102,78,91,171
+Female,Inverted Triangle,42,110,79,93,165
+Female,Inverted Triangle,46,98,74,91,175
+Female,Inverted Triangle,49,104,71,88,164
+Female,Inverted Triangle,43,95,75,91,151
+Female,Inverted Triangle,45,109,74,94,171
+Female,Inverted Triangle,46,106,80,87,177
+Female,Inverted Triangle,43,97,75,86,160
+Female,Inverted Triangle,44,102,71,89,170
+Female,Inverted Triangle,42,98,75,87,168
+Female,Inverted Triangle,50,96,76,85,162
+Female,Inverted Triangle,48,101,75,92,158
+Female,Inverted Triangle,46,109,76,85,174
+Female,Inverted Triangle,47,103,72,87,158
+Female,Inverted Triangle,50,106,71,91,163
+Female,Inverted Triangle,46,107,77,87,152
+Female,Inverted Triangle,49,109,74,94,162
+Female,Inverted Triangle,48,107,79,88,176
+Female,Inverted Triangle,43,107,80,89,173
+Female,Inverted Triangle,42,105,80,87,164
+Female,Inverted Triangle,49,100,71,86,181
+Female,Inverted Triangle,46,106,76,90,182
+Female,Inverted Triangle,46,97,73,90,165
+Female,Inverted Triangle,50,98,76,90,157
+Female,Inverted Triangle,43,95,79,88,160
+Female,Inverted Triangle,47,104,76,87,180
+Female,Inverted Triangle,47,109,70,94,170
+Female,Inverted Triangle,47,108,75,90,184
+Female,Inverted Triangle,42,107,78,94,169
+Female,Inverted Triangle,49,102,70,91,165
+Female,Inverted Triangle,49,101,78,86,178
+Female,Inverted Triangle,50,95,77,86,150
+Female,Inverted Triangle,45,97,73,85,150
+Female,Inverted Triangle,46,109,71,92,176
+Female,Inverted Triangle,43,109,77,91,153
+Female,Inverted Triangle,43,101,76,90,181
+Female,Inverted Triangle,42,102,76,94,175
+Female,Inverted Triangle,44,107,73,91,179
+Female,Inverted Triangle,49,105,80,94,159
+Female,Inverted Triangle,48,97,77,87,177
+Female,Inverted Triangle,46,105,72,86,176
+Female,Inverted Triangle,47,96,74,87,181
+Female,Inverted Triangle,49,101,76,87,167
+Female,Inverted Triangle,43,97,74,94,161
+Female,Inverted Triangle,50,108,71,89,159
+Female,Inverted Triangle,50,108,71,88,162
+Female,Inverted Triangle,44,102,74,95,164
+Female,Inverted Triangle,42,101,80,95,155
+Female,Inverted Triangle,42,106,78,86,167
+Female,Inverted Triangle,46,109,70,95,157
+Female,Inverted Triangle,43,97,78,86,178
+Female,Inverted Triangle,42,106,73,89,160
+Female,Inverted Triangle,50,106,75,91,182
+Female,Inverted Triangle,48,108,76,85,157
+Female,Inverted Triangle,49,101,70,93,169
+Female,Inverted Triangle,46,102,74,90,151
+Female,Inverted Triangle,45,102,70,89,160
+Female,Inverted Triangle,49,97,74,93,151
+Female,Inverted Triangle,44,101,80,90,150
+Female,Inverted Triangle,44,104,75,95,179
+Female,Inverted Triangle,47,101,78,86,169
+Female,Inverted Triangle,45,98,77,89,181
+Female,Inverted Triangle,49,108,74,85,154
+Female,Inverted Triangle,42,109,78,85,154
+Female,Inverted Triangle,45,97,80,89,177
+Female,Inverted Triangle,43,104,73,94,177
+Female,Inverted Triangle,46,109,77,86,168
+Female,Inverted Triangle,42,102,71,88,182
+Female,Inverted Triangle,46,110,80,91,176
+Female,Inverted Triangle,45,105,75,86,173
+Female,Inverted Triangle,42,104,74,92,156
+Female,Inverted Triangle,50,99,75,89,153
+Female,Inverted Triangle,44,106,79,88,160
+Female,Inverted Triangle,50,107,80,90,167
+Female,Inverted Triangle,46,99,71,87,170
+Female,Inverted Triangle,44,99,80,86,159
+Female,Inverted Triangle,46,95,76,85,183
+Female,Inverted Triangle,50,105,74,95,168
+Female,Inverted Triangle,48,99,78,91,175
+Female,Inverted Triangle,45,101,77,91,177
+Female,Inverted Triangle,43,95,70,92,150
+Female,Inverted Triangle,48,108,73,93,178
+Female,Inverted Triangle,49,109,80,85,183
+Female,Inverted Triangle,46,97,79,91,155
+Female,Inverted Triangle,44,98,74,86,178
+Female,Inverted Triangle,44,109,75,93,164
+Female,Inverted Triangle,50,108,76,86,183
+Female,Inverted Triangle,49,105,80,86,176
+Female,Inverted Triangle,47,95,79,93,168
+Female,Inverted Triangle,49,98,72,92,162
+Female,Inverted Triangle,44,103,74,86,167
+Female,Inverted Triangle,50,107,71,91,157
+Female,Inverted Triangle,47,98,71,88,166
+Female,Inverted Triangle,48,95,73,88,156
+Female,Inverted Triangle,49,102,73,94,152
+Female,Inverted Triangle,48,110,79,90,174
+Female,Inverted Triangle,48,96,80,92,169
+Female,Inverted Triangle,50,101,72,90,175
+Female,Inverted Triangle,46,96,73,85,175
+Female,Inverted Triangle,49,101,71,93,156
+Female,Inverted Triangle,47,98,80,91,154
+Female,Inverted Triangle,48,106,78,88,166
+Female,Inverted Triangle,44,107,74,87,152
+Female,Inverted Triangle,50,110,70,91,157
+Female,Inverted Triangle,48,97,76,87,160
+Female,Inverted Triangle,47,97,78,89,162
+Female,Inverted Triangle,46,106,73,89,164
+Female,Inverted Triangle,48,106,78,85,151
+Female,Inverted Triangle,42,105,70,93,159
+Female,Inverted Triangle,46,103,80,87,158
+Female,Inverted Triangle,48,100,78,93,153
+Female,Inverted Triangle,45,107,77,95,150
+Female,Inverted Triangle,42,97,78,93,165
+Female,Inverted Triangle,45,104,71,94,150
+Female,Inverted Triangle,45,107,72,90,174
+Female,Inverted Triangle,43,97,78,89,159
+Female,Inverted Triangle,49,100,78,88,166
+Female,Inverted Triangle,45,106,78,94,169
+Female,Inverted Triangle,50,106,80,94,172
+Female,Inverted Triangle,42,101,74,89,169
+Female,Inverted Triangle,49,108,72,94,152
+Female,Inverted Triangle,49,99,73,94,182
+Female,Inverted Triangle,47,110,77,86,181
+Female,Inverted Triangle,43,97,74,90,162
+Female,Inverted Triangle,42,97,77,85,160
+Female,Inverted Triangle,43,103,75,87,184
+Female,Inverted Triangle,45,105,74,94,179
+Female,Inverted Triangle,50,98,70,92,177
+Female,Inverted Triangle,47,103,78,94,179
+Female,Inverted Triangle,49,95,75,86,159
+Female,Inverted Triangle,48,109,74,88,172
+Female,Inverted Triangle,45,107,79,89,161
+Female,Inverted Triangle,50,99,76,85,181
+Female,Inverted Triangle,50,98,77,87,185
+Female,Inverted Triangle,47,101,73,95,163
+Female,Inverted Triangle,47,99,78,92,167
+Female,Inverted Triangle,43,99,79,95,173
+Female,Inverted Triangle,46,100,73,85,176
+Female,Inverted Triangle,44,104,77,85,170
+Female,Inverted Triangle,49,107,77,85,157
+Female,Inverted Triangle,48,99,75,85,170
+Female,Inverted Triangle,49,96,71,95,164
+Female,Inverted Triangle,49,109,78,85,166
+Female,Inverted Triangle,48,104,71,95,175
+Female,Inverted Triangle,50,103,78,88,176
+Female,Inverted Triangle,50,104,77,85,167
+Female,Inverted Triangle,50,98,74,89,175
+Female,Inverted Triangle,49,105,75,92,164
+Female,Inverted Triangle,47,106,79,94,166
+Female,Inverted Triangle,44,103,71,93,184
+Female,Inverted Triangle,44,106,80,86,156
+Female,Inverted Triangle,45,105,70,90,162
+Female,Inverted Triangle,47,104,71,86,159
+Female,Inverted Triangle,43,106,71,93,183
+Female,Inverted Triangle,45,100,71,95,154
+Female,Inverted Triangle,47,100,71,92,153
+Female,Inverted Triangle,45,97,70,91,180
+Female,Inverted Triangle,49,110,78,89,156
+Female,Inverted Triangle,45,108,74,89,161
+Female,Inverted Triangle,50,100,78,86,175
+Female,Inverted Triangle,43,109,78,89,171
+Female,Inverted Triangle,48,108,71,95,174
+Female,Inverted Triangle,47,101,79,88,183
+Female,Inverted Triangle,43,97,74,89,153
+Female,Inverted Triangle,50,105,74,87,158
+Female,Inverted Triangle,49,96,70,95,162
+Female,Inverted Triangle,46,95,75,93,155
+Female,Inverted Triangle,47,104,75,91,171
+Female,Inverted Triangle,48,107,78,91,159
+Female,Inverted Triangle,47,99,77,92,168
+Female,Inverted Triangle,48,99,79,95,150
+Female,Inverted Triangle,44,101,75,94,153
+Female,Inverted Triangle,46,105,73,95,171
+Female,Inverted Triangle,46,98,72,89,170
+Female,Inverted Triangle,44,95,79,86,166
+Female,Inverted Triangle,47,110,77,88,185
+Female,Inverted Triangle,44,95,73,87,152
+Male,Oval,52,108,98,114,186
+Male,Oval,52,101,98,110,191
+Male,Oval,45,109,99,102,177
+Male,Oval,49,109,93,103,195
+Male,Oval,50,106,102,115,174
+Male,Oval,46,107,91,103,194
+Male,Oval,45,100,102,103,182
+Male,Oval,50,105,94,99,170
+Male,Oval,55,117,103,105,177
+Male,Oval,54,116,101,112,195
+Male,Oval,55,100,98,112,173
+Male,Oval,52,113,103,113,176
+Male,Oval,55,112,91,107,176
+Male,Oval,47,110,101,97,168
+Male,Oval,52,101,105,108,176
+Male,Oval,53,115,93,102,177
+Male,Oval,50,120,96,103,178
+Male,Oval,48,115,95,96,182
+Male,Oval,49,116,90,97,169
+Male,Oval,53,107,104,98,176
+Male,Oval,48,107,104,111,175
+Male,Oval,54,116,101,100,169
+Male,Oval,49,100,103,111,192
+Male,Oval,54,103,94,106,182
+Male,Oval,47,120,102,111,183
+Male,Oval,51,103,104,113,188
+Male,Oval,51,118,104,100,191
+Male,Oval,55,102,100,107,185
+Male,Oval,55,105,93,95,188
+Male,Oval,51,110,93,106,165
+Male,Oval,49,106,103,95,182
+Male,Oval,53,107,95,104,170
+Male,Oval,47,117,92,99,183
+Male,Oval,48,113,96,100,190
+Male,Oval,55,105,94,106,179
+Male,Oval,55,112,95,115,190
+Male,Oval,52,114,95,112,166
+Male,Oval,46,118,91,106,169
+Male,Oval,52,109,103,99,195
+Male,Oval,50,101,91,96,170
+Male,Oval,53,103,101,106,184
+Male,Oval,53,112,103,106,177
+Male,Oval,45,104,98,96,194
+Male,Oval,53,107,96,109,179
+Male,Oval,51,107,100,99,179
+Male,Oval,47,112,104,105,168
+Male,Oval,45,106,105,104,179
+Male,Oval,52,114,103,112,175
+Male,Oval,45,110,93,101,177
+Male,Oval,51,102,98,109,192
+Male,Oval,51,116,92,114,194
+Male,Oval,51,109,102,106,190
+Male,Oval,51,117,104,113,166
+Male,Oval,49,110,98,98,178
+Male,Oval,50,112,96,113,177
+Male,Oval,45,118,98,114,195
+Male,Oval,46,112,101,111,187
+Male,Oval,46,103,97,113,176
+Male,Oval,45,116,96,104,192
+Male,Oval,49,118,97,115,171
+Male,Oval,50,117,104,108,172
+Male,Oval,46,116,98,95,173
+Male,Oval,45,115,90,105,169
+Male,Oval,50,115,102,105,168
+Male,Oval,51,116,95,111,175
+Male,Oval,49,114,98,110,195
+Male,Oval,47,102,97,111,182
+Male,Oval,50,118,90,106,183
+Male,Oval,45,100,95,97,195
+Male,Oval,47,118,105,104,173
+Male,Oval,46,111,95,107,165
+Male,Oval,48,118,94,110,192
+Male,Oval,55,104,103,110,176
+Male,Oval,48,120,92,105,180
+Male,Oval,51,102,97,105,171
+Male,Oval,45,114,94,98,175
+Male,Oval,48,101,102,113,167
+Male,Oval,50,112,90,96,175
+Male,Oval,53,103,101,110,165
+Male,Oval,47,117,92,100,174
+Male,Oval,45,120,96,113,181
+Male,Oval,47,104,105,97,191
+Male,Oval,46,120,100,104,183
+Male,Oval,53,112,101,99,177
+Male,Oval,52,107,90,111,173
+Male,Oval,51,112,92,98,188
+Male,Oval,45,109,97,103,190
+Male,Oval,46,113,98,100,182
+Male,Oval,54,104,97,102,167
+Male,Oval,52,115,102,95,169
+Male,Oval,54,100,95,100,185
+Male,Oval,46,111,90,112,165
+Male,Oval,55,114,94,99,170
+Male,Oval,55,110,91,110,180
+Male,Oval,51,100,104,109,184
+Male,Oval,51,111,103,112,188
+Male,Oval,48,104,104,95,193
+Male,Oval,52,120,101,105,168
+Male,Oval,48,112,98,101,183
+Male,Oval,51,104,103,114,177
+Male,Oval,54,112,95,100,183
+Male,Oval,47,113,103,95,185
+Male,Oval,47,100,100,96,195
+Male,Oval,51,111,93,111,179
+Male,Oval,49,101,95,103,172
+Male,Oval,50,113,93,102,172
+Male,Oval,45,103,91,112,176
+Male,Oval,49,115,94,111,170
+Male,Oval,54,108,94,99,178
+Male,Oval,55,113,97,108,194
+Male,Oval,54,100,96,103,169
+Male,Oval,54,116,91,99,187
+Male,Oval,51,115,94,108,185
+Male,Oval,46,100,101,108,175
+Male,Oval,54,109,100,108,167
+Male,Oval,55,100,100,104,188
+Male,Oval,52,110,95,115,186
+Male,Oval,48,120,102,97,176
+Male,Oval,52,119,90,107,179
+Male,Oval,55,114,91,101,183
+Male,Oval,52,111,92,104,173
+Male,Oval,52,116,92,113,186
+Male,Oval,55,118,99,102,185
+Male,Oval,54,101,94,110,177
+Male,Oval,45,110,92,102,176
+Male,Oval,52,119,95,110,190
+Male,Oval,49,103,92,110,168
+Male,Oval,50,113,96,108,195
+Male,Oval,46,115,95,97,184
+Male,Oval,51,119,101,95,194
+Male,Oval,49,117,105,98,179
+Male,Oval,54,112,102,98,182
+Male,Oval,54,100,104,96,187
+Male,Oval,54,115,95,109,180
+Male,Oval,49,103,95,108,182
+Male,Oval,55,118,100,112,179
+Male,Oval,47,111,100,96,171
+Male,Oval,51,107,96,112,185
+Male,Oval,46,118,97,103,179
+Male,Oval,45,104,103,112,175
+Male,Oval,46,115,98,112,194
+Male,Oval,49,102,104,102,190
+Male,Oval,48,114,102,108,193
+Male,Oval,52,115,105,95,180
+Male,Oval,51,116,104,99,167
+Male,Oval,53,100,90,102,192
+Male,Oval,54,106,93,108,194
+Male,Oval,54,104,100,105,182
+Male,Oval,47,110,94,97,178
+Male,Oval,46,103,96,104,186
+Male,Oval,49,112,104,112,185
+Male,Oval,54,105,101,95,192
+Male,Oval,54,105,90,101,183
+Male,Oval,52,120,99,98,173
+Male,Oval,53,108,96,113,178
+Male,Oval,50,115,103,104,194
+Male,Oval,45,110,103,100,174
+Male,Oval,47,116,93,96,174
+Male,Oval,45,113,92,95,175
+Male,Oval,53,100,91,97,174
+Male,Oval,50,106,102,107,175
+Male,Oval,53,102,105,105,172
+Male,Oval,55,107,94,105,178
+Male,Oval,53,113,102,97,183
+Male,Oval,45,112,95,104,182
+Male,Oval,55,100,97,96,175
+Male,Oval,50,101,90,109,185
+Male,Oval,47,101,92,100,179
+Male,Oval,51,104,90,106,189
+Male,Oval,46,104,98,96,165
+Male,Oval,49,107,96,111,170
+Male,Oval,49,110,94,97,170
+Male,Oval,54,116,96,103,193
+Male,Oval,53,103,95,97,165
+Male,Oval,47,120,100,101,171
+Male,Oval,54,115,105,96,191
+Male,Oval,47,116,95,97,175
+Male,Oval,49,117,100,106,194
+Male,Oval,49,112,99,104,175
+Male,Oval,51,120,100,110,181
+Male,Oval,55,106,98,111,171
+Male,Oval,54,111,105,104,175
+Male,Oval,51,115,96,105,189
+Male,Oval,46,112,96,113,188
+Male,Oval,48,114,104,114,191
+Male,Oval,54,106,95,99,191
+Male,Oval,48,108,90,103,192
+Male,Oval,46,103,91,107,183
+Male,Oval,52,118,102,100,179
+Male,Oval,51,105,92,114,194
+Male,Oval,49,103,98,96,180
+Male,Oval,50,105,90,98,171
+Male,Oval,52,118,103,100,188
+Male,Oval,53,108,95,105,166
+Male,Oval,46,119,92,114,186
+Male,Oval,49,115,100,103,182
+Male,Oval,51,115,95,115,168
+Male,Oval,54,120,93,106,165
+Male,Oval,49,113,93,95,177
+Male,Oval,48,116,101,105,194
+Male,Oval,54,103,104,105,176
+Male,Oval,45,115,95,115,178
+Male,Oval,50,105,90,104,182
+Male,Oval,46,103,92,114,192
+Male,Oval,48,117,93,104,170
+Male,Oval,54,105,94,105,176
+Male,Oval,52,109,92,115,187
+Male,Oval,55,114,96,95,178
+Male,Oval,48,105,105,102,165
+Male,Oval,50,107,92,100,186
+Male,Oval,48,100,90,113,190
+Male,Oval,49,114,98,99,173
+Male,Oval,54,115,105,96,184
+Male,Oval,50,112,95,109,178
+Male,Oval,45,113,98,109,185
+Male,Oval,52,101,92,95,189
+Male,Oval,53,119,96,101,189
+Male,Oval,45,103,101,100,191
+Male,Oval,52,101,97,100,189
+Male,Oval,47,112,93,99,183
+Male,Oval,49,101,92,96,193
+Male,Oval,55,107,104,108,176
+Male,Oval,49,100,104,111,193
+Male,Oval,48,101,95,105,166
+Male,Oval,49,102,93,103,183
+Male,Oval,46,113,90,109,174
+Male,Oval,55,108,97,115,182
+Male,Oval,55,117,92,115,172
+Male,Oval,50,106,93,97,185
+Male,Oval,48,103,92,108,171
+Male,Oval,46,110,90,102,172
+Male,Oval,51,107,91,99,176
+Male,Oval,51,111,100,111,187
+Male,Oval,51,112,92,100,187
+Male,Oval,53,102,105,108,185
+Male,Oval,46,106,94,100,173
+Male,Oval,54,114,103,95,184
+Male,Oval,49,102,94,107,186
+Male,Oval,53,103,103,113,171
+Male,Oval,55,114,99,100,195
+Male,Oval,49,108,102,98,170
+Male,Oval,54,104,98,114,195
+Male,Oval,54,108,105,113,177
+Male,Oval,50,116,93,104,183
+Male,Oval,54,100,105,108,174
+Male,Oval,48,120,94,103,186
+Male,Oval,46,106,99,114,186
+Male,Oval,45,105,102,115,166
+Male,Oval,50,103,92,101,169
+Male,Oval,53,105,100,102,171
+Male,Oval,47,117,92,114,185
+Male,Oval,52,119,102,98,168
+Male,Oval,51,113,105,107,189
+Male,Oval,50,105,103,104,167
+Male,Oval,48,103,97,103,193
+Male,Oval,47,112,100,113,167
+Male,Oval,46,114,95,115,168
+Male,Oval,46,120,96,99,170
+Male,Oval,52,110,99,102,195
+Male,Oval,53,110,99,97,172
+Male,Oval,48,101,100,102,168
+Male,Oval,50,119,99,100,185
+Male,Oval,51,118,93,96,166
+Male,Oval,49,101,99,98,165
+Male,Oval,49,113,90,111,174
+Male,Oval,55,110,102,105,182
+Male,Oval,52,103,93,114,183
+Male,Oval,48,118,92,107,166
+Male,Oval,48,113,98,102,182
+Male,Oval,47,102,93,108,185
+Male,Oval,55,113,99,111,174
+Male,Oval,49,101,100,104,181
+Male,Oval,54,120,103,106,172
+Male,Oval,55,108,104,109,174
+Male,Oval,53,117,100,104,167
+Male,Oval,48,107,97,103,170
+Male,Oval,46,111,101,113,185
+Male,Oval,54,110,101,100,177
+Male,Oval,50,101,104,106,189
+Male,Oval,49,113,105,106,189
+Male,Oval,46,102,96,100,193
+Male,Oval,48,110,99,108,181
+Male,Oval,50,108,100,99,184
+Male,Oval,47,103,105,107,179
+Male,Oval,53,114,102,103,178
+Male,Oval,50,101,100,114,178
+Male,Oval,53,100,92,98,177
+Male,Oval,46,119,93,102,176
+Male,Oval,52,103,96,113,166
+Male,Oval,45,120,99,103,169
+Male,Oval,51,111,95,106,174
+Male,Oval,53,102,96,115,185
+Male,Oval,50,112,90,105,189
+Male,Oval,55,109,98,102,176
+Male,Oval,48,107,100,96,170
+Male,Oval,49,108,102,110,183
+Male,Oval,51,115,92,99,167
+Male,Oval,54,105,103,109,194
+Male,Oval,55,102,90,102,170
+Male,Oval,52,101,104,99,175
+Male,Oval,45,105,91,109,190
+Male,Oval,48,119,99,111,192
+Male,Oval,51,108,102,98,182
+Male,Oval,48,110,92,97,181
+Male,Oval,47,118,94,104,167
+Male,Oval,49,116,100,95,180
+Male,Oval,52,119,93,106,170
+Male,Oval,52,114,101,102,184
+Male,Oval,51,108,96,105,174
+Male,Oval,50,119,105,113,184
+Male,Oval,54,118,91,101,174
+Male,Oval,45,119,100,113,173
+Male,Oval,51,116,97,95,172
+Male,Oval,49,101,105,112,187
+Male,Oval,48,101,100,106,190
+Male,Oval,52,101,103,103,188
+Male,Oval,48,120,103,96,173
+Male,Oval,46,104,103,108,189
+Male,Oval,51,120,93,115,188
+Male,Oval,52,109,90,100,194
+Male,Oval,53,119,98,100,174
+Male,Oval,47,118,99,108,185
+Male,Oval,46,120,99,112,174
+Male,Oval,45,104,98,111,167
+Male,Oval,55,101,99,102,180
+Male,Oval,49,115,90,97,174
+Male,Oval,47,100,100,108,182
+Male,Oval,55,106,104,101,194
+Male,Oval,54,115,100,111,184
+Male,Oval,54,109,101,103,167
+Male,Oval,55,102,99,103,172
+Male,Oval,51,104,90,109,175
+Male,Oval,46,103,94,113,191
+Male,Oval,46,117,104,103,186
+Male,Oval,53,109,95,95,178
+Male,Oval,54,115,97,114,184
+Male,Oval,47,114,90,107,185
+Male,Oval,49,102,104,108,165
+Male,Oval,50,114,90,99,176
+Male,Oval,54,109,105,99,176
+Male,Oval,51,103,91,97,192
+Male,Oval,53,114,104,95,180
+Male,Oval,51,102,101,100,186
+Male,Oval,53,117,92,112,174
+Male,Oval,54,117,101,106,168
+Male,Oval,47,111,91,99,192
+Male,Oval,51,117,100,111,168
+Male,Oval,49,101,95,97,177
+Male,Oval,49,100,90,106,174
+Male,Oval,48,106,101,104,190
+Male,Oval,54,100,95,101,179
+Male,Oval,45,120,94,95,177
+Male,Oval,52,112,90,100,171
+Male,Oval,54,116,94,111,191
+Male,Oval,46,113,95,96,165
+Male,Oval,53,113,92,107,168
+Male,Oval,52,106,91,113,188
+Male,Oval,48,102,93,115,183
+Male,Oval,54,111,93,99,166
+Male,Oval,50,114,98,114,166
+Male,Oval,54,101,92,100,193
+Male,Oval,46,114,91,106,184
+Male,Oval,46,105,101,111,190
+Male,Oval,52,120,101,108,189
+Male,Oval,55,113,100,95,194
+Male,Oval,55,102,98,97,193
+Male,Oval,55,105,95,111,170
+Male,Oval,52,119,101,106,165
+Male,Oval,53,120,103,106,194
+Male,Oval,53,104,99,101,174
+Male,Oval,45,113,98,111,193
+Male,Oval,45,102,99,104,187
+Male,Oval,52,118,102,107,195
+Male,Oval,48,118,103,101,185
+Male,Oval,52,120,104,108,180
+Male,Oval,52,106,100,105,165
+Male,Oval,45,115,104,96,176
+Male,Oval,50,114,94,100,176
+Male,Oval,52,100,97,113,173
+Male,Oval,50,117,96,97,191
+Male,Oval,52,112,104,97,172
+Male,Oval,54,109,93,98,167
+Male,Oval,49,105,102,109,168
+Male,Oval,47,106,92,106,180
+Male,Oval,52,118,93,100,194
+Male,Oval,49,104,100,97,180
+Male,Oval,52,108,93,104,179
+Male,Oval,51,115,104,97,179
+Male,Oval,48,118,98,96,183
+Male,Oval,45,102,97,110,189
+Male,Oval,45,112,103,96,166
+Male,Oval,52,112,104,112,191
+Male,Oval,50,104,95,114,191
+Male,Oval,51,117,102,105,180
+Male,Oval,55,111,96,114,177
+Male,Oval,53,115,92,105,168
+Male,Oval,55,112,104,113,167
+Male,Oval,49,102,102,114,183
+Male,Oval,51,118,91,102,166
+Male,Oval,54,111,101,112,187
+Male,Oval,49,113,105,95,186
+Male,Oval,53,115,92,106,186
+Male,Oval,54,104,100,110,175
+Male,Oval,46,107,103,109,171
+Male,Oval,52,104,99,102,182
+Male,Oval,46,111,97,100,188
+Male,Oval,45,109,91,110,187
+Male,Oval,47,100,100,102,169
+Male,Oval,52,101,104,98,193
+Male,Oval,47,108,102,108,167
+Male,Oval,53,104,101,104,184
+Male,Oval,48,114,95,115,194
+Male,Oval,47,106,92,98,193
+Male,Oval,49,106,96,95,169
+Male,Oval,48,114,100,107,190
+Male,Oval,53,100,91,115,172
+Male,Oval,48,109,97,101,190
+Male,Oval,48,108,104,115,191
+Male,Oval,54,120,99,110,189
+Male,Oval,53,102,103,101,181
+Male,Oval,53,112,90,103,194
+Male,Oval,55,111,102,102,174
+Male,Oval,54,107,95,95,178
+Male,Oval,53,102,99,95,174
+Male,Oval,55,114,97,106,176
+Male,Oval,54,114,95,113,189
+Male,Oval,45,120,97,106,168
+Male,Oval,55,112,98,98,171
+Male,Oval,50,114,104,114,168
+Male,Oval,45,104,92,105,179
+Male,Oval,53,107,100,111,173
+Male,Oval,45,119,92,113,194
+Male,Oval,53,104,91,105,176
+Male,Oval,47,112,94,97,168
+Male,Oval,51,119,92,111,190
+Male,Oval,48,107,101,95,183
+Male,Oval,46,120,100,112,181
+Male,Oval,46,104,98,98,187
+Male,Oval,52,111,102,108,181
+Male,Oval,48,100,95,111,169
+Male,Oval,46,112,94,112,177
+Male,Oval,45,119,97,109,172
+Male,Oval,46,103,97,99,186
+Male,Oval,53,104,96,111,176
+Male,Oval,47,106,94,106,192
+Male,Oval,48,118,103,111,169
+Male,Oval,46,100,102,115,193
+Male,Oval,49,116,97,112,171
+Male,Oval,48,112,97,95,183
+Male,Oval,54,113,98,113,185
+Male,Oval,54,112,95,97,179
+Male,Oval,45,119,101,108,165
+Male,Oval,47,119,91,107,185
+Male,Oval,51,112,99,104,182
+Male,Oval,45,104,92,96,174
+Male,Oval,55,115,100,114,181
+Male,Oval,51,114,100,98,186
+Male,Oval,53,108,100,115,179
+Male,Oval,55,108,95,101,185
+Male,Oval,50,117,90,104,167
+Male,Oval,49,104,100,108,179
+Male,Oval,53,111,105,104,165
+Male,Oval,51,120,100,105,181
+Male,Oval,46,108,91,115,193
+Male,Oval,51,102,94,100,195
+Male,Oval,53,108,92,96,181
+Male,Oval,55,110,95,105,178
+Male,Oval,45,111,94,104,182
+Male,Oval,48,102,95,104,182
+Male,Oval,50,110,98,108,194
+Male,Oval,49,115,101,106,176
+Male,Oval,50,102,91,98,180
+Male,Oval,48,114,100,114,190
+Male,Oval,47,119,96,100,188
+Male,Oval,49,117,100,110,173
+Male,Oval,48,108,90,105,194
+Male,Oval,52,118,102,110,167
+Male,Oval,49,118,94,106,177
+Male,Oval,49,120,97,107,170
+Male,Oval,45,106,93,111,173
+Male,Oval,45,113,99,103,180
+Male,Oval,46,111,94,106,192
+Male,Oval,45,114,93,103,177
+Male,Oval,54,108,105,108,187
+Male,Oval,52,103,95,104,175
+Male,Oval,48,106,96,107,184
+Male,Oval,51,120,97,99,168
+Male,Oval,50,117,90,115,192
+Male,Oval,46,116,98,108,190
+Male,Oval,52,106,103,99,167
+Male,Oval,48,111,104,108,189
+Male,Oval,52,103,105,115,182
+Male,Oval,50,113,93,104,173
+Male,Oval,55,118,104,95,171
+Male,Oval,51,108,105,104,168
+Male,Oval,46,104,105,97,191
+Male,Oval,52,102,90,107,192
+Male,Oval,47,104,98,100,185
+Male,Oval,49,112,96,114,185
+Male,Oval,45,110,97,103,195
+Male,Trapezoid,50,111,93,102,187
+Male,Trapezoid,52,106,87,91,185
+Male,Trapezoid,57,109,80,97,182
+Male,Trapezoid,53,114,81,102,186
+Male,Trapezoid,56,124,93,96,175
+Male,Trapezoid,54,108,82,103,168
+Male,Trapezoid,54,122,90,91,193
+Male,Trapezoid,58,120,89,101,181
+Male,Trapezoid,56,113,93,90,193
+Male,Trapezoid,52,125,88,95,180
+Male,Trapezoid,48,108,95,94,172
+Male,Trapezoid,50,106,90,100,184
+Male,Trapezoid,51,114,84,99,180
+Male,Trapezoid,56,124,82,101,176
+Male,Trapezoid,56,122,85,98,169
+Male,Trapezoid,56,110,90,91,173
+Male,Trapezoid,56,119,84,100,177
+Male,Trapezoid,52,109,92,101,187
+Male,Trapezoid,48,112,80,100,193
+Male,Trapezoid,53,117,81,103,190
+Male,Trapezoid,48,121,81,105,184
+Male,Trapezoid,49,105,89,96,177
+Male,Trapezoid,55,119,80,94,171
+Male,Trapezoid,51,112,85,91,188
+Male,Trapezoid,57,106,90,98,175
+Male,Trapezoid,56,123,87,95,175
+Male,Trapezoid,57,113,90,103,192
+Male,Trapezoid,56,123,92,98,175
+Male,Trapezoid,54,108,84,97,187
+Male,Trapezoid,57,110,83,90,183
+Male,Trapezoid,49,116,88,91,181
+Male,Trapezoid,57,111,88,101,178
+Male,Trapezoid,51,124,95,105,167
+Male,Trapezoid,49,115,88,91,193
+Male,Trapezoid,52,118,92,100,193
+Male,Trapezoid,56,120,92,90,193
+Male,Trapezoid,53,109,92,93,186
+Male,Trapezoid,50,108,86,90,166
+Male,Trapezoid,54,117,87,98,187
+Male,Trapezoid,50,122,86,93,182
+Male,Trapezoid,50,109,94,95,174
+Male,Trapezoid,54,114,87,103,166
+Male,Trapezoid,48,116,95,91,183
+Male,Trapezoid,55,116,88,97,171
+Male,Trapezoid,57,108,87,102,179
+Male,Trapezoid,50,109,82,103,177
+Male,Trapezoid,57,124,94,100,195
+Male,Trapezoid,56,124,93,91,185
+Male,Trapezoid,50,120,91,96,168
+Male,Trapezoid,48,105,92,92,177
+Male,Trapezoid,54,124,93,103,181
+Male,Trapezoid,52,113,88,92,188
+Male,Trapezoid,54,113,93,98,193
+Male,Trapezoid,53,112,93,92,170
+Male,Trapezoid,55,122,81,103,179
+Male,Trapezoid,48,121,89,90,191
+Male,Trapezoid,48,115,86,105,167
+Male,Trapezoid,50,113,85,90,173
+Male,Trapezoid,48,122,83,93,190
+Male,Trapezoid,49,122,88,93,182
+Male,Trapezoid,58,116,89,96,187
+Male,Trapezoid,58,109,80,99,172
+Male,Trapezoid,51,114,85,97,183
+Male,Trapezoid,56,109,94,92,180
+Male,Trapezoid,51,110,81,105,174
+Male,Trapezoid,49,105,94,105,186
+Male,Trapezoid,52,122,86,97,187
+Male,Trapezoid,52,106,91,92,182
+Male,Trapezoid,48,116,89,91,173
+Male,Trapezoid,52,118,84,96,188
+Male,Trapezoid,53,114,93,95,166
+Male,Trapezoid,50,107,91,103,170
+Male,Trapezoid,57,108,80,100,166
+Male,Trapezoid,52,118,91,95,166
+Male,Trapezoid,49,118,92,91,178
+Male,Trapezoid,52,113,91,97,180
+Male,Trapezoid,51,105,82,100,194
+Male,Trapezoid,49,120,93,94,170
+Male,Trapezoid,50,108,82,92,185
+Male,Trapezoid,56,124,85,90,187
+Male,Trapezoid,48,125,94,93,188
+Male,Trapezoid,49,122,87,90,177
+Male,Trapezoid,51,122,83,99,183
+Male,Trapezoid,57,111,92,103,172
+Male,Trapezoid,49,105,91,100,180
+Male,Trapezoid,52,111,90,105,168
+Male,Trapezoid,50,112,80,91,175
+Male,Trapezoid,49,119,84,92,183
+Male,Trapezoid,50,106,95,99,187
+Male,Trapezoid,48,107,87,90,195
+Male,Trapezoid,49,105,89,100,186
+Male,Trapezoid,53,123,80,92,188
+Male,Trapezoid,55,108,89,100,174
+Male,Trapezoid,50,118,89,100,178
+Male,Trapezoid,56,119,90,93,170
+Male,Trapezoid,52,106,91,100,182
+Male,Trapezoid,56,111,90,96,174
+Male,Trapezoid,48,118,81,103,187
+Male,Trapezoid,57,117,93,90,181
+Male,Trapezoid,51,115,90,105,176
+Male,Trapezoid,52,122,92,90,179
+Male,Trapezoid,54,115,83,101,179
+Male,Trapezoid,53,121,91,103,177
+Male,Trapezoid,58,116,80,97,173
+Male,Trapezoid,52,114,92,100,167
+Male,Trapezoid,53,125,95,92,177
+Male,Trapezoid,54,110,82,97,177
+Male,Trapezoid,50,108,83,105,187
+Male,Trapezoid,52,105,91,92,191
+Male,Trapezoid,51,124,90,105,184
+Male,Trapezoid,56,111,95,94,173
+Male,Trapezoid,49,116,92,100,188
+Male,Trapezoid,54,107,93,96,192
+Male,Trapezoid,55,105,93,102,175
+Male,Trapezoid,50,114,83,102,169
+Male,Trapezoid,53,122,84,94,194
+Male,Trapezoid,48,119,89,101,181
+Male,Trapezoid,58,109,83,100,184
+Male,Trapezoid,48,105,92,91,194
+Male,Trapezoid,58,109,80,95,167
+Male,Trapezoid,56,109,80,97,169
+Male,Trapezoid,50,106,80,94,178
+Male,Trapezoid,50,105,85,96,168
+Male,Trapezoid,55,121,89,104,173
+Male,Trapezoid,48,120,90,97,191
+Male,Trapezoid,49,117,84,91,191
+Male,Trapezoid,50,113,92,105,174
+Male,Trapezoid,55,119,80,94,171
+Male,Trapezoid,48,111,84,92,193
+Male,Trapezoid,51,114,94,95,177
+Male,Trapezoid,48,110,89,105,192
+Male,Trapezoid,53,114,91,98,176
+Male,Trapezoid,55,111,89,99,165
+Male,Trapezoid,57,125,87,96,192
+Male,Trapezoid,55,115,81,93,172
+Male,Trapezoid,50,114,90,102,179
+Male,Trapezoid,51,123,81,102,177
+Male,Trapezoid,53,117,91,102,190
+Male,Trapezoid,54,116,87,104,166
+Male,Trapezoid,50,121,82,92,167
+Male,Trapezoid,51,114,80,105,189
+Male,Trapezoid,54,105,87,104,186
+Male,Trapezoid,58,108,81,104,175
+Male,Trapezoid,57,116,85,97,171
+Male,Trapezoid,52,123,84,105,192
+Male,Trapezoid,48,109,92,90,186
+Male,Trapezoid,58,107,95,94,170
+Male,Trapezoid,53,111,89,96,184
+Male,Trapezoid,51,107,94,97,190
+Male,Trapezoid,56,114,80,104,175
+Male,Trapezoid,52,118,92,90,168
+Male,Trapezoid,50,119,92,93,192
+Male,Trapezoid,54,114,92,101,194
+Male,Trapezoid,48,106,89,98,180
+Male,Trapezoid,49,105,84,96,177
+Male,Trapezoid,58,113,93,91,174
+Male,Trapezoid,49,118,81,94,188
+Male,Trapezoid,50,113,85,90,170
+Male,Trapezoid,56,121,90,97,165
+Male,Trapezoid,54,114,94,99,169
+Male,Trapezoid,49,115,91,94,183
+Male,Trapezoid,53,120,90,102,167
+Male,Trapezoid,51,115,81,102,177
+Male,Trapezoid,58,113,83,94,179
+Male,Trapezoid,53,110,85,103,186
+Male,Trapezoid,57,114,89,97,176
+Male,Trapezoid,57,111,80,90,173
+Male,Trapezoid,58,106,93,96,169
+Male,Trapezoid,54,117,90,93,185
+Male,Trapezoid,58,119,93,90,172
+Male,Trapezoid,55,119,91,99,183
+Male,Trapezoid,53,123,93,104,177
+Male,Trapezoid,58,109,91,100,165
+Male,Trapezoid,56,121,85,90,172
+Male,Trapezoid,57,122,85,104,183
+Male,Trapezoid,48,116,93,101,185
+Male,Trapezoid,52,117,80,104,189
+Male,Trapezoid,55,117,86,93,170
+Male,Trapezoid,57,108,93,93,188
+Male,Trapezoid,51,110,83,103,187
+Male,Trapezoid,56,110,80,104,179
+Male,Trapezoid,54,125,88,97,181
+Male,Trapezoid,56,105,95,94,165
+Male,Trapezoid,54,125,89,96,191
+Male,Trapezoid,55,123,93,91,175
+Male,Trapezoid,56,110,90,99,168
+Male,Trapezoid,51,117,80,103,166
+Male,Trapezoid,56,110,81,92,195
+Male,Trapezoid,48,119,87,101,195
+Male,Trapezoid,57,117,87,94,176
+Male,Trapezoid,51,106,90,100,187
+Male,Trapezoid,58,110,82,90,170
+Male,Trapezoid,58,109,88,94,184
+Male,Trapezoid,58,108,86,102,185
+Male,Trapezoid,51,118,80,105,171
+Male,Trapezoid,48,109,86,90,170
+Male,Trapezoid,56,109,91,91,176
+Male,Trapezoid,50,106,89,96,180
+Male,Trapezoid,58,121,85,98,171
+Male,Trapezoid,52,108,82,97,184
+Male,Trapezoid,55,117,90,97,189
+Male,Trapezoid,56,111,93,90,185
+Male,Trapezoid,55,124,89,90,179
+Male,Trapezoid,56,122,91,93,168
+Male,Trapezoid,54,116,93,94,193
+Male,Trapezoid,58,115,80,91,172
+Male,Trapezoid,58,119,80,93,184
+Male,Trapezoid,53,112,91,102,186
+Male,Trapezoid,49,109,88,92,171
+Male,Trapezoid,54,119,83,97,172
+Male,Trapezoid,56,114,87,91,186
+Male,Trapezoid,51,124,93,93,166
+Male,Trapezoid,56,106,86,103,191
+Male,Trapezoid,50,108,82,102,184
+Male,Trapezoid,48,108,86,99,167
+Male,Trapezoid,51,119,93,93,179
+Male,Trapezoid,51,122,81,101,189
+Male,Trapezoid,48,120,83,95,169
+Male,Trapezoid,48,116,93,104,192
+Male,Trapezoid,50,120,91,102,178
+Male,Trapezoid,58,108,86,99,193
+Male,Trapezoid,48,112,89,102,187
+Male,Trapezoid,52,108,81,103,188
+Male,Trapezoid,55,118,85,105,175
+Male,Trapezoid,58,124,84,100,172
+Male,Trapezoid,51,118,91,101,170
+Male,Trapezoid,48,119,81,94,191
+Male,Trapezoid,58,121,87,102,186
+Male,Trapezoid,54,116,84,92,194
+Male,Trapezoid,58,114,82,90,182
+Male,Trapezoid,48,124,88,102,182
+Male,Trapezoid,49,115,80,102,192
+Male,Trapezoid,49,116,81,90,177
+Male,Trapezoid,52,119,81,100,181
+Male,Trapezoid,51,110,95,105,178
+Male,Trapezoid,50,124,91,92,193
+Male,Trapezoid,55,117,91,101,176
+Male,Trapezoid,49,120,93,91,176
+Male,Trapezoid,55,112,89,91,176
+Male,Trapezoid,50,124,86,103,172
+Male,Trapezoid,51,106,94,90,184
+Male,Trapezoid,57,120,80,103,183
+Male,Trapezoid,58,105,92,94,166
+Male,Trapezoid,57,110,85,98,195
+Male,Trapezoid,56,111,88,98,173
+Male,Trapezoid,50,112,83,90,194
+Male,Trapezoid,57,118,89,93,168
+Male,Trapezoid,57,116,94,102,193
+Male,Trapezoid,56,115,91,94,177
+Male,Trapezoid,53,115,92,95,173
+Male,Trapezoid,57,112,93,94,166
+Male,Trapezoid,56,123,90,105,175
+Male,Trapezoid,55,119,91,103,195
+Male,Trapezoid,55,105,87,90,168
+Male,Trapezoid,49,115,88,90,191
+Male,Trapezoid,56,120,89,96,183
+Male,Trapezoid,55,108,95,90,169
+Male,Trapezoid,51,105,90,95,195
+Male,Trapezoid,49,107,84,90,188
+Male,Trapezoid,54,108,92,90,186
+Male,Trapezoid,52,122,81,103,170
+Male,Trapezoid,58,105,95,93,178
+Male,Trapezoid,57,118,87,93,187
+Male,Trapezoid,58,123,84,104,174
+Male,Trapezoid,53,110,94,95,176
+Male,Trapezoid,58,116,87,96,168
+Male,Trapezoid,57,123,85,98,165
+Male,Trapezoid,53,118,80,93,169
+Male,Trapezoid,49,111,93,101,170
+Male,Trapezoid,48,121,87,97,180
+Male,Trapezoid,50,113,89,97,187
+Male,Trapezoid,49,110,93,95,190
+Male,Trapezoid,54,120,81,98,186
+Male,Trapezoid,51,107,90,98,191
+Male,Trapezoid,50,122,80,94,181
+Male,Trapezoid,58,109,89,96,194
+Male,Trapezoid,56,116,86,99,177
+Male,Trapezoid,53,114,87,90,183
+Male,Trapezoid,55,108,86,102,178
+Male,Trapezoid,50,107,81,104,168
+Male,Trapezoid,48,111,92,93,188
+Male,Trapezoid,57,112,88,99,185
+Male,Trapezoid,48,106,81,100,192
+Male,Trapezoid,56,105,90,94,166
+Male,Trapezoid,49,113,80,98,187
+Male,Trapezoid,56,112,90,96,170
+Male,Trapezoid,50,124,81,96,171
+Male,Trapezoid,56,112,83,94,177
+Male,Trapezoid,58,122,95,102,165
+Male,Trapezoid,52,111,92,93,177
+Male,Trapezoid,53,117,84,104,183
+Male,Trapezoid,53,111,84,103,174
+Male,Trapezoid,57,122,89,91,169
+Male,Trapezoid,58,124,80,94,185
+Male,Trapezoid,48,122,80,104,172
+Male,Trapezoid,53,120,81,104,173
+Male,Trapezoid,51,119,81,104,177
+Male,Trapezoid,56,105,83,100,182
+Male,Trapezoid,48,124,81,99,179
+Male,Trapezoid,57,123,83,92,173
+Male,Trapezoid,50,107,92,92,189
+Male,Trapezoid,48,124,93,104,187
+Male,Trapezoid,55,117,81,95,191
+Male,Trapezoid,51,123,88,98,172
+Male,Trapezoid,57,109,81,96,194
+Male,Trapezoid,53,121,86,99,188
+Male,Trapezoid,58,107,89,95,169
+Male,Trapezoid,58,122,90,90,165
+Male,Trapezoid,54,105,92,93,187
+Male,Trapezoid,55,113,82,104,182
+Male,Trapezoid,57,124,82,104,170
+Male,Trapezoid,54,117,83,95,193
+Male,Trapezoid,58,111,91,101,165
+Male,Trapezoid,52,122,89,102,190
+Male,Trapezoid,50,110,82,90,167
+Male,Trapezoid,49,124,93,95,181
+Male,Trapezoid,56,109,85,102,170
+Male,Trapezoid,58,122,83,105,183
+Male,Trapezoid,51,114,91,97,180
+Male,Trapezoid,54,106,83,99,194
+Male,Trapezoid,57,123,80,96,172
+Male,Trapezoid,58,116,89,98,187
+Male,Trapezoid,49,121,88,91,171
+Male,Trapezoid,56,119,88,95,167
+Male,Trapezoid,55,112,93,98,184
+Male,Trapezoid,53,106,91,99,191
+Male,Trapezoid,56,107,86,100,188
+Male,Trapezoid,55,108,85,93,174
+Male,Trapezoid,55,110,83,103,170
+Male,Trapezoid,53,123,82,99,178
+Male,Trapezoid,58,109,83,102,184
+Male,Trapezoid,52,119,80,93,187
+Male,Trapezoid,51,125,93,92,186
+Male,Trapezoid,49,108,94,90,182
+Male,Trapezoid,50,110,94,101,181
+Male,Trapezoid,58,112,95,92,177
+Male,Trapezoid,52,115,81,105,177
+Male,Trapezoid,50,117,81,102,172
+Male,Trapezoid,48,108,84,92,176
+Male,Trapezoid,56,117,95,93,172
+Male,Trapezoid,52,105,80,97,188
+Male,Trapezoid,58,110,93,99,172
+Male,Trapezoid,57,117,81,94,182
+Male,Trapezoid,49,110,83,97,191
+Male,Trapezoid,50,117,89,97,184
+Male,Trapezoid,57,123,86,98,175
+Male,Trapezoid,51,110,94,92,195
+Male,Trapezoid,56,112,86,98,170
+Male,Trapezoid,53,105,95,91,189
+Male,Trapezoid,56,115,83,92,167
+Male,Trapezoid,56,112,90,104,183
+Male,Trapezoid,48,108,95,91,174
+Male,Trapezoid,49,107,89,93,173
+Male,Trapezoid,49,125,92,96,175
+Male,Trapezoid,53,125,84,93,177
+Male,Trapezoid,58,105,90,103,172
+Male,Trapezoid,57,119,83,101,171
+Male,Trapezoid,52,112,88,96,189
+Male,Trapezoid,54,115,80,101,194
+Male,Trapezoid,51,123,92,97,172
+Male,Trapezoid,54,118,90,98,183
+Male,Trapezoid,57,122,95,95,189
+Male,Trapezoid,53,120,92,99,186
+Male,Trapezoid,58,113,91,100,184
+Male,Trapezoid,57,124,89,101,175
+Male,Trapezoid,56,105,92,96,176
+Male,Trapezoid,58,121,84,92,168
+Male,Trapezoid,52,109,83,105,193
+Male,Trapezoid,54,120,85,100,188
+Male,Trapezoid,52,123,88,97,173
+Male,Trapezoid,52,112,89,94,192
+Male,Trapezoid,55,106,87,94,194
+Male,Trapezoid,51,106,94,102,174
+Male,Trapezoid,52,124,94,91,168
+Male,Trapezoid,51,124,89,96,195
+Male,Trapezoid,52,111,86,92,166
+Male,Trapezoid,57,106,83,100,191
+Male,Trapezoid,48,108,88,103,186
+Male,Trapezoid,50,125,82,104,190
+Male,Trapezoid,48,114,94,98,191
+Male,Trapezoid,53,121,95,102,187
+Male,Trapezoid,56,117,86,105,178
+Male,Trapezoid,48,108,85,96,180
+Male,Trapezoid,52,124,95,100,179
+Male,Trapezoid,53,109,94,90,191
+Male,Trapezoid,56,111,94,91,190
+Male,Trapezoid,56,110,90,103,171
+Male,Trapezoid,52,116,88,98,183
+Male,Trapezoid,50,119,95,103,191
+Male,Trapezoid,49,124,87,90,175
+Male,Trapezoid,53,117,90,96,188
+Male,Trapezoid,50,112,90,101,182
+Male,Trapezoid,51,123,93,92,190
+Male,Trapezoid,57,105,85,100,166
+Male,Trapezoid,48,123,95,100,167
+Male,Trapezoid,52,122,90,96,170
+Male,Trapezoid,56,125,91,100,188
+Male,Trapezoid,51,120,94,100,173
+Male,Trapezoid,53,107,87,99,184
+Male,Trapezoid,53,114,87,103,195
+Male,Trapezoid,53,106,86,103,186
+Male,Trapezoid,52,111,80,91,179
+Male,Trapezoid,54,115,80,101,193
+Male,Trapezoid,55,111,84,104,174
+Male,Trapezoid,55,123,92,102,176
+Male,Trapezoid,57,118,86,101,179
+Male,Trapezoid,55,112,91,102,175
+Male,Trapezoid,52,118,81,95,170
+Male,Trapezoid,52,118,81,91,177
+Male,Trapezoid,58,119,94,90,175
+Male,Trapezoid,58,118,94,92,168
+Male,Trapezoid,49,105,90,104,169
+Male,Trapezoid,51,119,91,100,190
+Male,Trapezoid,54,110,94,91,165
+Male,Trapezoid,56,119,85,101,169
+Male,Trapezoid,56,124,92,103,175
+Male,Trapezoid,53,114,83,93,167
+Male,Trapezoid,58,119,86,99,190
+Male,Trapezoid,55,117,92,100,195
+Male,Trapezoid,49,110,82,104,191
+Male,Trapezoid,55,119,81,91,183
+Male,Trapezoid,55,111,90,90,178
+Male,Trapezoid,48,106,92,92,166
+Male,Trapezoid,48,115,89,101,191
+Male,Trapezoid,48,124,83,103,176
+Male,Trapezoid,52,106,93,93,171
+Male,Trapezoid,55,116,84,91,189
+Male,Trapezoid,54,113,84,93,176
+Male,Trapezoid,51,122,81,104,192
+Male,Trapezoid,56,113,87,94,166
+Male,Trapezoid,58,125,81,90,191
+Male,Trapezoid,55,113,82,102,167
+Male,Trapezoid,49,116,82,100,178
+Male,Trapezoid,53,121,84,92,180
+Male,Trapezoid,56,108,90,91,165
+Male,Trapezoid,51,117,95,105,188
+Male,Trapezoid,56,123,86,91,167
+Male,Trapezoid,55,125,85,100,173
+Male,Trapezoid,51,123,94,103,165
+Male,Trapezoid,56,108,86,96,179
+Male,Trapezoid,57,119,80,99,184
+Male,Trapezoid,55,109,85,91,176
+Male,Trapezoid,50,124,86,100,186
+Male,Trapezoid,53,107,81,92,189
+Male,Trapezoid,50,118,88,101,185
+Male,Trapezoid,49,106,86,104,179
+Male,Trapezoid,54,107,91,97,175
+Male,Trapezoid,51,117,80,93,176
+Male,Trapezoid,56,122,93,94,189
+Male,Trapezoid,50,123,89,103,195
+Male,Trapezoid,49,125,86,100,170
+Male,Trapezoid,48,119,87,100,180
+Male,Trapezoid,56,118,80,97,174
+Male,Trapezoid,51,125,85,90,192
+Male,Trapezoid,55,112,88,92,195
+Male,Trapezoid,49,122,83,99,187
+Male,Trapezoid,53,119,90,96,177
+Male,Trapezoid,49,121,87,93,171
+Male,Trapezoid,53,120,82,104,187
+Male,Trapezoid,53,110,84,105,172
+Male,Trapezoid,50,115,87,100,167
+Male,Trapezoid,57,119,89,96,186
+Male,Trapezoid,57,113,91,97,187
+Male,Trapezoid,50,125,86,92,191
+Male,Trapezoid,53,115,89,103,192
+Male,Trapezoid,49,110,84,98,186
+Male,Trapezoid,58,118,94,98,179
+Male,Trapezoid,58,114,80,98,170
+Male,Trapezoid,56,125,90,102,190
+Male,Trapezoid,56,107,91,97,194
+Male,Trapezoid,56,113,88,90,178
+Male,Trapezoid,54,113,93,105,183
+Male,Trapezoid,57,106,93,93,191
+Male,Trapezoid,53,119,86,101,179
+Male,Trapezoid,50,107,93,98,173
+Male,Trapezoid,55,124,87,98,187
+Male,Trapezoid,58,107,86,98,173
+Male,Trapezoid,49,116,89,102,179
+Male,Trapezoid,49,105,82,90,165
+Male,Trapezoid,58,110,80,90,187
+Male,Trapezoid,53,116,88,95,169
+Male,Trapezoid,51,116,80,104,168
+Male,Trapezoid,49,117,93,103,176
+Male,Trapezoid,50,119,92,105,169
+Male,Trapezoid,53,110,93,105,181
+Male,Trapezoid,49,122,94,96,167
+Male,Trapezoid,51,108,84,97,192
+Male,Trapezoid,58,118,85,90,186
+Male,Trapezoid,49,106,92,100,188
+Male,Trapezoid,57,113,87,90,186
+Male,Trapezoid,58,110,93,103,193
+Male,Trapezoid,48,114,82,103,193
+Male,Trapezoid,55,105,87,91,192
+Male,Trapezoid,52,114,84,91,171
+Male,Trapezoid,55,108,92,92,174
+Male,Trapezoid,54,116,87,101,185
+Male,Trapezoid,49,114,95,94,188
+Male,Trapezoid,51,108,89,105,186
+Male,Trapezoid,55,107,93,94,183
+Male,Trapezoid,49,123,86,94,185
+Male,Rectangle,43,108,83,90,170
+Male,Rectangle,40,99,83,85,170
+Male,Rectangle,47,99,82,92,171
+Male,Rectangle,45,97,87,90,194
+Male,Rectangle,48,106,89,95,184
+Male,Rectangle,42,96,88,93,191
+Male,Rectangle,41,107,88,88,170
+Male,Rectangle,44,100,83,90,187
+Male,Rectangle,50,105,84,89,175
+Male,Rectangle,44,93,83,93,193
+Male,Rectangle,43,104,84,87,174
+Male,Rectangle,47,107,86,87,185
+Male,Rectangle,42,108,90,95,178
+Male,Rectangle,47,106,83,87,168
+Male,Rectangle,47,92,81,89,181
+Male,Rectangle,45,105,83,89,171
+Male,Rectangle,42,99,82,90,176
+Male,Rectangle,41,94,81,87,175
+Male,Rectangle,40,100,89,90,173
+Male,Rectangle,42,92,82,85,180
+Male,Rectangle,48,105,84,93,185
+Male,Rectangle,43,107,85,87,169
+Male,Rectangle,45,104,81,94,169
+Male,Rectangle,45,95,80,91,174
+Male,Rectangle,44,108,89,89,177
+Male,Rectangle,44,109,83,85,177
+Male,Rectangle,49,107,84,90,169
+Male,Rectangle,48,104,82,86,172
+Male,Rectangle,40,93,90,90,189
+Male,Rectangle,45,97,88,85,165
+Male,Rectangle,47,94,90,93,192
+Male,Rectangle,42,108,87,85,178
+Male,Rectangle,48,97,82,93,190
+Male,Rectangle,46,96,81,93,174
+Male,Rectangle,45,98,85,93,174
+Male,Rectangle,48,94,89,85,182
+Male,Rectangle,40,95,87,86,183
+Male,Rectangle,46,96,87,92,176
+Male,Rectangle,43,98,81,93,168
+Male,Rectangle,40,93,83,95,184
+Male,Rectangle,47,107,84,95,184
+Male,Rectangle,47,110,85,90,186
+Male,Rectangle,40,106,89,86,171
+Male,Rectangle,49,102,88,94,172
+Male,Rectangle,49,91,81,91,173
+Male,Rectangle,46,109,86,91,167
+Male,Rectangle,40,105,81,92,191
+Male,Rectangle,48,101,88,90,191
+Male,Rectangle,42,106,83,88,174
+Male,Rectangle,46,107,90,87,178
+Male,Rectangle,44,110,84,93,176
+Male,Rectangle,49,110,89,95,168
+Male,Rectangle,49,105,86,92,191
+Male,Rectangle,43,109,80,94,172
+Male,Rectangle,40,95,87,91,169
+Male,Rectangle,49,99,83,95,186
+Male,Rectangle,42,101,83,94,182
+Male,Rectangle,48,100,83,88,173
+Male,Rectangle,45,100,88,90,168
+Male,Rectangle,41,96,82,93,193
+Male,Rectangle,45,106,89,86,193
+Male,Rectangle,40,106,84,92,186
+Male,Rectangle,43,99,82,88,172
+Male,Rectangle,46,104,83,88,188
+Male,Rectangle,50,92,86,89,173
+Male,Rectangle,42,98,90,92,166
+Male,Rectangle,46,94,86,88,172
+Male,Rectangle,42,101,87,88,173
+Male,Rectangle,40,109,82,95,171
+Male,Rectangle,47,103,90,86,174
+Male,Rectangle,40,106,82,88,180
+Male,Rectangle,42,94,84,95,166
+Male,Rectangle,42,109,81,85,182
+Male,Rectangle,46,110,82,85,178
+Male,Rectangle,44,97,81,93,186
+Male,Rectangle,40,92,84,94,167
+Male,Rectangle,47,109,80,92,195
+Male,Rectangle,47,103,90,86,181
+Male,Rectangle,47,96,83,88,192
+Male,Rectangle,50,104,87,91,167
+Male,Rectangle,41,107,85,94,174
+Male,Rectangle,47,96,87,94,186
+Male,Rectangle,49,104,89,91,178
+Male,Rectangle,46,90,80,93,175
+Male,Rectangle,41,97,87,94,185
+Male,Rectangle,43,108,80,91,191
+Male,Rectangle,40,107,81,94,182
+Male,Rectangle,44,102,80,92,166
+Male,Rectangle,40,95,88,94,168
+Male,Rectangle,45,103,88,90,184
+Male,Rectangle,40,107,81,92,186
+Male,Rectangle,41,92,86,87,191
+Male,Rectangle,45,107,89,90,174
+Male,Rectangle,50,108,80,86,179
+Male,Rectangle,46,90,85,86,168
+Male,Rectangle,42,105,90,90,178
+Male,Rectangle,43,104,89,89,171
+Male,Rectangle,50,103,85,87,167
+Male,Rectangle,41,95,82,88,169
+Male,Rectangle,48,102,81,85,185
+Male,Rectangle,43,105,87,90,175
+Male,Rectangle,45,109,85,86,169
+Male,Rectangle,42,107,88,94,171
+Male,Rectangle,43,107,84,89,193
+Male,Rectangle,49,107,82,87,178
+Male,Rectangle,43,98,83,90,181
+Male,Rectangle,43,104,89,88,165
+Male,Rectangle,50,105,82,91,183
+Male,Rectangle,41,92,83,85,172
+Male,Rectangle,49,92,80,86,167
+Male,Rectangle,41,109,82,93,190
+Male,Rectangle,42,91,86,86,179
+Male,Rectangle,41,110,81,85,182
+Male,Rectangle,43,90,87,91,181
+Male,Rectangle,44,91,90,89,170
+Male,Rectangle,49,102,88,91,194
+Male,Rectangle,47,94,84,90,183
+Male,Rectangle,50,110,83,89,180
+Male,Rectangle,47,93,80,93,175
+Male,Rectangle,44,99,80,93,190
+Male,Rectangle,44,102,81,92,191
+Male,Rectangle,40,103,85,94,187
+Male,Rectangle,43,99,86,88,187
+Male,Rectangle,43,90,84,88,166
+Male,Rectangle,48,98,87,87,177
+Male,Rectangle,46,98,80,86,165
+Male,Rectangle,45,92,80,89,188
+Male,Rectangle,40,93,86,95,175
+Male,Rectangle,50,99,86,87,174
+Male,Rectangle,47,109,85,93,180
+Male,Rectangle,44,92,81,91,191
+Male,Rectangle,41,104,85,85,188
+Male,Rectangle,44,98,87,87,180
+Male,Rectangle,50,101,84,88,176
+Male,Rectangle,49,107,88,89,184
+Male,Rectangle,43,90,83,88,188
+Male,Rectangle,45,108,83,88,189
+Male,Rectangle,47,105,82,91,189
+Male,Rectangle,47,100,90,88,192
+Male,Rectangle,49,108,82,91,166
+Male,Rectangle,46,98,83,88,174
+Male,Rectangle,47,107,89,86,168
+Male,Rectangle,40,103,80,92,169
+Male,Rectangle,47,93,84,86,188
+Male,Rectangle,47,90,81,85,194
+Male,Rectangle,49,92,85,93,180
+Male,Rectangle,50,92,84,95,173
+Male,Rectangle,43,96,83,88,185
+Male,Rectangle,47,108,89,94,188
+Male,Rectangle,48,109,87,95,194
+Male,Rectangle,42,106,88,95,175
+Male,Rectangle,40,91,89,94,166
+Male,Rectangle,47,101,81,94,186
+Male,Rectangle,43,109,84,95,180
+Male,Rectangle,42,90,81,90,167
+Male,Rectangle,45,98,80,85,171
+Male,Rectangle,50,110,88,85,173
+Male,Rectangle,45,98,88,87,173
+Male,Rectangle,41,104,84,87,195
+Male,Rectangle,40,107,81,87,192
+Male,Rectangle,45,95,84,95,172
+Male,Rectangle,45,98,82,88,176
+Male,Rectangle,50,109,89,95,171
+Male,Rectangle,48,94,89,87,170
+Male,Rectangle,46,97,89,89,173
+Male,Rectangle,41,106,90,89,184
+Male,Rectangle,50,99,89,90,189
+Male,Rectangle,46,99,83,90,165
+Male,Rectangle,45,103,86,94,184
+Male,Rectangle,49,93,85,89,192
+Male,Rectangle,45,107,88,85,171
+Male,Rectangle,43,96,84,91,184
+Male,Rectangle,48,94,80,88,179
+Male,Rectangle,45,99,81,92,185
+Male,Rectangle,48,91,82,86,192
+Male,Rectangle,48,94,80,95,179
+Male,Rectangle,46,103,83,92,194
+Male,Rectangle,50,109,82,94,186
+Male,Rectangle,43,109,82,88,173
+Male,Rectangle,50,104,88,89,190
+Male,Rectangle,47,99,83,95,166
+Male,Rectangle,46,96,87,95,186
+Male,Rectangle,48,110,84,92,165
+Male,Rectangle,48,90,87,88,177
+Male,Rectangle,48,104,90,92,183
+Male,Rectangle,48,91,81,88,189
+Male,Rectangle,48,110,84,95,168
+Male,Rectangle,48,103,89,88,180
+Male,Rectangle,45,95,80,91,182
+Male,Rectangle,45,95,83,95,194
+Male,Rectangle,49,100,80,88,178
+Male,Rectangle,41,105,88,90,192
+Male,Rectangle,50,91,81,86,166
+Male,Rectangle,45,105,85,86,171
+Male,Rectangle,46,99,81,88,178
+Male,Rectangle,41,96,85,85,183
+Male,Rectangle,42,93,88,89,187
+Male,Rectangle,45,100,90,95,192
+Male,Rectangle,46,101,80,87,178
+Male,Rectangle,40,101,84,85,189
+Male,Rectangle,47,98,89,85,178
+Male,Rectangle,47,94,83,85,191
+Male,Rectangle,47,103,89,95,181
+Male,Rectangle,43,101,88,91,174
+Male,Rectangle,43,103,80,92,176
+Male,Rectangle,40,108,80,88,183
+Male,Rectangle,41,99,82,88,189
+Male,Rectangle,50,107,86,85,183
+Male,Rectangle,50,107,83,94,177
+Male,Rectangle,50,101,83,93,194
+Male,Rectangle,47,92,90,91,170
+Male,Rectangle,47,95,90,92,181
+Male,Rectangle,43,95,85,94,178
+Male,Rectangle,47,100,86,94,178
+Male,Rectangle,45,98,83,87,183
+Male,Rectangle,42,96,86,95,177
+Male,Rectangle,41,98,90,91,178
+Male,Rectangle,46,107,80,91,184
+Male,Rectangle,47,109,85,91,183
+Male,Rectangle,48,110,89,95,167
+Male,Rectangle,40,102,88,92,180
+Male,Rectangle,46,99,88,94,180
+Male,Rectangle,48,102,88,93,167
+Male,Rectangle,49,103,83,93,193
+Male,Rectangle,42,107,86,86,170
+Male,Rectangle,50,104,89,94,179
+Male,Rectangle,48,98,89,95,188
+Male,Rectangle,42,92,88,89,165
+Male,Rectangle,45,95,81,95,195
+Male,Rectangle,40,100,82,89,170
+Male,Rectangle,45,108,82,91,193
+Male,Rectangle,46,94,82,93,192
+Male,Rectangle,44,90,86,87,179
+Male,Rectangle,41,99,82,88,186
+Male,Rectangle,42,103,82,87,194
+Male,Rectangle,47,108,85,91,185
+Male,Rectangle,45,94,80,91,174
+Male,Rectangle,43,103,87,92,171
+Male,Rectangle,41,91,83,90,189
+Male,Rectangle,40,91,87,91,178
+Male,Rectangle,44,98,80,86,172
+Male,Rectangle,43,98,83,86,194
+Male,Rectangle,42,106,80,89,166
+Male,Rectangle,41,98,85,89,194
+Male,Rectangle,47,110,85,85,179
+Male,Rectangle,43,99,86,88,175
+Male,Rectangle,48,104,83,85,172
+Male,Rectangle,42,98,87,85,188
+Male,Rectangle,46,100,84,91,180
+Male,Rectangle,49,91,89,89,193
+Male,Rectangle,48,103,89,85,167
+Male,Rectangle,47,106,80,93,176
+Male,Rectangle,40,110,81,94,170
+Male,Rectangle,43,92,90,94,189
+Male,Rectangle,46,104,83,95,178
+Male,Rectangle,46,91,86,93,168
+Male,Rectangle,48,107,83,93,195
+Male,Rectangle,49,108,83,92,183
+Male,Rectangle,47,99,80,89,180
+Male,Rectangle,47,91,86,95,179
+Male,Rectangle,40,99,83,88,175
+Male,Rectangle,40,105,87,92,177
+Male,Rectangle,47,105,87,91,181
+Male,Rectangle,49,98,84,93,182
+Male,Rectangle,42,100,86,94,189
+Male,Rectangle,47,109,90,89,179
+Male,Rectangle,50,104,84,88,165
+Male,Rectangle,48,106,80,87,169
+Male,Rectangle,47,93,81,85,186
+Male,Rectangle,41,91,88,92,169
+Male,Rectangle,46,99,84,95,184
+Male,Rectangle,50,105,82,94,186
+Male,Rectangle,42,91,83,95,173
+Male,Rectangle,46,102,83,86,183
+Male,Rectangle,44,103,82,89,186
+Male,Rectangle,44,106,89,91,184
+Male,Rectangle,49,95,88,93,176
+Male,Rectangle,44,96,90,88,185
+Male,Rectangle,42,94,86,89,193
+Male,Rectangle,40,105,85,92,176
+Male,Rectangle,50,104,82,88,185
+Male,Rectangle,46,110,85,85,180
+Male,Rectangle,44,98,80,85,168
+Male,Rectangle,50,102,81,91,184
+Male,Rectangle,49,90,90,88,188
+Male,Rectangle,48,92,88,94,165
+Male,Rectangle,40,95,84,90,173
+Male,Rectangle,48,100,82,91,168
+Male,Rectangle,47,105,84,93,185
+Male,Rectangle,45,102,82,88,166
+Male,Rectangle,50,107,81,87,175
+Male,Rectangle,44,102,87,94,187
+Male,Rectangle,40,104,80,95,176
+Male,Rectangle,41,104,80,92,185
+Male,Rectangle,49,110,82,85,193
+Male,Rectangle,48,107,84,85,166
+Male,Rectangle,50,108,81,87,191
+Male,Rectangle,49,107,84,86,171
+Male,Rectangle,42,105,88,95,188
+Male,Rectangle,47,103,88,88,195
+Male,Rectangle,44,99,87,89,184
+Male,Rectangle,47,100,85,89,167
+Male,Rectangle,49,90,90,87,187
+Male,Rectangle,40,90,81,92,177
+Male,Rectangle,40,97,85,86,165
+Male,Rectangle,45,102,82,92,174
+Male,Rectangle,43,90,82,95,180
+Male,Rectangle,50,106,90,91,179
+Male,Rectangle,40,93,84,92,175
+Male,Rectangle,50,108,90,94,179
+Male,Rectangle,47,104,80,89,168
+Male,Rectangle,41,92,90,92,193
+Male,Rectangle,40,98,81,92,166
+Male,Rectangle,49,94,88,87,189
+Male,Rectangle,48,103,81,85,185
+Male,Rectangle,45,90,89,89,192
+Male,Rectangle,41,98,89,94,195
+Male,Rectangle,42,93,80,93,195
+Male,Rectangle,50,108,90,95,172
+Male,Rectangle,46,91,88,90,171
+Male,Rectangle,45,91,84,94,167
+Male,Rectangle,41,94,83,86,188
+Male,Rectangle,44,110,82,87,175
+Male,Rectangle,48,100,83,92,174
+Male,Rectangle,40,103,82,86,175
+Male,Rectangle,47,93,90,88,193
+Male,Rectangle,50,94,90,88,178
+Male,Rectangle,41,100,87,89,167
+Male,Rectangle,47,99,87,93,176
+Male,Rectangle,49,107,86,86,174
+Male,Rectangle,47,106,90,95,193
+Male,Rectangle,46,98,81,89,180
+Male,Rectangle,43,95,80,91,167
+Male,Rectangle,43,98,81,90,168
+Male,Rectangle,50,107,85,91,165
+Male,Rectangle,43,99,89,87,195
+Male,Rectangle,42,104,82,92,182
+Male,Rectangle,43,103,83,90,187
+Male,Rectangle,50,95,88,92,167
+Male,Rectangle,41,106,89,88,195
+Male,Rectangle,45,103,89,85,178
+Male,Rectangle,49,104,82,91,175
+Male,Rectangle,48,95,81,90,165
+Male,Rectangle,44,94,80,85,175
+Male,Rectangle,50,91,86,95,174
+Male,Rectangle,46,94,90,94,177
+Male,Rectangle,41,107,86,87,193
+Male,Rectangle,44,96,87,89,181
+Male,Rectangle,45,108,87,92,170
+Male,Rectangle,42,96,80,93,170
+Male,Rectangle,45,104,88,90,193
+Male,Rectangle,46,92,87,87,182
+Male,Rectangle,42,100,80,90,170
+Male,Rectangle,40,103,82,88,184
+Male,Rectangle,42,108,85,85,192
+Male,Rectangle,40,110,80,88,192
+Male,Rectangle,45,100,88,86,178
+Male,Rectangle,45,95,87,87,190
+Male,Rectangle,41,91,87,85,176
+Male,Rectangle,40,98,88,92,182
+Male,Rectangle,41,94,80,89,194
+Male,Rectangle,49,98,82,88,184
+Male,Rectangle,43,107,86,85,191
+Male,Rectangle,40,109,81,89,180
+Male,Rectangle,42,95,90,95,176
+Male,Rectangle,46,93,90,91,189
+Male,Rectangle,42,109,80,94,168
+Male,Rectangle,45,107,84,95,166
+Male,Rectangle,46,106,89,93,193
+Male,Rectangle,44,104,85,89,185
+Male,Rectangle,42,104,87,89,190
+Male,Rectangle,45,96,84,86,176
+Male,Rectangle,40,93,82,87,174
+Male,Rectangle,47,93,84,94,177
+Male,Rectangle,48,99,89,93,180
+Male,Rectangle,46,106,86,90,169
+Male,Rectangle,40,99,88,88,169
+Male,Rectangle,46,95,90,90,168
+Male,Rectangle,40,100,85,92,193
+Male,Rectangle,49,104,83,92,182
+Male,Rectangle,44,95,89,94,178
+Male,Rectangle,48,102,87,93,170
+Male,Rectangle,45,108,87,92,173
+Male,Rectangle,46,100,81,91,182
+Male,Rectangle,45,104,86,91,178
+Male,Rectangle,47,90,87,90,165
+Male,Rectangle,41,93,84,91,177
+Male,Rectangle,46,106,86,92,185
+Male,Rectangle,43,108,82,90,170
+Male,Rectangle,48,98,85,93,194
+Male,Rectangle,41,106,85,89,188
+Male,Rectangle,43,96,81,90,179
+Male,Rectangle,44,109,84,89,180
+Male,Rectangle,43,93,82,90,181
+Male,Rectangle,40,106,82,86,180
+Male,Rectangle,41,100,80,89,185
+Male,Rectangle,49,96,90,93,192
+Male,Rectangle,44,105,81,89,169
+Male,Rectangle,46,105,84,90,195
+Male,Rectangle,42,99,88,95,194
+Male,Rectangle,49,100,82,93,193
+Male,Rectangle,47,109,86,89,174
+Male,Rectangle,50,101,87,86,190
+Male,Rectangle,49,103,86,85,168
+Male,Rectangle,48,101,81,87,195
+Male,Rectangle,48,91,88,85,166
+Male,Rectangle,46,92,87,90,173
+Male,Rectangle,41,92,80,90,169
+Male,Rectangle,48,107,81,85,192
+Male,Rectangle,42,101,81,92,170
+Male,Rectangle,42,90,87,87,194
+Male,Rectangle,49,107,84,94,191
+Male,Rectangle,44,90,81,85,169
+Male,Rectangle,41,101,88,86,167
+Male,Rectangle,46,95,83,87,172
+Male,Rectangle,41,108,80,92,169
+Male,Rectangle,47,98,87,92,192
+Male,Rectangle,49,102,90,90,168
+Male,Rectangle,45,97,81,95,195
+Male,Rectangle,40,102,82,88,168
+Male,Rectangle,40,103,81,88,169
+Male,Rectangle,44,90,82,90,194
+Male,Rectangle,44,99,89,92,181
+Male,Rectangle,47,104,83,92,180
+Male,Rectangle,48,99,88,87,169
+Male,Rectangle,43,98,83,86,176
+Male,Rectangle,50,108,82,91,178
+Male,Rectangle,46,97,82,93,167
+Male,Rectangle,41,108,85,86,170
+Male,Rectangle,42,93,85,85,166
+Male,Rectangle,45,90,90,88,194
+Male,Rectangle,50,110,83,88,181
+Male,Rectangle,42,101,89,89,181
+Male,Rectangle,48,103,86,89,184
+Male,Rectangle,47,93,82,93,175
+Male,Rectangle,48,108,84,91,166
+Male,Rectangle,44,98,88,89,184
+Male,Rectangle,45,104,86,91,173
+Male,Rectangle,47,90,89,93,177
+Male,Rectangle,48,109,88,88,183
+Male,Rectangle,42,103,81,90,173
+Male,Rectangle,48,101,88,90,174
+Male,Rectangle,49,90,83,91,195
+Male,Rectangle,41,90,87,90,186
+Male,Rectangle,47,102,84,86,194
+Male,Rectangle,42,101,83,88,168
+Male,Rectangle,41,103,84,91,175
+Male,Rectangle,43,103,82,92,177
+Male,Rectangle,48,101,88,91,180
+Male,Rectangle,47,110,88,89,184
+Male,Rectangle,47,98,89,87,179
+Male,Rectangle,48,90,84,95,180
+Male,Rectangle,46,102,90,94,170
+Male,Rectangle,40,98,81,95,180
+Male,Rectangle,43,104,87,90,177
+Male,Rectangle,46,109,85,88,166
+Male,Rectangle,44,109,90,89,181
+Male,Rectangle,46,99,87,88,185
+Male,Rectangle,47,110,81,92,176
+Male,Rectangle,47,105,80,95,192
+Male,Rectangle,50,104,87,92,177
+Male,Rectangle,49,98,87,88,184
+Male,Rectangle,42,99,89,85,179
+Male,Rectangle,42,98,88,95,169
+Male,Rectangle,48,95,85,93,183
+Male,Rectangle,47,109,80,90,180
+Male,Rectangle,45,102,80,87,179
+Male,Rectangle,40,110,80,90,172
+Male,Rectangle,50,110,86,94,194
+Male,Rectangle,41,98,88,88,167
+Male,Rectangle,47,90,89,94,194
+Male,Rectangle,48,90,81,89,168
+Male,Rectangle,43,103,89,94,185
+Male,Rectangle,50,90,80,85,170
+Male,Rectangle,41,91,83,90,172
+Male,Rectangle,45,110,89,95,165
+Male,Rectangle,49,101,81,91,172
+Male,Rectangle,47,102,89,85,195
+Male,Rectangle,46,95,84,86,192
+Male,Rectangle,46,110,82,85,186
+Male,Rectangle,48,92,85,88,176
+Male,Rectangle,47,110,83,95,185
+Male,Rectangle,42,91,86,92,185
+Male,Rectangle,50,109,85,85,166
+Male,Rectangle,47,95,81,95,177
+Male,Rectangle,49,90,90,89,183
+Male,Rectangle,45,105,88,87,174
+Male,Rectangle,50,106,86,89,190
+Male,Rectangle,48,104,88,89,167
+Male,Rectangle,45,97,90,90,179
+Male,Rectangle,43,109,88,93,187
+Male,Rectangle,41,100,86,93,178
+Male,Rectangle,48,98,86,94,185
+Male,Rectangle,47,96,84,95,169
+Male,Rectangle,47,100,83,85,173
+Male,Rectangle,48,103,84,85,193
+Male,Rectangle,48,109,89,94,184
+Male,Rectangle,46,101,87,87,191
+Male,Rectangle,47,104,88,86,167
+Male,Rectangle,43,97,83,93,167

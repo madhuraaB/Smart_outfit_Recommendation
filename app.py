@@ -4,102 +4,92 @@ import joblib
 import numpy as np
 import cv2
 import mediapipe as mp
-from outfit_mapping import get_random_outfits
+from outfit_mapping import get_random_outfits, outfits
 
 UPLOAD_FOLDER = 'static/uploads'
-# Ensure the uploads directory exists
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.config['MAX_CONTENT_LENGTH'] = 5 * 1024 * 1024  # 5MB limit
 
-# Load models + scaler - CRITICAL FIX FOR STARTUP CRASH
+# Load models + scaler
 try:
-    # 🚨 FIX 1: Use the correct gendered filenames saved by train_model.py
-    model_female = joblib.load("body_shape_model_female.pkl") 
-    model_male = joblib.load("body_shape_model_male.pkl")     
+    model_female = joblib.load("body_shape_model_female.pkl")
+    model_male = joblib.load("body_shape_model_male.pkl")
     scaler = joblib.load("scaler.pkl")
-    print("✅ All Models and Scaler loaded successfully. Application is ready.")
+    print("✅ Models and Scaler loaded successfully.")
 except FileNotFoundError as e:
-    # FIX 2: Graceful error handling prevents the script from stopping before mp is defined
-    print(f"🚨 ERROR: Model or Scaler file not found: {e}. Please run generate_dataset.py and train_model.py first.")
+    print(f"🚨 ERROR: Missing model or scaler: {e}")
     model_female = None
     model_male = None
     scaler = None
 except Exception as e:
-    print(f"🚨 UNEXPECTED ERROR during model loading: {e}")
+    print(f"🚨 Unexpected error during model loading: {e}")
     model_female = None
     model_male = None
     scaler = None
 
-# Initialize MediaPipe outside the function for performance
+# Initialize MediaPipe Pose
 mp_pose = mp.solutions.pose
 
 def extract_measurements(image_path, real_height_cm=None):
+    import math
+
     img = cv2.imread(image_path)
     if img is None:
-        raise ValueError("Image not readable")
+        raise ValueError("Image not readable. Please upload a valid image.")
 
     img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
     h, w, _ = img.shape
 
-    with mp_pose.Pose(static_image_mode=True, model_complexity=1, enable_segmentation=False) as pose:
+    with mp_pose.Pose(static_image_mode=True, model_complexity=1) as pose:
         res = pose.process(img_rgb)
         if not res.pose_landmarks:
-            raise ValueError("No pose landmarks detected. Please upload a full-body image with clear view.")
+            raise ValueError("No landmarks detected. Please upload a full-body image.")
+
         lm = res.pose_landmarks.landmark
 
     def dist(a, b, scale):
-        # Calculate Euclidean distance between two landmark points (x,y) and scale it to cm
         return math.hypot(lm[a].x * w - lm[b].x * w, lm[a].y * h - lm[b].y * h) * scale
 
-    import math
-    
     LEFT_SHOULDER, RIGHT_SHOULDER = 11, 12
     LEFT_HIP, RIGHT_HIP = 23, 24
     LEFT_ANKLE, RIGHT_ANKLE = 27, 28
     NOSE = 0
-    
-    # Calculate pixel height using landmarks (Nose to Ankle midpoint)
+
     nose_y = lm[NOSE].y * h
     ankle_y_mid = ((lm[LEFT_ANKLE].y + lm[RIGHT_ANKLE].y) / 2) * h
     pixel_height_person = abs(ankle_y_mid - nose_y)
 
     if pixel_height_person == 0:
-        raise ValueError("Could not calculate pixel height from landmarks.")
+        raise ValueError("Could not calculate height from landmarks.")
 
     if real_height_cm is None:
-        raise ValueError("Real height (cm) required to scale measurements.")
+        raise ValueError("Please enter your real height (in cm).")
 
-    scale = real_height_cm / pixel_height_person # cm per pixel
+    scale = real_height_cm / pixel_height_person
 
-    # --- 1. Calculate Widths/Distances in cm ---
     shoulder_width_cm = dist(LEFT_SHOULDER, RIGHT_SHOULDER, scale)
     hip_width_cm = dist(LEFT_HIP, RIGHT_HIP, scale)
-    
-    # Simple estimate of waist width (midpoint between hip and shoulder on the X-axis)
-    # Using a point estimate for the waist is often unreliable, using an average of hip and shoulder width works better for synthetic models
-    waist_width_cm_approx = (shoulder_width_cm + hip_width_cm) * 0.4 
-    
-    # --- 2. Estimate Circumferences (cm) ---
-    # These factors (2.2, 1.5, 2.5) are empirical constants for converting width to circumference
-    bust_cm = shoulder_width_cm * 2.2
-    hip_cm = hip_width_cm * 1.5 
-    waist_cm = waist_width_cm_approx * 2.5 
+    waist_width_cm_approx = (shoulder_width_cm + hip_width_cm) * 0.4
 
-    # --- 3. Calculate Ratios (Features for the model) ---
+    bust_cm = shoulder_width_cm * 2.2
+    hip_cm = hip_width_cm * 1.5
+    waist_cm = waist_width_cm_approx * 2.5
+
+    print("Bust:", bust_cm, "Waist:", waist_cm, "Hip:", hip_cm)
+    print("SHR:", round(bust_cm / hip_cm, 2), "WHR:", round(waist_cm / hip_cm, 2), "WBR:", round(waist_cm / bust_cm, 2)) 
+
     shoulder_hip_ratio = round(bust_cm / hip_cm, 2) if hip_cm > 0 else 1.0
     waist_hip_ratio = round(waist_cm / hip_cm, 2) if hip_cm > 0 else 1.0
     waist_bust_ratio = round(waist_cm / bust_cm, 2) if bust_cm > 0 else 1.0
-    
+
     return {
-        # Raw Measurements (for display)
         'Bust': round(bust_cm, 1),
         'Waist': round(waist_cm, 1),
         'Hip': round(hip_cm, 1),
         'Height': round(real_height_cm, 1),
-        # Ratios (for model input)
         'SHR': shoulder_hip_ratio,
         'WHR': waist_hip_ratio,
         'WBR': waist_bust_ratio
@@ -111,95 +101,74 @@ def home():
 
 @app.route("/upload", methods=["GET", "POST"])
 def upload():
-    # Show system error only if models are still not loaded
     if model_female is None or model_male is None or scaler is None:
-        return render_template("upload.html", error="System Error: Model files are missing. Please run generate_dataset.py and train_model.py first.")
+        return render_template("upload.html", error="Model files missing. Please train first.")
 
     if request.method == "POST":
-        # --- Form Validation ---
         if 'image' not in request.files:
-            return render_template("upload.html", error="No image file part.")
+            return render_template("upload.html", error="No image file selected.")
+
         file = request.files['image']
         if file.filename == '':
-            return render_template("upload.html", error="No selected image.")
+            return render_template("upload.html", error="Please choose a file to upload.")
 
         try:
             user_height = float(request.form.get('height'))
         except:
-            return render_template("upload.html", error="Please enter your height in cm (numbers only).")
+            return render_template("upload.html", error="Enter your height in numbers (cm).")
 
         gender = request.form.get('gender')
         if not gender:
-            return render_template("upload.html", error="Please select gender.")
-            
-        # --- File Save and Measurement Extraction ---
+            return render_template("upload.html", error="Please select gender before uploading.")
+
+        # Save the uploaded image
         import time
         filename = f"{int(time.time())}_{file.filename}"
         path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
-        
+
         try:
             file.save(path)
-            # Pass user_height to extract measurements and scale
             measurements = extract_measurements(path, real_height_cm=user_height)
-
-        except PermissionError:
-            # Handle the File Permission Error previously encountered
-            if os.path.exists(path):
-                try: os.remove(path)
-                except: pass
-            return render_template("upload.html", error="FILE PERMISSION ERROR: The system cannot save the image. Please run the fix command in your terminal: `chmod 777 static/uploads`")
-        
-        except ValueError as e:
-            # Catch errors raised from extract_measurements (like no landmarks)
-            if os.path.exists(path):
-                os.remove(path)
-            return render_template("upload.html", error=f"Image Processing Error: {str(e)}")
-
         except Exception as e:
-            # Catch all other unexpected errors
             if os.path.exists(path):
                 os.remove(path)
-            return render_template("upload.html", error=f"An unexpected system error occurred: {type(e).__name__}: {str(e)}")
-        
-        # --- Prediction ---
-        
-        # 🚀 CRITICAL FIX FOR >80% CONFIDENCE: Use only the three normalized ratios.
-        X_ratios = np.array([[measurements['SHR'], measurements['WHR'],
-                              measurements['WBR']]])
-                              
-        X_scaled = scaler.transform(X_ratios) # Scaling the 3 ratio features
+            return render_template("upload.html", error=f"Image processing failed: {e}")
 
-        # Choose model based on gender
-        if gender == "Female":
-            model = model_female
-        else:
-            model = model_male
+        # Prepare input for model
+        X_input = np.array([[measurements['SHR'], measurements['WHR'], measurements['WBR'], measurements['Height']]])
+        X_scaled = scaler.transform(X_input)
+
+        # Select correct model
+        model = model_female if gender == "Female" else model_male
 
         pred = model.predict(X_scaled)[0]
         probs = model.predict_proba(X_scaled)[0]
-        
+
         try:
             idx = list(model.classes_).index(pred)
-            # Confidence should now be high due to better training data and cleaner features
             confidence = round(probs[idx] * 100, 2)
         except ValueError:
-            confidence = 0 # Fallback 
+            confidence = 0
 
-        # --- Recommendation and Result ---
-        outfits = get_random_outfits(pred, gender, count=5)
+        # 🔹 Uncomment this block if you want to test all shapes randomly
+        # import random
+        # possible_shapes = list(outfits[gender].keys())
+        # pred = random.choice(possible_shapes)
 
-        # Prepare measurements for display (remove the ratio features)
+        # 🔹 Fetch multiple random outfit images
+        outfit_list = get_random_outfits(pred, gender, count=8)
+
         display_measurements = {
             'Bust': measurements['Bust'],
             'Waist': measurements['Waist'],
             'Hip': measurements['Hip'],
             'Height': measurements['Height']
         }
-        
+
         return render_template("result.html",
                                result=pred,
                                gender=gender,
-                               outfits=outfits,
+                               outfits=outfit_list,
                                accuracy=confidence,
                                measurements=display_measurements,
                                img_path=path.replace('\\', '/'))

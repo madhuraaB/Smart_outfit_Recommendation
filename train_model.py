@@ -25,6 +25,22 @@ target = 'BodyShape'
 
 df_female = df[df['Gender'] == 'Female'].copy()
 df_male = df[df['Gender'] == 'Male'].copy()
+from sklearn.utils import resample
+
+# Balance female data
+df_female = df_female.groupby('BodyShape', group_keys=False).apply(
+    lambda x: resample(x, replace=True, 
+                       n_samples=df_female['BodyShape'].value_counts().max(), 
+                       random_state=42)
+)
+
+# Balance male data
+df_male = df_male.groupby('BodyShape', group_keys=False).apply(
+    lambda x: resample(x, replace=True, 
+                       n_samples=df_male['BodyShape'].value_counts().max(), 
+                       random_state=42)
+)
+
 
 # --- 1. Scaling ---
 X_all = df[features]
