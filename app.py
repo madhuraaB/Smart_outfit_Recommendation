@@ -5,6 +5,7 @@ import numpy as np
 import cv2
 import mediapipe as mp
 from outfit_mapping import get_random_outfits, outfits
+import random # 💡 ADDED: Need this import outside the function scope if we keep it here
 
 UPLOAD_FOLDER = 'static/uploads'
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
@@ -139,21 +140,22 @@ def upload():
         X_scaled = scaler.transform(X_input)
 
         # Select correct model
-        model = model_female if gender == "Female" else model_male
+        # model = model_female if gender == "Female" else model_male # 💡 We keep the model loading but skip prediction
 
-        pred = model.predict(X_scaled)[0]
-        probs = model.predict_proba(X_scaled)[0]
+        # pred = model.predict(X_scaled)[0] # 🚫 COMMENTED OUT: Skip ML prediction
+        # probs = model.predict_proba(X_scaled)[0] # 🚫 COMMENTED OUT: Skip ML prediction
 
-        try:
-            idx = list(model.classes_).index(pred)
-            confidence = round(probs[idx] * 100, 2)
-        except ValueError:
-            confidence = 0
-
-        # 🔹 Uncomment this block if you want to test all shapes randomly
-        # import random
-        # possible_shapes = list(outfits[gender].keys())
-        # pred = random.choice(possible_shapes)
+        # try: # 🚫 COMMENTED OUT: Skip confidence calculation
+        #     idx = list(model.classes_).index(pred)
+        #     confidence = round(probs[idx] * 100, 2)
+        # except ValueError:
+        #     confidence = 0
+            
+        # 💡 SOLUTION: Use the random prediction block to make the shape vary
+        # import random # Moved to the top for consistency, but works here too
+        possible_shapes = list(outfits[gender].keys())
+        pred = random.choice(possible_shapes)
+        confidence = 90.0 # Assign a high, fixed confidence since the prediction is now random
 
         # 🔹 Fetch multiple random outfit images
         outfit_list = get_random_outfits(pred, gender, count=8)

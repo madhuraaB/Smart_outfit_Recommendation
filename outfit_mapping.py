@@ -47,24 +47,24 @@ outfits = {
     },
     'Male': {
         'Oval': [
-            {'name': 'Straight Shirt', 'img': os.path.join(MALE_PATH, 'Male_Oval_straight_shirt.jpg')},
-            {'name': 'Dark Polo', 'img': os.path.join(MALE_PATH, 'Male_Oval_dark_polo.jpg')},
-            {'name': 'V-neck Sweater', 'img': os.path.join(MALE_PATH, 'Male_Oval_v_neck_sweater.jpg')},
-            {'name': 'Regular-fit Jeans', 'img': os.path.join(MALE_PATH, 'Male_Oval_regular_fit_jeans.jpg')},
-            {'name': 'Casual Blazer', 'img': os.path.join(MALE_PATH, 'Male_Oval_casual_blazer.jpg')}
+            {'name': 'Straight Shirt', 'img': os.path.join(MALE_PATH, 'Male_Oval_Straight_Shirt.jpg')},
+            {'name': 'Dark Polo', 'img': os.path.join(MALE_PATH, 'Male_Oval_Dark_Polo.jpg')},
+            {'name': 'V-neck Sweater', 'img': os.path.join(MALE_PATH, 'Male_Oval_V-neck_Sweater.jpg')},
+            {'name': 'straight Jeans', 'img': os.path.join(MALE_PATH, 'Male_Triangle_straight_jeans.jpg')},
+            {'name': 'Casual Blazer', 'img': os.path.join(MALE_PATH, 'Male_Oval_Casual_Blazer.jpg')}
         ],
         'Trapezoid': [
-            {'name': 'Fitted Suit', 'img': os.path.join(MALE_PATH, 'Male_Trapezoid_fitted_suit.jpg')},
-            {'name': 'Slim T-shirt', 'img': os.path.join(MALE_PATH, 'Male_Trapezoid_slim_tshirt.jpg')},
+            {'name': 'Fitted Suit', 'img': os.path.join(MALE_PATH, 'Male_Trapezoid_Fitted_Suit.jpg')},
+            {'name': 'Slim T-shirt', 'img': os.path.join(MALE_PATH, 'Male_Trapezoid_Slim_T-shirt.jpg')},
             {'name': 'Chinos', 'img': os.path.join(MALE_PATH, 'Male_Trapezoid_chinos.jpg')},
-            {'name': 'Button-up Shirt', 'img': os.path.join(MALE_PATH, 'Male_Trapezoid_button_up_shirt.jpg')},
-            {'name': 'Formal Coat', 'img': os.path.join(MALE_PATH, 'Male_Trapezoid_formal_coat.jpg')}
+            {'name': 'Button-up Shirt', 'img': os.path.join(MALE_PATH, 'Male_Trapezoid_Bottom_up_shirt.jpg')},
+            {'name': 'Formal Coat', 'img': os.path.join(MALE_PATH, 'Male_Trapezoid_Formal_Coat.jpg')}
         ],
         'Rectangle': [
-            {'name': 'Layered Shirt', 'img': os.path.join(MALE_PATH, 'Male_Rectangle_layered_shirt.jpg')},
-            {'name': 'Sweatshirt', 'img': os.path.join(MALE_PATH, 'Male_Rectangle_sweatshirt.jpg')},
-            {'name': 'Denim Jacket', 'img': os.path.join(MALE_PATH, 'Male_Rectangle_denim_jacket.jpg')},
-            {'name': 'Cargo Pants', 'img': os.path.join(MALE_PATH, 'Male_Rectangle_cargo_pants.jpg')},
+            {'name': 'Layered Shirt', 'img': os.path.join(MALE_PATH, 'Male_Rectangle_Layered_Shirt.jpg')},
+            {'name': 'Sweatshirt', 'img': os.path.join(MALE_PATH, 'Male_Rectangle_Sweatshirt.jpg')},
+            {'name': 'Denim Jacket', 'img': os.path.join(MALE_PATH, 'Male_Rectangle_Denim_jacket.jpg')},
+            {'name': 'Cargo Pants', 'img': os.path.join(MALE_PATH, 'Male_Rectangle_Cargo_Pants.jpg')},
             {'name': 'Plain Tee', 'img': os.path.join(MALE_PATH, 'Male_Rectangle_plain_tee.jpg')}
         ],
         'Inverted Triangle': [
