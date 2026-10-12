@@ -73,28 +73,53 @@ def extract_measurements(image_path, real_height_cm=None):
 
     shoulder_width_cm = dist(LEFT_SHOULDER, RIGHT_SHOULDER, scale)
     hip_width_cm = dist(LEFT_HIP, RIGHT_HIP, scale)
-    waist_width_cm_approx = (shoulder_width_cm + hip_width_cm) * 0.4
+    waist_width_cm_approx = (shoulder_width_cm * 0.3 + hip_width_cm * 0.7)
 
     bust_cm = shoulder_width_cm * 2.2
-    hip_cm = hip_width_cm * 1.5
     waist_cm = waist_width_cm_approx * 2.5
+    hip_cm = hip_width_cm * 3.8
+
+    print("Shoulder width:", shoulder_width_cm)
+    print("Hip width:", hip_width_cm)
+    print("Waist width approx:", waist_width_cm_approx)
+
+    print("Bust:", bust_cm)
+    print("Waist:", waist_cm)
+    print("Hip:", hip_cm)
+
+
 
     print("Bust:", bust_cm, "Waist:", waist_cm, "Hip:", hip_cm)
-    print("SHR:", round(bust_cm / hip_cm, 2), "WHR:", round(waist_cm / hip_cm, 2), "WBR:", round(waist_cm / bust_cm, 2)) 
 
-    shoulder_hip_ratio = round(bust_cm / hip_cm, 2) if hip_cm > 0 else 1.0
-    waist_hip_ratio = round(waist_cm / hip_cm, 2) if hip_cm > 0 else 1.0
-    waist_bust_ratio = round(waist_cm / bust_cm, 2) if bust_cm > 0 else 1.0
+    print("Bust/Hip Ratio:", round(bust_cm / hip_cm, 2))
+    print("Waist/Hip Ratio:", round(waist_cm / hip_cm, 2))
+    print("Waist/Bust Ratio:", round(waist_cm / bust_cm, 2))
+    print("Shoulder/Hip Ratio:", round(shoulder_width_cm / hip_cm, 2))
+    print("Shoulder/Bust Ratio:", round(shoulder_width_cm / bust_cm, 2))
+
+    # Prevent division by zero
+    hip_safe = hip_cm if hip_cm > 0 else 1
+    bust_safe = bust_cm if bust_cm > 0 else 1
+
+    bust_hip_ratio = bust_cm / hip_safe
+    waist_hip_ratio = waist_cm / hip_safe
+    waist_bust_ratio = waist_cm / bust_safe
+    shoulder_hip_ratio = shoulder_width_cm / hip_safe
+    shoulder_bust_ratio = shoulder_width_cm / bust_safe
 
     return {
-        'Bust': round(bust_cm, 1),
-        'Waist': round(waist_cm, 1),
-        'Hip': round(hip_cm, 1),
-        'Height': round(real_height_cm, 1),
-        'SHR': shoulder_hip_ratio,
-        'WHR': waist_hip_ratio,
-        'WBR': waist_bust_ratio
-    }
+    'Bust': round(bust_cm, 1),
+    'Waist': round(waist_cm, 1),
+    'Hip': round(hip_cm, 1),
+    'Shoulder': round(shoulder_width_cm, 1),
+    'Height': round(real_height_cm, 1),
+
+    'Bust_Hip_Ratio': bust_hip_ratio,
+    'Waist_Hip_Ratio': waist_hip_ratio,
+    'Waist_Bust_Ratio': waist_bust_ratio,
+    'Shoulder_Hip_Ratio': shoulder_hip_ratio,
+    'Shoulder_Bust_Ratio': shoulder_bust_ratio
+}
 
 @app.route("/")
 def home():
@@ -136,28 +161,31 @@ def upload():
             return render_template("upload.html", error=f"Image processing failed: {e}")
 
         # Prepare input for model
-        X_input = np.array([[measurements['SHR'], measurements['WHR'], measurements['WBR'], measurements['Height']]])
+        X_input = np.array([[
+    measurements['Bust_Hip_Ratio'],
+    measurements['Waist_Hip_Ratio'],
+    measurements['Waist_Bust_Ratio'],
+    measurements['Shoulder_Hip_Ratio'],
+    measurements['Shoulder_Bust_Ratio'],
+    measurements['Height']
+]])
         X_scaled = scaler.transform(X_input)
 
-        # Select correct model
-        # model = model_female if gender == "Female" else model_male # 💡 We keep the model loading but skip prediction
-
-        # pred = model.predict(X_scaled)[0] # 🚫 COMMENTED OUT: Skip ML prediction
-        # probs = model.predict_proba(X_scaled)[0] # 🚫 COMMENTED OUT: Skip ML prediction
-
-        # try: # 🚫 COMMENTED OUT: Skip confidence calculation
-        #     idx = list(model.classes_).index(pred)
-        #     confidence = round(probs[idx] * 100, 2)
-        # except ValueError:
-        #     confidence = 0
+        
             
-        # 💡 SOLUTION: Use the random prediction block to make the shape vary
-        # import random # Moved to the top for consistency, but works here too
-        possible_shapes = list(outfits[gender].keys())
-        pred = random.choice(possible_shapes)
-        confidence = 90.0 # Assign a high, fixed confidence since the prediction is now random
+        model = model_female if gender == "Female" else model_male
 
-        # 🔹 Fetch multiple random outfit images
+        pred = model.predict(X_scaled)[0]
+        probs = model.predict_proba(X_scaled)[0]
+
+        try:
+            idx = list(model.classes_).index(pred)
+            confidence = round(probs[idx] * 100, 2)
+        except ValueError:
+            confidence = 0
+
+
+
         outfit_list = get_random_outfits(pred, gender, count=8)
 
         display_measurements = {

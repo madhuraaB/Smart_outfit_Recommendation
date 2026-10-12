@@ -8,36 +8,47 @@ import warnings
 warnings.filterwarnings("ignore", category=FutureWarning)
 
 try:
-    df = pd.read_csv('body_shapes_dataset_gendered.csv')
+    df = pd.read_csv('body_measurements.csv')
     print(f"Dataset loaded: {len(df)} samples.")
 except FileNotFoundError:
     print("🚨 ERROR: body_shapes_dataset_gendered.csv not found. Please run generate_dataset.py first.")
     exit()
-
-# --- Feature Engineering: Create Ratios (CRITICAL STEP) ---
-df['SHR'] = df['Bust'] / df['Hip']      # Shoulder-Hip Ratio (Bust proxy)
-df['WHR'] = df['Waist'] / df['Hip']      # Waist-Hip Ratio
-df['WBR'] = df['Waist'] / df['Bust']     # Waist-Bust Ratio
+df['Hip'] = df['Hip'].replace(0, 1)
+df['Bust'] = df['Bust'].replace(0, 1)
+# -------- Feature Engineering --------
+# Ratios
+df['Bust_Hip_Ratio'] = df['Bust'] / df['Hip']
+df['Waist_Hip_Ratio'] = df['Waist'] / df['Hip']
+df['Waist_Bust_Ratio'] = df['Waist'] / df['Bust']
+df['Shoulder_Hip_Ratio'] = df['Shoulder'] / df['Hip']
+df['Shoulder_Bust_Ratio'] = df['Shoulder'] / df['Bust']
 
 # Features for high-confidence training are the Ratios and Height
-features = ['SHR', 'WHR', 'WBR', 'Height']
-target = 'BodyShape'
+features = [
+    'Bust_Hip_Ratio',
+    'Waist_Hip_Ratio',
+    'Waist_Bust_Ratio',
+    'Shoulder_Hip_Ratio',
+    'Shoulder_Bust_Ratio',
+    'Height'
+]
+target = 'Shape'
 
 df_female = df[df['Gender'] == 'Female'].copy()
 df_male = df[df['Gender'] == 'Male'].copy()
 from sklearn.utils import resample
 
 # Balance female data
-df_female = df_female.groupby('BodyShape', group_keys=False).apply(
+df_female = df_female.groupby('Shape', group_keys=False).apply(
     lambda x: resample(x, replace=True, 
-                       n_samples=df_female['BodyShape'].value_counts().max(), 
+                       n_samples=df_female['Shape'].value_counts().max(), 
                        random_state=42)
 )
 
 # Balance male data
-df_male = df_male.groupby('BodyShape', group_keys=False).apply(
+df_male = df_male.groupby('Shape', group_keys=False).apply(
     lambda x: resample(x, replace=True, 
-                       n_samples=df_male['BodyShape'].value_counts().max(), 
+                       n_samples=df_male['Shape'].value_counts().max(), 
                        random_state=42)
 )
 
@@ -55,10 +66,16 @@ X_male = scaler.transform(df_male[features])
 y_male = df_male[target]
 
 # --- 2. Model Training (RandomForestClassifier with high estimators) ---
-# Using n_estimators=300 increases model robustness and confidence.
 
 print("\n--- Training Female Model (Ratio-Based) ---")
-model_female = RandomForestClassifier(n_estimators=300, max_depth=10, random_state=42, class_weight='balanced')
+model_female =RandomForestClassifier(
+    n_estimators=500,
+    max_depth=12,
+    min_samples_split=4,
+    min_samples_leaf=2,
+    random_state=42,
+    class_weight='balanced_subsample'
+)
 model_female.fit(X_female, y_female)
 joblib.dump(model_female, 'body_shape_model_female.pkl')
 print("✅ Female Model saved: body_shape_model_female.pkl")
